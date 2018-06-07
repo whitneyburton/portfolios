@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-I want to become more familiar with HTML and CSS, but I really want to dive deep onto JS. There's a lot of really cool things that can be done with the language, and I want to gain as much as I can from it. I really also want to experience a community like I haven't before. I want to reach out when I need it most and embrance not knowing things.
+I want to become more familiar with HTML and CSS, but I really want to dive deep onto JS. There's a lot of really cool things that can be done with the language, and I want to gain as much as I can from it. I really also want to experience a community like I haven't before. I want to reach out when I need it most and embrace not knowing things.
 
 ## Rubric Scores
 
@@ -59,13 +59,18 @@ To build a static site based off a pre-existing design as a way to test out HTML
 #comments
 Dogs! I didn't have nearly as hard of a time with static comp2 as I did with SC1 because I planned out the project beforehand. I knew I was going to use grid on the cards-section, and I knew I was going to do the project on Max Fund, the same shelter I got my dog at, so I was able to knock this out pretty early and focus entirely on 2DoBox paired project.
 
+#### (Static Comp 3)
+
 * [GitHub URL](https://github.com/imsteaky/nd-static-comp-challenge3-Refactor)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-3.html)
 
 To build a static site based off a pre-existing design as a way to test out HTML / CSS.
 
 #comments
-Poor time management all around! I finished up ToDo Box pretty early and decided to sink all my remaining time into studying Mythical Creatures and prepare for thge DOM challenge. definitely a mistake that I paid for in the end as it wasn't as responsive as it should have been. I revisted this within a few hours of turning it in (and taking a nap) and was able to refactor and clean it up using Grid. Much better the second time around.
+Poor time management all around! I finished up ToDo Box pretty early and decided to sink all my remaining time into studying Mythical Creatures and prepare for the DOM challenge. definitely a mistake that I paid for in the end as it wasn't as responsive as it should have been. I revisted this within a few hours of turning it in (and taking a nap) and was able to refactor and clean it up using Grid. Much better the second time around.
+
+
+## C: Group Work & Projects
 
 #### (Linked List)
 
@@ -88,9 +93,6 @@ JS
 
 Lots of inconsistencies with indentation and semicolons - look at the style guides!
 Could be a bit more descriptive with naming conventions
-
-
-## C: Group Work & Projects
 
 #### (IdeaBox)
 
@@ -123,7 +125,7 @@ UI Make input text different color from placeholder text remove quotes around bo
 ARIA all interactive elements should have an aria-label
 HTML Be careful with elements with only one child use cdn version of jquery
 GIT Make sure to use imperative present voice, be more descriptive with description
-JS Make sure you are using parameters in your functions, e.g. IdeaCard id paramete
+JS Make sure you are using parameters in your functions, e.g. IdeaCard id parameter
 
 (feedback to me)
 
@@ -147,13 +149,13 @@ My previous career saw me in a very male-focused position being in a combat unit
 
 * [GitHub URL](missing)
 
-Hooboy. Once the Pentathalon started I was finally hit with the stress bus over managing my time / energy properly and making sure things got completed on time and if I'd be able to move on the mod2 / if I'd be successful at all here. Most (all) of this was me unnecessarily getting inside my head, and it was apparent how ineffective it was at motivating me to get things done on time. I'm really glad I got to go to this session, because it gave me the chance to open up to other people in a samilar space as me and let me talk about the things that have been bothering me, effectively removing them. I would highly suggest going to this gear up again.
+Hooboy. Once the Pentathalon started I was finally hit with the stress bus over managing my time / energy properly and making sure things got completed on time and if I'd be able to move on the mod2 / if I'd be successful at all here. Most (all) of this was me unnecessarily getting inside my head, and it was apparent how ineffective it was at motivating me to get things done on time. I'm really glad I got to go to this session, because it gave me the chance to open up to other people in a similar space as me and let me talk about the things that have been bothering me, effectively removing them. I would highly suggest going to this gear up again.
 
 ## E: Community Participation
 
 ### Playing a Part
 
-My biggest goal with coming to Turing (outside of coding) has definitely been embracing the community here, and I think I've done that incredibly well. I've spend the last 3-4 years at my previous job fairly isolated, and living in a fairly isolated area, so getitng to work well with others was my biggest focus. I think I've done this incredibly well so far, and I thorougly enjoy working with classmates from different mods / programs and trying to understand their approach.
+My biggest goal with coming to Turing (outside of coding) has definitely been embracing the community here, and I think I've done that incredibly well. I've spend the last 3-4 years at my previous job fairly isolated, and living in a fairly isolated area, so getting to work well with others was my biggest focus. I think I've done this incredibly well so far, and I thoroughly enjoy working with classmates from different mods / programs and trying to understand their approach.
 
 ------------------
 
@@ -161,8 +163,5 @@ My biggest goal with coming to Turing (outside of coding) has definitely been em
 
 ### Notes
 
-( Leave blanks for reviewers )
-
 ### Outcome
 
-( Leave blanks for reviewers )
