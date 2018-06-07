@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-I really wanted to absorb as much information as possible and pass the module. I also wanted to be confident in developing.
+I really wanted to absorb as much information as possible and pass the module. I also wanted to be confident in developing. The process of breaking complicated problems down seemed simple in my unrelated previous life experiences, but in web development, seemed overwhelming. I wanted a better grasp at how to tackle my learning in this new feild.
 
 ## Rubric Scores
 
