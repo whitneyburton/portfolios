@@ -1,7 +1,7 @@
 
 # Portfolio Defense - 1711 FE - Kailin Cannon
 
-[30 Day Plan]()
+[30 Day Plan](https://gist.github.com/Kc2693/7bc6529e93c1caa129f46c573e729821)
 
 ## What was your biggest achievement of the module?
 
