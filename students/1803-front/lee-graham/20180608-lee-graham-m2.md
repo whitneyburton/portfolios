@@ -1,10 +1,9 @@
 
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Lee Graham - M2 Portfolio
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
-
+SLAY!
 ## Rubric Scores
 
 * **A: End-of-Module Assessment**: X
@@ -17,8 +16,7 @@
 
 ## A: End of Module Assessment
 
-(Indicate whether you passed or failed the end of module assessment)
-
+I PASSED!!!  
 
 ## B: Individual Work & Projects
 
