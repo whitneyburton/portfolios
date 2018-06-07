@@ -17,3 +17,5 @@ I am looking forward to spending the next inning learning new technologies and a
 In spite of the fact that I will not be entering the job market this summer, I have stood by my peers through our professional development.  As they strengthen their resumes, build their networks, and make themselves marketable assets; so do I.  I have engaged with numerous contacts in the Vegas Tech scene and have meetings scheduled with two influential CEOs/owners in Las Vegas this summer.  And I'm just getting started.
 
 Finally getting to work with back-end technologies has reinvigorated my desire to be a complete developer...both front-end and back-end.  I am excited to hone my front-end skills while continually integrating back-end principles, languages and frameworks.  I intend to start the back-end pre-work immediately following graduation and finding ways of incorporating what I've learned into my portfolio.  My end-goal for Turing is to enter my new career as well-educated, well-rounded and well-connected as I can possibly be.
+
+[30-Day Plan](https://calendar.google.com/calendar/r/week/2018/6/11)
