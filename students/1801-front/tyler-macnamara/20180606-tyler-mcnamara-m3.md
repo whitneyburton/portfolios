@@ -110,4 +110,12 @@ We watched a movie that discussed the large gender gap in the coding world. It w
 
 ## Community Participation
 
-This inning I made it a priority to help out classmates and students in other mods when I noticed someone struggling, particularly in Redux and Firebase, two subjects I felt confident in. I helped clean up the kitchen multiple times, attended demo night, and tried to participate in in activities going on with classmates.  
+This inning I made it a priority to help out classmates and students in other mods when I noticed someone struggling, particularly in Redux and Firebase, two subjects I felt confident in. I helped clean up the kitchen multiple times, attended demo night, and tried to participate in in activities going on with classmates. 
+
+## Outcome: PASS
+
+* **A: Individual Work & Projects**: 3+
+* **B: Group Work & Projects**: 4
+* **C: Professional Skills**: 3
+* **D: Community Participation**: 3
+* **E: Final Assessment**: 4
