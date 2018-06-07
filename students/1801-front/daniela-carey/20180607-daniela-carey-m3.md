@@ -86,8 +86,15 @@ This session, I contributed to the community via Iron FE and pairing with Mod 2 
 -----------------------
 
 ## Final Review
+
+1. End-of-Module Assessment: 4
+2. Individual Work & Projects: 4
+3. Group Work & Projects: 4
+4. Professional Skills: 4
+5. Community Participation: 4
+
 ### Notes
 
 
-### Outcome
+### Outcome: PASS
 
