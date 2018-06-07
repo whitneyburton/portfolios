@@ -1,5 +1,5 @@
 
-# Portfolio Defense - 1711 FE - Ngoc Phan
+# Portfolio Defense - 1711 FE - Kailin Cannon
 
 [30 Day Plan]()
 
