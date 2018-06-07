@@ -140,10 +140,17 @@ Overall, I feel like I did an adequate job of being involved in the Turing commu
 
 ## Final Review
 
+* **A: End-of-Module Assessment**: 3.5
+* **B: Individual Work & Projects**: 3.5
+* **C: Group Work & Projects**: 4
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 3
+
+
 ### Notes
 
 ( Leave blanks for reviewers )
 
-### Outcome
+### Outcome: PASS
 
-( Leave blanks for reviewers )
+
