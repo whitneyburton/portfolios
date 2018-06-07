@@ -27,11 +27,11 @@
 * [GitHub URL](https://github.com/wehttamclan/mastermind)
 * [Original Assignment](http://backend.turing.io/module1/projects/mastermind)
 
-(You are to build a playable game of Mastermind that runs in a REPL interface.)
+You are to build a playable game of Mastermind that runs in a REPL interface.
 
-(In runner, your objects don't instance variables
+In runner, your objects don't instance variables
 Some of your classes can be condensed into one class
-Correct elements should be broken into helper methods)
+Correct elements should be broken into helper methods
 
 ()
 
