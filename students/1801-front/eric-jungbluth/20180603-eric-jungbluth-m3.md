@@ -98,10 +98,14 @@ I guess the biggest way I participated was by leading one session of iron-fe eve
 
 ## Final Review
 
+* **A: End-of-Module Assessment**: 4
+* **B: Individual Work & Projects**: 3.5
+* **C: Group Work & Projects**: 3.5
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 4
+
 ### Notes
 
 ( Leave blanks for reviewers )
 
-### Outcome
-
-( Leave blanks for reviewers )
+### Outcome: PASS
