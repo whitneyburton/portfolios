@@ -400,7 +400,7 @@ Takeaways
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/Mod1_Week3_Code_debugging_compact_version.md)
 
 Takeaways
- * Women in the workforce are generally scrutinized nore than men and that women may not realize due to the 'normality' behind it. More women leave their tech careers in 10 years than men due to constant harassment and to non-promotions.
+ * Women in the workforce are judged more than men and women may not realize it due to the 'normality' behind it. More women leave their tech careers in 10 years than men due to constant harassment and to non-promotions due to gender inequality. Obviously women are not being given the same opportunities as men in tech, and are mostly pushed away at a young age.
 
 ## E: Community Participation
 
