@@ -94,6 +94,9 @@ JS
 Lots of inconsistencies with indentation and semicolons - look at the style guides!
 Could be a bit more descriptive with naming conventions
 
+#Partner Feedback
+Nick was a very organized partner who took time to structure our workflow into actionable itemized lists. Using Trello as a resource, we were able to track our progress through the various phases and this prevented us from misusing our work time.  Nick also was excellent at completing his designated tasks on time and then helping me solve the problems i had. Nick excels at solving complex coding problems by being unafraid to try different ideas until something works. The only downside to this strategy is sometimes the working code is complex and difficult for others coming into the codebase to understand quickly. To remedy this going forward, Nick could go back and refactor his code to make it easier for others to understand. - Michael Lyons
+
 #### (IdeaBox)
 
 * [GitHub URL](https://github.com/imsteaky/ideabox)
@@ -111,6 +114,9 @@ No search or content editable
 Looks great!!!
 Look into handling overflow from the cards differently so that cards maintain consistency in height
 
+#Partner Feedback
+Excellent job styling the page and making it mobile responsive. Also, seeking out the Mod-2 peeps to help with pairing definitely helped us progress through the project quicker! I'd say prioritizing time management more would be beneficial for future partners but we were both guilty of spending too much time on Static Comp 1 so this point is kind of null. - Thomas Scully
+
 #### (2DoBoxPivot)
 
 * [GitHub URL](https://github.com/imsteaky/2DoBox-Pivot)
@@ -118,7 +124,7 @@ Look into handling overflow from the cards differently so that cards maintain co
 
 2DoBox Pivot saw us taking a pre-existing project, written by someone else entirely, and refactoring / improving it to meet new standards. It was a in interesting experience taking someone elses code and understanding how it works and how you could refactor it.
 
-#comments
+#Comments
 
 Functional Partial phase 3, through importance
 UI Make input text different color from placeholder text remove quotes around body Show completed items,should have completed class
@@ -127,7 +133,8 @@ HTML Be careful with elements with only one child use cdn version of jquery
 GIT Make sure to use imperative present voice, be more descriptive with description
 JS Make sure you are using parameters in your functions, e.g. IdeaCard id parameter
 
-(feedback to me)
+#Partner Feedback
+Nick was incredibly cooperative throughout the entirety of the project.  Any personal deadlines we had set, was met with diligence and promptness from Nick.  In addition, He was adamant about distributing the workload as evenly as possible to not only be fair, but to ensure the best possible outcome.  Most importantly, Nick was very responsive and constructive to any feedback, questions, or comments i had during our project. Nick has a healthy list of strengths when it comes to programming.  One of those strengths is CSS.   Knowing that Nick is exceptionally proficient in CSS, I felt that his focus on Static Comp 2 took away from some of his focus on 2DoBox, so I would suggest he communicate with his next partner more about how to prioritize work together. - Paul Kim
 
 ## D: Professional Skills
 Telling a proper story is essential and working on a way to spin mine into a positive light has something I've always struggled with. Not only do I generally feel that my story isn't worth hearing at times, but also that it's much better told from a point of struggle and my failures along the way (as thee are maaaanny). Putting everything in a positive light is something I'll have to continue working towards throughout my time here.
