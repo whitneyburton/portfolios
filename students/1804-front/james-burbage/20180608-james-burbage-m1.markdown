@@ -6,17 +6,17 @@ I really wanted to absorb as much information as possible and pass the module. I
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: 
-* **B: Individual Work & Projects**: 
-* **C: Group Work & Projects**: 
-* **D: Professional Skills**: 
-* **E: Community Participation**: 
+* **A: End-of-Module Assessment**: 2
+* **B: Individual Work & Projects**: 2.5
+* **C: Group Work & Projects**: 2.5
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 3
 
 -----------------------
 
 ## A: End of Module Assessment
 
-(Indicate whether you passed or failed the end of module assessment)
+FAILED
 
 
 ## B: Individual Work & Projects
