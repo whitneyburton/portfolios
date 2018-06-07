@@ -90,10 +90,15 @@ This mod I was a recipient of Turing Top talks and I look forward to speeking in
 
 ## Final Review
 
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 3
+
 ### Notes
 
 ( Leave blanks for reviewers )
 
-### Outcome
+### Outcome: PASS
 
-( Leave blanks for reviewers )
