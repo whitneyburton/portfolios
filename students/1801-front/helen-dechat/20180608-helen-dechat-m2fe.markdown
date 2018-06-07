@@ -94,10 +94,16 @@ I continued to make lots of coffee. I also started the dishwasher once.
 
 ## Final Review
 
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3.5
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 3
+
+
 ### Notes
 
 ( Leave blanks for reviewers )
 
-### Outcome
+### Outcome: PASS
 
-( Leave blanks for reviewers )
