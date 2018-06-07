@@ -3,7 +3,7 @@
 
 ## Areas of Emphasis
 
-During this module I set out to try and absorb as much knowledge as possible. I wanted to build a solid foundation since I know that the things we learned in this mod will be the bulk of what I'll be doing on the job. I set out to take this opportunity as serious as possible to gain the most out of this school. I knew going in that this was going to be hard and there will be moments where I may struggle but I wanted to keep an optimistic attitude for what my future will hold when I finish Turing. I know I tend to keep to myself a lot so I may not be as active in the community as I should.
+During this module I set out to try and absorb as much knowledge as possible. I wanted to build a solid foundation since I know that the things we learned in this mod will be the bulk of what I'll be doing on the job. I set out to take this opportunity as serious as possible to gain the most out of this school. I knew going in that this was going to be hard and there will be moments where I may struggle but I wanted to keep an optimistic attitude for what my future will hold when I finish Turing. I know I tend to keep to myself a lot so I may not be as active in the community as I should but I tried to restart the design posse but didn't have much success/ interest.  
 
 ## Rubric Scores
 
@@ -31,7 +31,7 @@ The individual projects I completed this Mod were SwapiBox and my Personal Proje
 * [Evaluation](https://github.com/daughedm/front-end-submissions-public/blob/master/1801/mod-3/swapi/doc/scores.md)
 
 
-For SwapiBox I was tasked to create a site that pulled data in from the Star Wars Api and display it as cards. The big take away for this was to learn react and fetch calls on your own to really solidify their concepts. This project really challenged me by relying on myself to all the inner details of react with out relying on anyone else. 
+For SwapiBox I was tasked to create a site that pulled data in from the Star Wars Api and display it as cards. The big take away for this was to learn react and fetch calls on your own to really solidify their concepts. This project really challenged me by relying on myself to learn all the inner details of react with out relying on anyone else. 
 
 **Evaluator: Christie**
 
@@ -98,7 +98,7 @@ N/A
 * [Original Assignment](https://github.com/turingschool-examples/movie-tracker)
 * [Evaluation](https://github.com/daughedm/front-end-submissions-public/blob/master/1801/mod-3/movie-tracker/sage-doc-alan/scores.md)
 
-This was the first time using redux in a project as well as router. We were tasked to create an application that pulls movies from the movieDB api and populate them on the page. The user is able to select and favorite movies as well as have a user account tha stores their favorites. This project had a lot going on and was by far the hardest project I've been a part of at turing. 
+This was the first time using redux in a project as well as router. We were tasked to create an application that pulls movies from the movieDB api and populate them on the page. The user is able to select and favorite movies as well as have a user account tha stores their favorites. This project had a lot going on and was by far the hardest project I've been a part of at turing. We learned a lot and worked extremely hard on this project and I believe it showed in the end.
 
 **Evaluator: Will**  
 
@@ -116,7 +116,7 @@ Make multiple actions files and import into one.
 
 
 ## D: Professional Skills
-This mod, we learned about how to tailor our resumes and learned about getting better at answering interview questions.
+This mod, we learned about how to tailor our resumes and learned about getting better at answering interview questions. We also were tasked to build an alumni profile page for after Turing.
 
 ### Gear Up
 #### Micro-Agression
@@ -134,7 +134,7 @@ In this session we talked about all the diiferent ways AI is effecting the world
 ## E: Community Participation
 
 ### Playing a Part
-Overall, I feel like I did an adequate job of being involved in the Turing community. I took advantage of pairings when needed and reached out to alums for help. I helped classmates with their projects when I could help and tried to attend a few social gatherings when I could. For the next mod I'm challenging myself to become more invovled in the community by helping others in the mods below me as well as trying to be more social and connecting with other mods other than my own. I have been toying around with an idea to have a design workshop over lunch to help turing students who struggle with design. I have noticed in my time here that design is often considered an afterthought but it can be a big asset in getting you work noticed for potential jobs.
+Overall, I feel like I did an adequate job of being involved in the Turing community. I helped classmates with their projects when I could help and tried to attend a few social gatherings when I could. For the next mod I'm challenging myself to become more invovled in the community by helping others in the mods below me as well as trying to be more social and connecting with other mods other than my own. I am going to head the design posse again and hopefully it can garner more interest than I had last mod. I have noticed in my time here that design is often considered an afterthought but it can be a big asset in getting your work noticed for potential jobs so I want to help others more in making their designs better..
 
 ------------------
 
