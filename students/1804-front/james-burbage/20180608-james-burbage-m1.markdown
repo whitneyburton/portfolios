@@ -128,6 +128,10 @@ Pairing/Collaboration
 Technical Vocabulary
 * Proficient
 
+#### My Feedback
+
+ * I had a great time working with you! I thought we got along really well and it made the project more fun to work on for both of us. I could tell you have good attention to detail, and you were able to notice quickly when a word was wrong or something was in the wrong spot. You were picking up concepts quickly and came in with the clutch recursion idea at the end of the project! You also were very eager to get your javascript knowledge up and dove into the codeacademy lesson, which I thought was cool. I would encourage you to try to get better muscle memory for writing javascript in proper formatting and really keeping in mind where everything is opening and closing. So if someone says "lets make a function with a conditional that takes these 2 parameters and call it using these arguments on this event listener", you can write it out without having to think too much about the syntax. Keep up the codeacademy javascript lesson and also try to take the javascript file we wrote together and put it side-by-side with a blank file, and just type it out over and over again and really try to understand what every line is doing each time you type it. Then do it a few times without looking at the original. 
+
 ### IdeaBox
 
 * [GitHub URL](https://github.com/james-burbage/idea-box)
@@ -243,6 +247,10 @@ Technical Vocab
 * Advanced Beginner Can articulate what is going on in the overall codebase and uses the correct terminology some of the time.
 * Proficient Can articulate what is going on in the codebase, line by line, using the correct terminology most of the time. Developer can speak to and answer questions that utilize technical vocabulary.
 
+#### My Feedback
+
+ * James did a great job of staying focused and identifying attainable goals to accomplish for our project. Moving forward your pairings will be more successful with keeping an open mind and thinking out your process with your partner. These projects are meant to make us better, and your partner wants to get better just as much as you, so I would be empathetic to your partner in those regards. 
+
 ### 2DoBox
 
 * [GitHub URL](https://github.com/laurakwhit/2DoBox-Pivot)
@@ -341,6 +349,9 @@ TERMINOLOGY
 
 Technical Vocabulary
 * Advanced Beginner
+
+#### My Feedback
+ * I really appreciated your willingness to stay in contact (even over the weekend) and stay after class to work together. I know being sick definitely didn't help, but I think going forward it might be beneficial to dive into the javascript a little more. Even if you don't work on a piece of code, I think it is always a good idea to know why it's there. This could just mean sitting down with your partner and making sure that you know exactly what it is doing. All in all, it was a pleasure working with you James and I look forward to collaborating again in the future!
 
 ## D: Professional Skills
 
