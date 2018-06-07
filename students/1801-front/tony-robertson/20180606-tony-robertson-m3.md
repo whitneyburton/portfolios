@@ -258,4 +258,8 @@ Leading weekly sessions of Iron FE was an amazing experience. It wa a struggle t
 
 ### Outcome
 
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**: 4
+* **B: Individual Work & Projects**: 3.5
+* **C: Group Work & Projects**: 4
+* **D: Professional Skills**: 3.5
+* **E: Community Participation**: 4
