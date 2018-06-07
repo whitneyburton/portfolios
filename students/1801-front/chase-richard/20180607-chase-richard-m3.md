@@ -95,10 +95,17 @@
 
 ## Final Review
 
+1.  End-of-Module Assessment: 4
+2.  Individual Work & Projects: 3.5
+3.  Group Work & Projects: 3.5
+4.  Professional Skills: 3
+5.  Community Participation: 3
+
+
 ### Notes
 
 ( Leave blanks for reviewers )
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PASS
