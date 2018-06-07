@@ -231,7 +231,7 @@ Redux, Router, React we just learned all three technologies and had a great proj
 - enjoyed working on group projects with others
 - has plan for professional development
 
-### Outcome
+### Outcome Pass
 
 * **A: End-of-Module Assessment**: 3
 * **B: Individual Work & Projects**: 3
