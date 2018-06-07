@@ -38,11 +38,9 @@ A react app that pulls in Star Wars data for planets, people, etc, and displays 
 * [GitHub URL](https://github.com/EricMellow/personal-project)
 * [Original Assignment](http://frontend.turing.io/projects/self-directed-project.html)
 
-(description)
+Apptivity Zone (AZ) is a react web app to help you find spontaneous activities to join! Without signing in, you can use AZ to search for activities in your zip code. To create an activity, just sign up and add your activity details. The pin for your activity will only display on the map for the duration you set when creating the activity. Once logged in, you can also search for activities in your area by type of activity.
 
-(evaluation comments)
-
-(evaluation scores)
+* [Evaluation Scores/Comments](https://github.com/turingschool/front-end-submissions-public/blob/master/1801/mod-3/personal-projects/Eric-Jungbluth/scores.md)
 
 ## C: Group Work & Projects
 
@@ -70,7 +68,9 @@ A React app that pulls movie data from an API and displays current movies, with 
 
 
 ## D: Professional Skills
-(Intro)
+Did a lot of stuff to prepare for getting a job, from creating a new resume to some warm outreach. Now it's time to get this job search started!
+
+* [Turing Online Portfolio](https://www.turing.io/alumni/eric-jungbluth)
 
 ### Gear Up
 
@@ -78,15 +78,15 @@ A React app that pulls movie data from an API and displays current movies, with 
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/Mod3_Week1_Microaggressions_update.md)
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+Microagressions are sneaky, because you don't always realize right away when they are happening, so we have to try and be very aware. I also learned that as a white male, it's often easier for me to speak up against these microaggressions, so I need to make sure and do my part if that situation should ever arise.
 
 #### Code Debugging the Gender Gap
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+This gear up was pretty obvious to me. Still, I find it incredible that the mindset that women are somehow less capable is even still around today. I guess I'm a bit shielded from it because of the type of people I surround myself with. Oh, and because I'm a man. It's like racism, in a way. We should be past it by now, and it's hard for me to realize it still exists because of the people I surround myself with, but somehow it's still out there.
 
 #### Winning through failure
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+This, unfortunately, was probably the least helpful student-led Gear Up I've attended at Turing. No offense to the students who did it, but it just wasn't very helpful. It was mostly about how failure is common, and it's through our failures and overcoming them that we can finally attain our goals, but there just wasn't much learning or any actionable takeaways.
 
 ## E: Community Participation
 
