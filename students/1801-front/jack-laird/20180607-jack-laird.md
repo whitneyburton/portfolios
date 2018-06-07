@@ -63,8 +63,9 @@ The point of this project was to take use data from a movie API, using React, di
 Score Avg: 3.5
 
 ## D: Professional Skills
-(Intro)
+ [Alumni Profile](https://www.turing.io/alumni/jack-laird)
 
+ This mod I used tools like linkedin to reach out to companies for a job that I'm interested in. I need to work on cold out reach and continue to practice my skills for code challeneges. 
 ### Gear Up
 
 - [Microaggressions](https://github.com/turingschool/gear-up/blob/master/Mod3_Week1_Microaggressions_update.md)
