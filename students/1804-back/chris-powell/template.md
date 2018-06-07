@@ -99,34 +99,35 @@ to model an online sales engine.
 N/A
 
 (evaluation scores)
-N/A
+Ruby Syntax & Style - 3
+Breaking Logic into Components - 3
+Test-Driven Development - 3
+Functionality - 3
+Version Control - 3
 
 (feedback to me)
 N/A
 
 ## D: Professional Skills
-(Intro)
+As a repeater I was not required to participate in these sessions.
 
 ### Gear Up
 #### (Session Name)
-
-* [GitHub URL]()
-
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
 
 ## E: Community Participation
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
-
-------------------
+During this mod I made plenty of friendships and helped people
+in the beginning with the knowledge I had from the previous iteration.
+The iteration was full of some very adept minds so the tables turned after
+approximately week 3, and I found myself asking them for answers. I feel this
+interaction is more like the world of software development, there is no one
+person who has the answers to everything and asking for advice is paramount.
 
 ## Final Review
 
 ### Notes
-
-( Leave blanks for reviewers )
 
 ### Outcome
 
