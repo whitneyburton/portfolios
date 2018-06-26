@@ -20,8 +20,6 @@ What did you learn from your paired projects?
 
 ## Community
 
-What was your favorite Gear Up? Least favorite? Why?
-
 How did you contribute to the Turing community this module?
 
 What would you like to do to contribute next module?
