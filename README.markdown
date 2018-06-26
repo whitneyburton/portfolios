@@ -36,7 +36,6 @@ Your promotion to the next module is based upon a summative assessment coined "T
   4. Update placeholder text in your file.
   5. Commit your changes, push to your remote repo, and create a PR to this repo by 2:30p the day prior to your portfolio review.
 
-
 ### Module 1 (Front-end)
 
 Your promotion to the next module is based upon a summative assessment coined the Pentathlon. The Pentathlon includes:
@@ -53,8 +52,6 @@ Your completed portfolio is also comprised of the following required material:
   * Linked List or Foto Finder
   * Idea Box
   * 2DoBox Pivot
-* Community:
-  * A recap of reflections from Gear Up
 
 You may optionally elect to include a status of "pass", "fail", "pending" for each of the individual Pentathlon challenges in your portfolio, but it is not required. Your instructors will send your Pentathlon challenge scores to you upon completion of those evaluations and in advance of portfolio reviews.
 
@@ -70,8 +67,6 @@ You may optionally elect to include a status of "pass", "fail", "pending" for ea
   * Include what you learned/took away from the project.
 * Evaluated projects: Little Shop, Bike Share
 * Assessments: Final
-* Community:
-  * A recap of reflections from Gear Up
 
 ### Module 2 (Front-end)
 
@@ -80,7 +75,6 @@ You may optionally elect to include a status of "pass", "fail", "pending" for ea
 * Included Projects:
  * Weatherly
 * Community:
-  * A recap of reflections from Gear Up
   * Summary of how you've contributed to the community
 
 
@@ -90,10 +84,6 @@ You may optionally elect to include a status of "pass", "fail", "pending" for ea
 * Included Projects: Self-Directed Project, Rales Engine, Cloney Island
 * Bonus Project (not required): APIcurious
 * Something valuable you've taken away from your posse.
-* Community:
-  * A recap of reflections from Gear Up
-
-*Professional Development does not need to be included in the portfolio. Submit your deliverables [here](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions)*
 
 ### Module 3 (Front-end)
 
@@ -101,16 +91,13 @@ You may optionally elect to include a status of "pass", "fail", "pending" for ea
 * Individual Self Assessment 
 * Final Assessmnet (PASS/FAIL)
 * Included Projects: Headcount 2.0 (Group), SWAPIBox (Individual), Movie Tracker (Group), and Self-Directed Project (Individual)
-* A recap of your reflections from Gear Up
 * A summary of how you've contributed to the community
-
-*All of your PD deliverables must be completed and submitted [here](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions) before your portfolio review*
 
 ### Module 4 (Back-end)
 
 * You will prepare and present a 10-12 minute overview of your module to a panel of reviewers. Specific instructions [are here](https://gist.github.com/LouisaBarrett/03aa5567937943ca274437205bc35271). Please note that a markdown should be provided as well as the slide deck for presentation
 
-* A [30-day post-grad job search action plan](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md) must be linked in the markdown and send to your coach.
+* A [30-day post-grad job search action plan](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md) must be linked in the markdown and sent to your coach.
 
 ### Module 4 (Front-end)
 
