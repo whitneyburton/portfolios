@@ -10,6 +10,12 @@ What did you struggle most with this module? What did you learn from that strugg
 
 Link your blog post here. Include a short description of your topic (one sentence is fine).
 
+## ActiveRecord Obstacle Course
+
+Link your finished ActiveRecord Obstacle Course here.
+
+Was this helpful for practicing ActiveRecord?
+
 ## Projects
 
 What were your favorite projects this module? Least favorite? Why?
