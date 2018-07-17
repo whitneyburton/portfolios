@@ -59,6 +59,7 @@ You may optionally elect to include a status of "pass", "fail", "pending" for ea
 
 * Evaluation notes - You need to take notes during assessments/evaluations
 * Blog post (>=1)
+* ActiveRecord Obstacle Course (link to your finished repo)
 * If you're in a posse - please include (in the Being a Community Member section):
   * a blurb about what you did with your posse over the module
   * your favorite thing about the posse experience
