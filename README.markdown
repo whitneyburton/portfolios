@@ -96,13 +96,13 @@ You may optionally elect to include a status of "pass", "fail", "pending" for ea
 
 ### Module 4 (Back-end)
 
-* You will prepare and present a 10-12 minute overview of your module to a panel of reviewers. Specific instructions [are here](https://gist.github.com/LouisaBarrett/03aa5567937943ca274437205bc35271). Please note that a markdown should be provided as well as the slide deck for presentation
+* You will prepare and present a 10-12 minute overview of your module to a panel of reviewers. Specific instructions [are here](https://github.com/turingschool/portfolios/blob/master/m4-portfolio-presentation.md). Please note that a markdown should be provided as well as the slide deck for presentation
 
 * A [30-day post-grad job search action plan](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md) must be linked in the markdown and sent to your coach.
 
 ### Module 4 (Front-end)
 
-* You will prepare and present a 10-12 minute overview of your module to a panel of reviewers. Specific instructions [are here](https://gist.github.com/LouisaBarrett/03aa5567937943ca274437205bc35271)
+* You will prepare and present a 10-12 minute overview of your module to a panel of reviewers. Specific instructions [are here](https://github.com/turingschool/portfolios/blob/master/m4-portfolio-presentation.md)
 
 * Your [30-day post-grad job search action plan](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md) must be linked in the markdown and sent to your coach.
 
