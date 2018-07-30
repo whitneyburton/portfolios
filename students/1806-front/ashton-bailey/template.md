@@ -1,4 +1,4 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Ashton Bailey - M1 Portfolio
 
 ## Areas of Emphasis
 
@@ -21,9 +21,20 @@
 
 ## B: Individual Work & Projects
 
-(Intro)
+Each of these projects increased in difficulty and time required to complete. As I progressed through them, I learned a little more about time management and balancing the demands of these and of the paired projects. The biggest non-technical takeaway was being able to communicate with my partner about the time I needed to dedicate to my own projects.
 
-#### (Project Name)
+#### Number Guesser
+
+* [GitHub URL](https://github.com/ashtonkbailey/number-guesser)
+* [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+#### Static Comp 1
 
 * [GitHub URL]()
 * [Original Assignment]()
@@ -33,6 +44,30 @@
 (evaluation comments)
 
 (evaluation scores)
+
+#### Static Comp 2
+
+* [GitHub URL]()
+* [Original Assignment]()
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+#### Static Comp 3
+
+* [GitHub URL]()
+* [Original Assignment]()
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+
 
 ## C: Group Work & Projects
 
