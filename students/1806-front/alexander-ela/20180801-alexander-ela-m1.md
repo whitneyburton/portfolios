@@ -2,7 +2,9 @@
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+My primary goals at the beginning of this module were as follows:
+1. To become proficient in HTML, CSS, and Javascript fundamentals to the point where I felt comfortable practicing and experimenting with each on my own.
+2. To gain an accurate sense of whether or not I could develop a genuine passion for certain areas of programming so that I can actually enjoy the job I eventually get.
 
 ## Rubric Scores
 
