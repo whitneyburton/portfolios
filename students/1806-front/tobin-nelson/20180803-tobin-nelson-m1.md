@@ -469,7 +469,7 @@ You will be inheriting someone’s previous IdeaBox and pivoting it over to 2DoB
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+I have really enjoyed being part of the community here. Everyone is so open and positive and I always strive to do the same. With our projects, I've tried to do everything to support my partners and in the class, I'm eager to help others when and where I can. One of the main things I have thought about is embracing the positive energy at Turing and use it to support everyone throughout a difficult process. I feel a part of the class and community, and I feel we can all lean on each other throughout this process. In addition, I have been excited to participate and attend outside of class activities sush as demo nights.
 
 ------------------
 
