@@ -134,11 +134,34 @@ Number guesser was the initial project at Turing that helped get me off the grou
 
 (description)
 
-(evaluation comments)
+## Student: Cierra and Cole
+## Evaluator: David Whitaker
+## Notes/What To Work On:
 
-(evaluation scores)
+### HTML
+* use aria labels on inputs
 
-(feedback to me)
+### CSS
+* consider moving element selectors to the top
+* Love those organizational comments
+* consider using classes more
+
+### JS
+* Great style and naming conventions
+* Use constructor functions!
+* Separate the data model from the markup - the way things are displayed will always change
+* Think about having a qualities array
+
+### Git
+* Nice work!
+
+## Functional Expectations
+
+Proficient/The application consists of one page with all of the major functionality being provided by jQuery. No approach was taken that is counter to the spirit of the project and its learning goals.
+
+evaluation scores: 3-4
+
+feedback to me: 
 
 # 2DoBox-Pivot
 
@@ -149,7 +172,7 @@ Number guesser was the initial project at Turing that helped get me off the grou
 
 (evaluation comments)
 
-(evaluation scores)
+evaluation scores: 3-4
 
 (feedback to me)
 
