@@ -16,7 +16,7 @@ I set out to build a strong foundation in JavaScript/jQuery and CSS. My goal is 
 
 ## A: End of Module Assessment
 
-I think that I passed the end of module assessment. I think I did well on the personal projects, as well as the group projects. My media queries on a very complex layout (such as static comp 3) could use some tweaking, but I have a solid understanding of CSS grid, and how to structure a layout overall. I also have a good grasp of the foundational JavaScript and jQuery topics that we went over in this mod. 
+I think that I passed the end of module assessment. I think I did well on the challenges of the week (DOM manipulation and mythical creatures), as well as the personal and group projects. I also have a solid understanding of CSS grid, and how to structure a layout overall. Additionally, I have a good grasp of the foundational JavaScript and jQuery topics that we went over in this mod. 
 
 
 ## B: Individual Work & Projects
