@@ -29,7 +29,7 @@
 
 (Intro)
 
-#### NumberGuesser
+### NumberGuesser
 
 * [GitHub URL](https://github.com/Tobin-jn/NumberGuesser)
 * [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
@@ -48,34 +48,36 @@ Phase 4 is optional. If you execute phase 4, create a separate branch in Git for
 * Cleaning up redundant code and moving them into their own functions
 * Make sure to clean up logs
 
-## Functional Expectations
+#### Functional Expectations
 
 * Novice: Application meets all of the expectations of phase one.  
 * Advanced Beginner: Application meets all of the expectations of phase two.   
 
 
-## COMP RECREATION / DESIGN
+#### COMP RECREATION / DESIGN
 
 * Proficient  
 
-## HTML
+#### HTML
 
 * Proficient  
 
-## CSS
+#### CSS
 
 * Advanced Beginner  
 
-## JS/jQuery
+#### JS/jQuery
 
 * Advanced Beginner  
 * Proficient  
 
-## Surprise and Delight (reminder: have fun!)
+#### Surprise and Delight (reminder: have fun!)
 
 * Hot Fire  
 
-#### Static Comp #1
+
+
+### Static Comp #1
 
 * [GitHub URL](https://github.com/Tobin-jn/tn-comp-challenge-1)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-1.html)
@@ -86,7 +88,9 @@ Phase 4 is optional. If you execute phase 4, create a separate branch in Git for
 
 (evaluation scores)
 
-#### Static Comp #2
+
+
+### Static Comp #2
 
 * [GitHub URL](https://github.com/Tobin-jn/tn-comp-challenge-2)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-2.html)
@@ -97,7 +101,9 @@ Phase 4 is optional. If you execute phase 4, create a separate branch in Git for
 
 (evaluation scores)
 
-#### Static Comp #3
+
+
+### Static Comp #3
 
 * [GitHub URL](https://github.com/Tobin-jn/tn-comp-challenge-3)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-3.html)
