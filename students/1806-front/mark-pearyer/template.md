@@ -15,20 +15,21 @@ I setout this Mod to get a solid foundation on Javascript, as well as improve my
 -----------------------
 
 ## A: End of Module Assessment
-
-(Indicate whether you passed or failed the end of module assessment)
-
+Passed
 
 ## B: Individual Work & Projects
 
-(Intro)
+Individual projects is where I beleive I learned the most and was probably the most challenging for me. I have always neglected practicing and learning CSS, so the static comps were a great way to challenge myself, as well as get some much needed practice in learning CSS. "It's basically like throwing shit at the wall and seeing what sticks."
 
 #### Number Guesser
 
 * [GitHub URL](https://github.com/marcusp619/number-guesser)
 * [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
 
-(description)
+### (description)
+- Build a game where the user guesses a number between 1 and 100.
+
+-Phase 4 is optional. If you execute phase 4, create a separate branch in Git for that work for evaluation (using Git is an extra challenge – investigate how to initialize a Git repo and make a branch! We’ll go over how to do this in class in a few days, so this is a great time to investigate on your own).
 
 ### (evaluation comments)
 * HTML
@@ -58,6 +59,7 @@ Recreate a portfolio site with a grid layout.
 - Fix the responsive design at smaller mdia queries. The header had issues with staying contained in its container. 
 - Add the buttons on the main photo.
 ### (evaluation scores)
+
 #### Static Comp II
 
 * [GitHub URL](https://github.com/marcusp619/mp-comp-challenge-2)
@@ -77,7 +79,7 @@ Recreate a portfolio site with a grid layout.
 * [GitHub URL](https://github.com/marcusp619/mp-comp-challenge-3)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-3.html)
 
-(description)
+### (description)
 - Recreate the job description layout and come up with your own veiws for tablet and mobile. 
 (evaluation comments)
 - Great job o.n the Desktop and Ipad views of the site.
@@ -87,13 +89,14 @@ Recreate a portfolio site with a grid layout.
 - At smallet mobile view make top header a dropdown header
 - move buttons into there perspective containers in the data section.
 - add padding on mobile view.
-(evaluation scores)
+
+### (evaluation scores)
 
 ## C: Group Work & Projects
 
 ### Projects
 
-(Intro)
+The group projects were where we focused on our javascript skills and pushed ourselves to learn. This was exciting for me since I love working with javascript and figuring out solutions to problems. What was challenging was working with someone else and trying to find the right balance to where you both are learning. 
 
 #### Linked List
 
@@ -147,9 +150,11 @@ Recreate a portfolio site with a grid layout.
 * Technical Vocabulary
  - Proficient
 * Surprise and Delight (optional category, but reminder: have fun!)
- - Sparkles  
-(feedback to me)
-
+ - Sparkles
+ 
+### (feedback to me)
+- Add accessibility to HTML
+- don't use rem or em unless on fonts
 #### Idea Box
 
 * [GitHub URL](https://github.com/lkshamus/IdeaBox)
@@ -223,9 +228,9 @@ Recreate a portfolio site with a grid layout.
  - Advanced Beginner Can articulate what is going on in the overall codebase and uses the correct terminology some of the time.
  - Proficient Can articulate what is going on in the codebase, line by line, using the correct terminology most of the time. Developer can speak to and answer questions that utilize technical vocabulary.
 ### (feedback to me)
+- sometimes things dont need to be in its own function if the cost is greater than the return.
 
 #### 2DoBox Pivot
-
 * [GitHub URL](https://github.com/Tobin-jn/2DoBox-Pivot)
 * [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
 
@@ -296,8 +301,6 @@ Recreate a portfolio site with a grid layout.
 * Technical Vocabulary
  - Proficient
  - Exceptional
-
-
 ### (feedback to me)
 
 ## D: Professional Skills
