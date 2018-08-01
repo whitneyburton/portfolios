@@ -1,86 +1,28 @@
-# \<Your Name> - M3 Portfolio
+# M3 Portfolio Requirements
 
-## Areas of Emphasis
+## Learning Goals
 
-> \<What did you set out to accomplish this module?>
+* Gain comfort speaking about and defending their work and code using correct technical vocabulary
+* Practice speaking in front of a group
+* Build the skill of storytelling by presenting a compelling story about themselves and their work
 
-## Self-Assessment
+## Requirements
 
-| Section | Category | Score |
-| --- | ----- | --- |
-| A | **End-of-Module Assessment** | X |
-| B | **Individual Work & Projects** | X |
-| C | **Group Projects** | X |
-| D | **Professional Development** | X |
-| E | **Feedback & Community Participation** | X |
+* Students will prepare a 5 minute slide presentation to give to M3 Instructors.
 
->* \<Takeaways, your experience>
->* \<Notes>
+#### The slide presentation should address the following questions:
 
------------------------
+* What was your biggest achievement of the module?
+* What provided you with the most struggle? What did you learn from that struggle?
+* What have you done this inning that sets you apart from your peers?
+* How did your Mod 3 experience impact what you wanted to be doing after Turing? How did it reframe what you learned in previous modules?
+* What is the most important skill or lesson that you will take from Turing into your next job?
 
-## A: Individual Work & Projects
+#### The presentation should not be a series of slides that directly answers each of these questions with bullet points, but instead should:
 
-> **[APIcurious](http://backend.turing.io/module3/projects/apicurious) (Optional)**
->* \<Description>
->* \<Takeaways, your experience>
+* Follow a narrative format -- this is an opportunity to fine tune your story and how you speak about your work. Slides should flow naturally from one to the next.
+* Include images and graphics to illustrate the concepts you plan to discuss. These may include screenshots/animated gifs of an application you created, snippets of code from your projects, diagrams of interesting concepts/structures that you used in your project(s).
 
-> **[Self Directed](http://backend.turing.io/module3/projects/self_directed_project)**
->* \<Description>
->* \<Takeaways, your experience>
+## Submittal
 
-## B: Group Work & Projects
-
-> **[Rales Engine](http://backend.turing.io/module3/projects/rails_engine)**
->* \<Description>
->* \<Takeaways, your experience>
-
-> **[The Pivot](http://backend.turing.io/module3/projects/the_pivot)**
->* \<Description>
->* \<Takeaways, your experience>
-
-| CATEGORY | Rales Engine | Self Directed | The Pivot |
-| --- | --- | --- | --- |
-| **Github Repo** | [Rales Repo](https://) | [Cloney 1 Repo](https://) | [Cloney 2 Repo](https://) |
-| **Heroku** | [Rales](https://) | [Self Directed](https://) | [The Pivot](https://) |
-| **Functional/Client Expectations** | X | X | X |
-| **TDD** | X | X | X |
-| **Code Organization/Quality** | X | X | X |
-| **API Design** | X | N/A | N/A |
-| **Queries** | X | N/A | N/A |
-
-> Rales Engine evaluation comments:
-\<Instructor Comments Here>
-
-> Cloney Island Sprint 1 evaluation comments:
-\<Instructor Comments Here>
-
-> Cloney Island Sprint 2 evaluation comments:
-\<Instructor Comments Here>
-
-## C. **Gear Ups**
-
-> [Link To Gear Up]()
-\<3-4 sentences summarizing your takeaways, including things you're continuing to think about, things you learned, things you're doing differently for each gear up>
-
-## D: Community Participation
-
-#### **Community Contribution Option**
->* \<Link &/or blurb about the option you chose (blog post, lead a spike or posse, lightning talk, open source contribution or pair > 3 times)>
-
-#### **Posse**
-  >* \<Blurb about what you did with your posse over the module>
-  >* \<Your favorite thing about the posse experience>
-  >* \<How has your posse experience helped you grow as a professional?>
-
-#### **Playing a Part**
-
-> \<How else you've contributed to the community>
-
-------------------
-
-## Final Review
-
-> #### Notes ( Leave blank for reviewers )
-
-> #### Outcome ( Leave blank for reviewers )
+* Students are not required to submit any documents but instead should be prepared to give their presentation to their instructors and answer follow up questions
