@@ -448,7 +448,7 @@ I think that I supported the larger Turing community in a couple of ways. One wa
 
 ## Final Review
 
-Overall, I believe that my first module at Turing was a solid run, and it was a progressive learning experience. On each project I learned more and more and gained more confidence in JavaScript/jQuery, CSS, HTMLl, and my general problem solving and teamwork skills. 
+Overall, I believe that my first module at Turing was a solid run, and it was a progressive learning experience. On each project I learned more and more and gained more confidence in JavaScript/jQuery, CSS, HTML, and my general problem solving and teamwork skills. 
 
 
 ### Notes
