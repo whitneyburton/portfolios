@@ -31,7 +31,7 @@ Description
 
 #### Evaluation Comments
 
-* [Number Guesser Eval](https://github.com/turingschool/front-end-submissions-public/edit/master/1806/mod-1/number-guesser/james-burbage.md)
+* [Number Guesser Eval](https://github.com/turingschool/front-end-submissions-public/blob/master/1806/mod-1/number-guesser/james-burbage.md)
 
 ### Static Comp 1
 
