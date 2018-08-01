@@ -1,4 +1,4 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Tobin - M1 Portfolio
 
 ## Areas of Emphasis
 
@@ -7,8 +7,8 @@
 ## Rubric Scores
 
 * **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
 * **D: Professional Skills**: X
 * **E: Community Participation**: X
 
@@ -23,10 +23,10 @@
 
 (Intro)
 
-#### (Project Name)
+#### NumberGuesser
 
-* [GitHub URL]()
-* [Original Assignment]()
+* http://frontend.turing.io/projects/number-guesser.html
+* http://frontend.turing.io/projects/number-guesser.html
 
 (description)
 
