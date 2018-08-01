@@ -57,9 +57,7 @@ Use assert instance of instead of assert_equal something.class
 * Ruby Syntax & Style: 2
 * Breaking Logic into Components: 3
 * Test-Driven Development: 3
-* Functionality: 3
-
-Mastermind is a guessing game and my first introduction to building a REPL interface game in Ruby. 
+* Functionality: 3 
 
 #### Date Night
 
@@ -159,10 +157,6 @@ Try and use as few IVars as possible. If it can be easily calculated, it doesn't
 * Test-Driven Development: 3
 * Version Control: 3
 * Functionality: 3
-
-#### Partner Feedback
-
-Honestly, I could not have asked for a better partner. You were always on time to meetings, you came up with some great tests which helped us determine exactly what we wanted from the code. I am really glad that both of our work ethics clicked, especially when it came to debugging.  I also thought it was great how thorough you were when drawing out tests. There was only one problem which occurred at the beginning, and it was just that I had to catch up on code that you wrote the Friday the project was assigned. I did not know you were planning to do so much the first night. I could've held off in favor of having a better understanding of the code you wrote. Other than that, everything worked out pretty well.
 
 ## D: Professional Skills
 
