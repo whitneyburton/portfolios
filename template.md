@@ -32,10 +32,10 @@ I learned a lot while working on these individual and group projects. I was able
 
 Number guesser was the initial project at Turing that helped get me off the ground in terms of confidence with JavaScript. This project gave me the confidence to attempt to conquer the other projects, and each subsequent project did the same.
 
-(evaluation comments)
+###(evaluation comments)
 
-## Evaluator: Louisa
-## Notes/What To Work On:
+### Evaluator: Louisa
+### Notes/What To Work On:
 
 - got through phase 3!!
 - very minimal styling, not fonts
