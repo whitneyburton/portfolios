@@ -21,7 +21,7 @@ My primary goals at the beginning of this module were as follows:
 ## B: Individual Work & Projects
 The individual projects in this module consisted of the following:
 1. **Number Guesser:**  An interactive game that allows users to try to guess a randomly generated number and lets users know if their guesses are too high, too low, correct, or invalid number.
-2. **Static Comp Challenges 1, 2, 3:** Three static comp challenges tasking students to recreate a different static comp, with each growing in complexity.
+2. **Static Comp Challenges 1, 2, & 3:** Three static comp challenges tasking students to recreate a different static comp, with each growing in complexity.
 
 
 #### 1. Number Guesser
