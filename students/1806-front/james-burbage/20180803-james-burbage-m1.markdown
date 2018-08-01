@@ -111,37 +111,6 @@ Description
 
 * I appreciated your skill with time boxing extensively. Your experience from going through the mod once before was essential. You knew how to keep us motivated and rotating through tasks so we didn't get stuck on just one thing, but were able to get quick wins and morale boosts by switching tasks to something we knew how to do, or go crush a mythical creature and feel re-energized. I also just appreciated your sense of humor. We had a great dynamic between each other and were able to joke around and keep ourselves in high spirits when we were stuck working on something and getting frustrated with the code. I would say that the only piece of "coaching" feedback that I could give to you is to not over-do the rotation. I know it is the final week of the mod, and that we had discussed a couple of times that we wanted to ensure that both of us were successful at pentathlon, and that is definitely important, but it is also key to remember deadlines. We were able to accomplish so much of the project and I was so proud of what we got done, but I would remember when there is a project due sooner than another, even if the other project is more daunting or more important, it is necessary sometimes to put other tasks out of your head until the first deadline has passed and then you can refocus on the task you had more time to accomplish.
 
-## D: Professional Skills
-
-Intro
- * Turing's mission is to unlock human potential by training a diverse, inclusive student body to succeed in high-fulfillment technical careers. Our vision is a world powered by technology where the people building it represent the people using it. We're here to build a movement.
-
- * In order to advance this mission and vision, our curriculum transcends technical training. We also present students with opportunities to grow as individuals, members of a team, and members of a community.
-
- * Gear Up provides a forum for students to develop self-awareness, interpersonal skills, and gain awareness of the issues preventing tech from being an inclusive space.
-
-### Gear Up
-#### Health and Wellness
-
-* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/Mod1_Week1_mental_health_101.md)
-
-Takeaways
- * Stress can consume us and there are different types of stress. Stress management is something I need to work on.
-
-### Gear Up
-#### Debugging the Gender Gap
-
-* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/Mod1_Week3_Code_debugging_compact_version.md)
-
-Takeaways
- * Women in the workforce are judged more than men and women may not realize it due to the 'normality' behind it. More women leave their tech careers in 10 years than men due to constant harassment and to non-promotions due to gender inequality. Obviously women are not being given the same opportunities as men in tech, and are mostly pushed away at a young age.
-
-## E: Community Participation
-
-### Playing a Part
-
-I was always willing to help my classmates when I could. I also enjoyed pairing and meeting with my mentor. I love the tech community as a whole and want to go to more meetups.
-
 ------------------
 
 ## Final Review
