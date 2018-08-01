@@ -44,7 +44,7 @@ I immersed myself in each one of these projects. At no point did I stop working 
 
 #### Evaluation
 
-* [2DoBox Evaluation](https://github.com/turingschool/front-end-submissions-public/tree/master/1806/mod-1/to-do-box)
+* [2DoBox Evaluation](https://github.com/turingschool/front-end-submissions-public/blob/master/1806/mod-1/to-do-box/chris-.md)
 
 ## C: Group Work & Projects
 
