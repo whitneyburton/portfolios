@@ -393,83 +393,11 @@ You will be inheriting someone’s previous IdeaBox and pivoting it over to 2DoB
 * From Mark: Great working with you, Tobin. You have a knack for learning things quickly. Great clarity in the beginning, during our DTR. I really appreciate that you were never idle during the project, you were always working on something. Looking forward to working with you again. This coaching feedback is not necessarily related to just this project. Do not be afraid to just try things out, just keep trying until something works. I hit a lot of walls in this project, due to trying things out but in the end we both learned how array prototype methods worked and jQuery methods worked. If we didn't try those methods out we would have never learned. 
 
 
-
-## D: Professional Skills
-(Intro)
-
-### Gear Up
-#### Health and Wellness
-
-* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/Mod1_Week1_mental_health_101.md)
-
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
-
-### Gear Up
-#### Code 2.0
-
-* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/Mod1_Week3_Code_debugging_compact_version.md)
-
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
-
-### Gear Up
-#### Emotional Intelligence
-
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
-
-### Career Development
-#### Developer Identity
-
-* [GitHub URL](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/developer_identity.md)
-
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
-
-### Career Development
-#### StrengthsFinder Reflection
-
-* [GitHub URL](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/intro_strengthsfinder_session.md)
-
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
-
-### Career Development
-#### Working Styles
-
-* [GitHub URL](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/working_styles.md)
-
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
-
-### Career Development
-#### Learning to Pair
-
-* [GitHub URL](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/learning_to_pair.md)
-
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
-
-### Career Development
-#### Feedback I
-
-* [GitHub URL](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/feedback_i.md)
-
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
-
-### Career Development
-#### Storytelling & Strengths
-
-* [GitHub URL](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_and_storytelling.md)
-
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
-
-
-
-
-
-
-
-
-## E: Community Participation
+## D: Community Participation
 
 ### Playing a Part
 
-I have really enjoyed being part of the community here. Everyone is so open and positive and I always strive to do the same. With our projects, I've tried to do everything to support my partners and in the class, I'm eager to help others when and where I can. One of the main things I have thought about is embracing the positive energy at Turing and use it to support everyone throughout a difficult process. I feel a part of the class and community, and I feel we can all lean on each other throughout this process. In addition, I have been excited to participate and attend outside of class activities sush as demo nights.
+I have really enjoyed being part of the community here. Everyone is so open and positive and I always strive to do the same. With our projects, I've tried to do everything to support my partners and in the class, I'm eager to help others when and where I can. One of the main things I have thought about is embracing the positive energy at Turing and use it to support everyone throughout a difficult process. I feel a part of the class and community, and I feel we can all lean on each other throughout this process. In addition, I have been excited to participate and attend outside of class activities such as demo nights, significant other events, and will be volunteering at the RailsBridge event Aug 4 at Turing. 
 
 ------------------
 
