@@ -16,7 +16,7 @@ To develop a strong basis in HTML and CSS while improving my rudimentary underst
 
 ## A: End of Module Assessment
 
-I found Mod 1 to be both challenging and enjoyable. I take pride in each project I submitted. I am eager to see what mod 2 holds and feel that I am ready to advance.
+I found Mod 1 to be both challenging and enjoyable. I take pride in each project I submitted. I am eager to see what Mod 2 holds and feel that I am ready to advance.
 
 ## B: Individual Work & Projects
 
