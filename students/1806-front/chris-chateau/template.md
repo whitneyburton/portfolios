@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-To develop a strong basis in HTML and CSS while improving my rudimentary understanding of JavaScript. I also hope to develop relationships in my time at Turing in order to build a network of contancts in the tech community.
+To develop a strong basis in HTML and CSS while improving my rudimentary understanding of JavaScript. I also hope to develop relationships in my time at Turing in order to build a network of contacts in the tech community.
 
 ## Rubric Scores
 
@@ -78,7 +78,7 @@ Description
 
 * [IdeaBox Evaluation](https://github.com/turingschool/front-end-submissions-public/blob/master/1806/mod-1/idea-box/casey-chris.md)
 
-* Casey's Feedback: ```It was a pleasure to work on IdeaBox with Chris. He is a great developer with a quick mind. Our working styles were similar, and we completed the project without any interpersonal problems. I appreciated Chris' even-keeled demeanor and patience. My understanding of JavaScript improved ten-fold because of his willingness to slow his pace along the way and make sure I understood the concepts we were working on before moving on. Chris would make a natural and productive addition to any team, and I'd be happy to work with him again. Chris and I made a natural pair, but one thing we could have done better is share the load of who's 'driving' when we worked together. He understood the concepts more quickly and I would have benefitted from having 'driven' a bit more so I could go a bit more slowly and digest the concepts at my speed.```
+* Casey's Feedback: ```It was a pleasure to work on IdeaBox with Chris. He is a great developer with a quick mind. Our working styles were similar, and we completed the project without any interpersonal problems. I appreciated Chris' even-keeled demeanor and patience. My understanding of JavaScript improved ten-fold because of his willingness to slow his pace along the way and make sure I understood the concepts we were working on before moving on. Chris would make a natural and productive addition to any team, and I'd be happy to work with him again. Chris and I made a natural pair, but one thing we could have done better is share the load of who's 'driving' when we worked together. He understood the concepts more quickly and I would have benefited from having 'driven' a bit more so I could go a bit more slowly and digest the concepts at my speed.```
 
 ## D: Professional Skills
 
@@ -88,30 +88,11 @@ Description
 
  * Gear Up provides a forum for students to develop self-awareness, interpersonal skills, and gain awareness of the issues preventing tech from being an inclusive space.
 
-### Gear Up
-#### (Mental Health 101)
-
-* [GitHub URL]()
-
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
-
-#### (Code Debugging The Gender Gap)
-
-* [GitHub URL]()
-
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
-
-#### (Session Name)
-
-* [GitHub URL]()
-
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
-
 ## E: Community Participation
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+I have enjoyed developing relationships with my cohort-mates as well as students in the higher mods. Everyone I've interacted with has been incredibly supportive and helpful. People have even walked past me at pairing stations and check-in to see if there's anything I was struggling with. As my coding abilities progress through the Mod's, I hope to repay this gesture to incoming students. I was also amazed the the supportive DM's I received from classmates and even people in higher mods regarding my static comps. It's an inspiring community to be a part of. I admittedly have no taken part in some of the recent community evens as I'm hyper-focused on my own work, but hope change this going forward.
 
 ------------------
 
