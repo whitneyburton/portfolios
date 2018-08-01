@@ -80,11 +80,11 @@ For this module, becoming comfortable with DOM manipulation, learning cooperatio
 #### Description
 * Build a site where the user can create bookmarks, and change the 'read' and 'delete' state of the bookmarks.
 
-(evaluation comments)
+#### Evaluation
+* [Linked List Evaluation](https://github.com/turingschool/front-end-submissions-public/blob/master/1806/mod-1/linked-list/joel-justin.md)
 
-(evaluation scores)
-
-(feedback to me)
+#### Pairing Feedback 
+* You did a great job working on the project with brainstorming ideas, driving and navigating while writing code, and really helping hash out some of the javascript throughout the entire project. Thank you for being dedicated to the two days we put in on the weekend from from morning to late afternoon. Perhaps try to keep better track of time which you acknowledged yourself, and how you have been making steps to improve already. 
 
 
 ## Idea Box 
@@ -95,11 +95,11 @@ For this module, becoming comfortable with DOM manipulation, learning cooperatio
 #### Description 
 * Build a site with the ability for a user to create and label ideas, store the ideas in local storage and display created ideas in a card-like format on the screen. User has the ability to rate and delete ideas, which also changes their state in local storage.
 
-(evaluation comments)
+#### Evaluation
+* [Idea Box Evaluation](https://github.com/turingschool/front-end-submissions-public/blob/master/1806/mod-1/idea-box/jessica-joel.md)
 
-(evaluation scores)
-
-(feedback to me)
+#### Pairing Feedback
+* I greatly appreciated your attention to detail when working on the CSS, particularly when you tested how our webpage would look on both an iPhone and an Android phone. I appreciated your responsiveness when I brought issues to you concerning our git workflow; When I suggested that we don't merge and close branches we are currently working on, you immediately adjusted. I also appreciated that you utilized my organization setup for both the CSS file and the task list. Finally, thank you so much for figuring out how to use GitHub pages and showing me how to set that up. It really made the process less intimidating. You also helped me understand how using a page for a project could be a useful tool in ensuring that the styling would be handled well on multiple platforms. Not having a set schedule at the beginning of the week made it harder for me to know when I could work on other assignments without encroaching on the time we could work on the project; Without a set schedule, I have a hard time figuring out when a block of time is safe for me to work on secondary projects/chores/assignments/pairing with others. For our sessions working on jQuery, I would have preferred that we both had solutions prepared by work-time, so that we could compare and discuss them in order to decide which aspects of each we could efficiently implement.
 
 
 ## 2DoBox Pivot 
@@ -110,11 +110,11 @@ For this module, becoming comfortable with DOM manipulation, learning cooperatio
 #### Description 
 * Refactor an existing codebase without compromising or throwing out the original structure. Add any missing functionality. Some artistic license is permitted.
 
-(evaluation comments)
+#### Evaluation
+* [2DoBox Evaluation](https://github.com/turingschool/front-end-submissions-public/blob/master/1806/mod-1/to-do-box/joel-laura.md)
 
-(evaluation scores)
-
-(feedback to me)
+#### Pairing Feedback
+* You are such a hard worker! You have an eye for detail and love making all your work look the best it possibly can. I appreciate all your CSS/JS skills and creativity. This was the first group project I've had at Turing where I feel we both put in the same effort and contributed equally to the final product.  I think we both need to work on time boxing a little bit better. A few times both of us got sucked down a rabbit hole where we were working on one feature for too many hours. I think taking more pom breaks will be beneficial and will give our brains a much needed break. It always feels like we have our "a-ha" moments and figure out why our code wasn't working right coming back from a pom. Great job!
 
 
 ## D: Professional Skills
