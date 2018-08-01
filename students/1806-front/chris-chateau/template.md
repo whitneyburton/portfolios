@@ -22,24 +22,24 @@ I found Mod 1 to be both challenging and enjoyable. I take pride in each project
 
 I immersed myself in each one of these projects. At no point did I stop working when I felt like I'd done 'just enough' to receive a satisfactory score. I found them each to be very engaging and continued to improve them up until the due date.
 
-#### (Number Guesser)
+#### Number Guesser
 
 * [GitHub URL](https://github.com/christopherchateau/Number-Guesser)
 * [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
 
-Description
+#### Description
 * Build a game where the user guesses a number between 1 and 100.
 
 #### Evaluation
 
 * [Number Guesser Evaluation](https://github.com/turingschool/front-end-submissions-public/blob/master/1806/mod-1/number-guesser/chris-chateau.md)
 
-#### (2DoBox)
+#### 2DoBox
 
 * [GitHub URL](https://github.com/christopherchateau/2DoBox-Pivot)
 * [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
 
-Description
+#### Description
 * Do you remember that project IdeaBox?.. We thought they were pretty great, but, we think it’s time to pivot those projects over to something we like to call 2DoBox. You will be inheriting someone’s previous IdeaBox and pivoting it over to 2DoBox.
 
 #### Evaluation
@@ -52,12 +52,12 @@ Description
 
 I completed two pair projects this module and enjoyed the collaboration process both times. Looking back, I feel like my JavaScript abilities increased greatly between Linked-List and IdeaBox
 
-#### (Linked-List)
+#### Linked-List
 
 * [GitHub URL](https://github.com/christopherchateau/linked-list)
 * [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
 
-Description
+#### Description
 * Now it’s time to try your hand at building a small application.
 
 #### Evaluation
@@ -66,12 +66,12 @@ Description
 
 * Cierra's Feedback: ```Hi Chris! I had a great time working with you. You were very persistent in trying to figure out how to add features and learn new things. I really appreciate your refactoring efforts, and how you made the code much more organized and readable. The only 'coaching' feedback I have is that we both could have had a more systematic approach to the project,  using apps like waffle.io or Trello, etc. to organize tasks as a way to avoid some conflicts. Other than that your collaboration style was very supportive and productive. Overall a great partnership and you did a great job!```
 
-#### (IdeaBox)
+#### IdeaBox
 
 * [GitHub URL](https://github.com/christopherchateau/ideabox)
 * [Original Assignment](http://frontend.turing.io/projects/ideabox.html)
 
-Description
+#### Description
 * Every developer has more ideas than time. As David Allen likes to say “the human brain is for creating ideas, not remembering them.” In this project, we’ll be building a simple application for recording and archiving our ideas (good and bad alike).
 
 #### Evaluation
