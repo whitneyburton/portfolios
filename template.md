@@ -2,28 +2,28 @@
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+I set out to build a strong foundation in JavaScript/jQuery and CSS. My goal is to be great at both of these languages. 
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Community Participation**: X
+* **A: End-of-Module Assessment**: 3.5/4
+* **B: Individual Work & Projects**: 3.6/4
+* **C: Group Work & Projects**: 3.6/4
+* **D: Professional Skills**: 3.5/4
+* **E: Community Participation**: 3/4
 
 -----------------------
 
 ## A: End of Module Assessment
 
-(Indicate whether you passed or failed the end of module assessment)
+I think that I passed the end of module assessment. I think I did well on the personal projects, as well as the group projects. The final static comp has some things that could be touched up, but this is something I am capable of fixing this week. 
 
 
 ## B: Individual Work & Projects
 
 (Intro)
 
-#### (Project Name)
+#### (Number Guesser)
 
 * [GitHub URL]()
 * [Original Assignment]()
@@ -40,7 +40,33 @@
 
 (Intro)
 
-#### (Project Name)
+#### (Linked List)
+
+![GitHub URL](https://github.com/cierrajw/linked-list)
+* [Original Assignment]()
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+(feedback to me)
+
+#### (Idea Box)
+
+* [GitHub URL]()
+* [Original Assignment]()
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+(feedback to me)
+
+#### (2DoBox-Pivot)
 
 * [GitHub URL]()
 * [Original Assignment]()
