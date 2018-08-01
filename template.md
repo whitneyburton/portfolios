@@ -56,7 +56,7 @@ Number guesser was the initial project at Turing that helped get me off the grou
 
 (Intro)
 
-## Linked List
+# Linked List
 
 [Linked List](https://github.com/cierrajw/linked-list)
 * [Linked List Assignmentt](http://frontend.turing.io/projects/linked-list.html)
@@ -88,7 +88,7 @@ Number guesser was the initial project at Turing that helped get me off the grou
 
 (feedback to me)
 
-## Idea Box
+# Idea Box
 
 * [Idea Box](https://github.com/cierrajw/idea-box)
 * [Idea Box Assignment](http://frontend.turing.io/projects/ideabox.html)
