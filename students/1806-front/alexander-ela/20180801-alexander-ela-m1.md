@@ -19,12 +19,12 @@ My primary goals at the beginning of this module were as follows:
 ## A: End of Module Assessment
 
 ## B: Individual Work & Projects
+The individual projects in this module consisted of the following:
+1. **Number Guesser:**  An interactive game that allows users to try to guess a randomly generated number and lets users know if their guesses are too high, too low, correct, or invalid number.
+2. **Static Comp Challenges 1, 2, 3:** Three static comp challenges tasking students to recreate a different static comp, with each growing in complexity.
 
 
-This was the first of three static comp challenges in which I was asked to recreate a static comp, with each growing in complexity.
-
-
-#### Number Guesser
+#### 1. Number Guesser
 
 * [GitHub URL](https://github.com/alexanderela/turing-number-guesser)
 * [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
@@ -37,7 +37,7 @@ This was the first of three static comp challenges in which I was asked to recre
 (evaluation scores)
 
 
-#### Static Comp Challenge 1
+#### 2. Static Comp Challenge 1
 
 * [GitHub URL](https://github.com/alexanderela/ae-comp-challenge-1)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-1.html)
@@ -48,7 +48,7 @@ This was the first of three static comp challenges in which I was asked to recre
 
 (evaluation scores)
 
-#### Static Comp Challenge 2
+#### 3. Static Comp Challenge 2
 
 * [GitHub URL](https://github.com/alexanderela/ae-comp-challenge-2)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-2.html)
@@ -59,7 +59,7 @@ This was the first of three static comp challenges in which I was asked to recre
 
 (evaluation scores)
 
-#### Static Comp Challenge 3
+#### 4. Static Comp Challenge 3
 
 * [GitHub URL](https://github.com/alexanderela/ae-comp-challenge-3)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-3.html)
@@ -80,7 +80,7 @@ This was the first of three static comp challenges in which I was asked to recre
 
 (Intro)
 
-#### Linked List
+#### 1. Linked List
 
 * [GitHub URL](https://github.com/alexanderela/Linked_list)
 * [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
@@ -95,7 +95,7 @@ This was the first of three static comp challenges in which I was asked to recre
 (feedback to me)
 
 
-#### Idea Box
+#### 2. Idea Box
 
 * [GitHub URL](https://github.com/alexanderela/Idea_Box)
 * [Original Assignment](http://frontend.turing.io/projects/ideabox.html)
@@ -110,7 +110,7 @@ This was the first of three static comp challenges in which I was asked to recre
 (feedback to me)
 
 
-#### 2 Do Box (Idea Box Refactor)
+#### 3. 2 Do Box (Idea Box Refactor)
 
 * [GitHub URL](https://github.com/alexanderela/2DoBox--Pivot)
 * [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
