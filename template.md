@@ -12,7 +12,7 @@ I set out to build a strong foundation in JavaScript/jQuery and CSS. My goal is 
 * **D: Professional Skills**: 3.5/4
 * **E: Community Participation**: 3/4
 
------------------------
+------------------------
 
 ## A: End of Module Assessment
 
