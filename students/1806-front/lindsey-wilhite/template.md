@@ -7,10 +7,10 @@ I found that I made huge strides, coming from a place of not knowing what to exp
 
 ## Rubric Scores
 
-- **A: End-of-Module Assessment**: 2
-- **B: Individual Work & Projects**: 2/3  
+- **A: End-of-Module Assessment**: 2.5
+- **B: Individual Work & Projects**: 2.9  
 - **C: Group Work & Projects**: 2
-- **D: Professional Skills**: 2/3
+- **D: Professional Skills**: 2.8
 - **E: Community Participation**: 3
 
 ---
