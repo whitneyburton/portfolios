@@ -26,6 +26,7 @@ This was the first of three static comp challenges in which I was asked to recre
 
 * [GitHub URL](https://github.com/alexanderela/turing-number-guesser)
 * [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
+* [Evaluation](https://github.com/turingschool/front-end-submissions-public/blob/master/1806/mod-1/number-guesser/alexander-ela.md)
 
 (description)
 
