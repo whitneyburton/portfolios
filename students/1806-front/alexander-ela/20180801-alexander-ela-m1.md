@@ -78,10 +78,11 @@ This was the first of three static comp challenges in which I was asked to recre
 
 (Intro)
 
-#### (Project Name)
+#### Linked List
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/alexanderela/Linked_list)
+* [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
+* [Evaluation](https://github.com/turingschool/front-end-submissions-public/blob/master/1806/mod-1/linked-list/alexander-alexander.md)
 
 (description)
 
@@ -90,6 +91,42 @@ This was the first of three static comp challenges in which I was asked to recre
 (evaluation scores)
 
 (feedback to me)
+
+
+#### Idea Box
+
+* [GitHub URL](https://github.com/alexanderela/Idea_Box)
+* [Original Assignment](http://frontend.turing.io/projects/ideabox.html)
+* [Evaluation](https://github.com/turingschool/front-end-submissions-public/blob/master/1806/mod-1/idea-box/alexander-ashton.md)
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+(feedback to me)
+
+
+#### 2 Do Box (Idea Box Refactor)
+
+* [GitHub URL](https://github.com/alexanderela/2DoBox--Pivot)
+* [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
+* [Evaluation](https://github.com/turingschool/front-end-submissions-public/blob/master/1806/mod-1/to-do-box/alexander-cierra.md)
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+(feedback to me)
+
+
+
+
+
+
 
 ## D: Professional Skills
 (Intro)
