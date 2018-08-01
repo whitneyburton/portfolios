@@ -13,6 +13,12 @@ The thing that was most difficult for me this module was doing advanced active r
 
 https://medium.com/@malek.stephen44/namespacing-in-rails-4539f969f9e8  
 
+## ActiveRecord Obstacle Course
+
+Link your finished ActiveRecord Obstacle Course here.
+
+Was this helpful for practicing ActiveRecord?
+
 ## Projects
 
 What were your favorite projects this module? Least favorite? Why?  
@@ -26,9 +32,6 @@ What did you learn from your paired projects?
 I learned a lot from my paired projects. I got to experience the negatives of bad project management and the positives of using project management tools correctly. In the first project we were very unorganized, never on the same page, and not contributing equally. The second paired project was easier because we front loaded everything and were together most of the time communicating in person about what needed to be done. The last paired assessment is where I really learned how useful project management tools like waffle are. Because we had three people in our group and we all had different schedules, using waffle made it easier to coordinate work. Making waffle cards allowed everyone to work at their own pace and showed the other group members what the person was working on at all times. We were strict about having pull requests reviewed and always made sure to pull the master before pushing to our branches. It helped minimize merge conflicts and made sure we were never fixing merge conflicts on the github website. I will continue to use tools like this in the future.  
 
 ## Community
-
-What was your favorite Gear Up? Least favorite? Why?  
-My favorite gear up was the one
 
 How did you contribute to the Turing community this module?
 
