@@ -3,7 +3,8 @@
 ## Areas of Emphasis
 
 I set out for an immersion designing and building websites, with the intention of learning how to work on the front end aspect of web-design. I had little to no knowledge of what this actually meant. I knew what I thought it would be, and Turing ended up exceding my expectations.
-I found that I made huge strides, coming from a place of not knowing what to expect out of a bootcamp. I am not satisfied, and that is my driving force to continue on with this program and make the changes I need to accomplish my new goals. My goals have evolved from not knowing what to expect, to becoming excited and tenacious in building Static Comps, and finally overcoming my fear of failure, writing JavaScript. I want to get my fundamentals and vocabulary down, so that I can be successful in the upcoming mods.
+I found that I made huge strides, coming from a place of not knowing what to expect out of a bootcamp. I am not satisfied, and that is my driving force to continue on with this program and make the changes I forsee in accomplishing my new goals. 
+My path has evolved from not knowing what to expect, to becoming excited and tenacious in building static comps, and finally overcoming my fear of failure, writing JavaScript. I want to get my fundamentals and vocabulary down, so that I can be successful and contribute to the community through my skills in the upcoming mods.
 
 ## Rubric Scores
 
