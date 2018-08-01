@@ -31,35 +31,7 @@ Description
 
 #### Evaluation Comments
 
-HTML
-* naming conventions - guess-input instead of input-box
-* add aria-label to inputs
-
-CSS
-* Dry it up!
-* Pull duplicate declaration blocks into a more broad class, and override where necessary
-
-JS
-* Say more in naming conventions - more descriptive and make sure that functions read like an action
-* Check out style guides
-* Keep console logging!!!!!
-
-#### Evaluation Scores
-
-Functional Expectations
-* Advanced Beginner: Application meets all of the expectations of phase two.  
-
-Comp Recreation/Design
-* Advanced Beginner  
-
-HTML
-* Proficient  
-
-CSS
-* Advanced Beginner  
-
-JS/jQuery
-* Advanced Beginner  
+* [Number Guesser Eval](https://github.com/turingschool/front-end-submissions-public/edit/master/1806/mod-1/number-guesser/james-burbage.md)
 
 ### Static Comp 1
 
