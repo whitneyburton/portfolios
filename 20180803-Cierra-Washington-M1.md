@@ -28,7 +28,7 @@ I learned a lot while working on these individual and group projects. I was able
 * [Number Guesser](https://github.com/cierrajw/NumberGuesser)
 * [Number Guesser Assignment](http://frontend.turing.io/projects/number-guesser.html)
 
-(description):
+### (description):
 
 Number guesser was the initial project at Turing that helped get me off the ground in terms of confidence with JavaScript. This project gave me the confidence to attempt to conquer the other projects, and each subsequent project did the same.
 
