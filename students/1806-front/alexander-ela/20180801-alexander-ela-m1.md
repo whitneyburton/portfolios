@@ -78,11 +78,11 @@ The individual projects in this module consisted of the following:
 
 ### Projects
  
-The group projects in this module consisted of three assignments completed by groups of two, consisting of myself and another classmate. These assignments consisted of the following:
+The group projects in this module consisted of three assignments completed by groups of two, consisting of myself and another classmate. These assignments consisted of building the following interfaces, each increasing in complexity:
 
-1. **Linked List:**  An interactive
-2. **IdeaBox:**  An interactive
-3. **2DoBox (IdeaBox Refactor/Pivot):**  An interactive
+1. **Linked List:**  A website that allows users to enter a website title and URL and posts submissions to a separate section.
+2. **IdeaBox:**  A website that allows users to enter a website title and body and posts submissions to a separate section. Each submission generates its own unique ID for use in local storage and allows users to toggle a "quality" rating for each unique submission.
+3. **2DoBox (IdeaBox Refactor/Pivot):**  A refactor of a previous student's version of IdeaBox. Final product includes a more polished code base and new features including a more intricate rating system, search feature, and more elegantly designed interface. 
 
 #### 1. Linked List
 
