@@ -32,7 +32,7 @@ I learned a lot while working on these individual and group projects. I was able
 
 Number guesser was the initial project at Turing that helped get me off the ground in terms of confidence with JavaScript. This project gave me the confidence to attempt to conquer the other projects, and each subsequent project did the same.
 
-### Evaluation
+### Evaluation:
 
 ## Evaluator: Louisa
 ## Notes/What To Work On:
@@ -132,7 +132,7 @@ The group projects were fun, and I was able to learn a lot from others, and teac
 
 Linked list is a project that allowed me to understand the concept of appending/prepending elements to other elements on a page. 
 
-### Evaluation
+### Evaluation:
 
 ## Evaluator: Travis Rollins
 ## Notes/What To Work On:
@@ -330,7 +330,7 @@ Idea box was a next level exploration of JavaScript (particularly in terms of le
 
 The 2DoBox-Pivot was a project that allowed me to really solidify some concepts such as local storage and JSON, as well as grasp jQuery even better. I was able to help my partner understand some concepts, and I was able to see him become a more confident programmer, especially with the help of his mentor. 
 
-### (evaluation comments):
+### Evaluation:
 
 ## Students: Alex and Cierra
 ## Evaluator: Louisa
@@ -447,6 +447,9 @@ I think that I supported the larger Turing community in a couple of ways. One wa
 ------------------
 
 ## Final Review
+
+Overall, I believe that my first module at Turing was a solid run, and it was a progressive learning experience. On each project I learned more and more and gained more confidence in JavaScript/jQuery, CSS, HTMLl, and my general problem solving and teamwork skills. 
+
 
 ### Notes
 
