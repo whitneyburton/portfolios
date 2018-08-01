@@ -26,7 +26,7 @@ For this module, becoming comfortable with DOM manipulation, learning cooperatio
 (Intro)
 
 
-### Number Guesser
+## Number Guesser
 
 * [GitHub URL](https://github.com/JoelSmith123/number-guesser)
 * [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
@@ -38,7 +38,7 @@ For this module, becoming comfortable with DOM manipulation, learning cooperatio
 * [Number Guesser Eval URL](https://github.com/turingschool/front-end-submissions-public/blob/master/1806/mod-1/number-guesser/joel-smith.md)
 
 
-### Static Comp 1
+## Static Comp 1
 
 * [GitHub URL](https://github.com/JoelSmith123/js-comp-challenge-1)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-1.html)
@@ -47,7 +47,7 @@ For this module, becoming comfortable with DOM manipulation, learning cooperatio
 * Recreate the provided static comp, permission granted to take artistic liberties.
 
 
-### Static Comp 2 
+## Static Comp 2 
 
 * [GitHub URL](https://github.com/JoelSmith123/js-comp-challenge-2)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-2.html)
@@ -56,7 +56,7 @@ For this module, becoming comfortable with DOM manipulation, learning cooperatio
 * Recreate the provided static comp, permission granted to take artistic liberties.
 
 
-### Static Comp 3 
+## Static Comp 3 
 
 * [GitHub URL](https://github.com/JoelSmith123/js-comp-challenge-3)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-3.html)
@@ -72,7 +72,7 @@ For this module, becoming comfortable with DOM manipulation, learning cooperatio
 (Intro)
 
 
-### Linked List
+## Linked List
 
 * [GitHub URL](https://github.com/JoelSmith123/linked-list)
 * [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
@@ -87,7 +87,7 @@ For this module, becoming comfortable with DOM manipulation, learning cooperatio
 (feedback to me)
 
 
-### Idea Box 
+## Idea Box 
 
 * [GitHub URL](https://github.com/JoelSmith123/ideabox)
 * [Original Assignment](http://frontend.turing.io/projects/ideabox.html)
@@ -102,7 +102,7 @@ For this module, becoming comfortable with DOM manipulation, learning cooperatio
 (feedback to me)
 
 
-### 2DoBox Pivot 
+## 2DoBox Pivot 
 
 * [GitHub URL](https://github.com/JoelSmith123/2DoBox-Pivot)
 * [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
