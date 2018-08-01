@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-I set out to get the best understanding and to be able to apply that understanding of HTML and CSS to create functional layouts of webpages and applications. I understood coming into this module that programming it a long road, and that road would being here with a foundation of javascript/JQuery. I feel as if I have that foundation I sought out to get with a long road ahead of me.
+I set out to get the best understanding and to be able to apply that understanding of HTML and CSS to create functional layouts of webpages and applications. I understood coming into this module that programming it a long road, and that road would begin here with a foundation of javascript/JQuery. I feel as if I have that foundation I sought out to get with a long road ahead of me.
 
 ## Rubric Scores
 
