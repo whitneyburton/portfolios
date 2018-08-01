@@ -157,28 +157,77 @@ Proficient Employs detailed accessibility practices throughout markup, especiall
 
 * I appreciate your willingness to take the time to make sure I understood everything. There was a while when I was pretty lost + confused on some of the functionality that was added but by the end of the project when we got together I was able to go through any of the functions and say what was being done. My biggest point of advice is developer empathy. I would say that on a larger code base or a larger project with a bunch of people it is crucial to name variables with as obvious of names as possible. Especially at the level we are at, even just a moment of needing to analyze variable names, function names, class names to understand what is being targeted is using brain energy which could be used making the code work. Its something that will of course get easier over time, but any time it is possible, if you use the most obvious name that anyone will understand it will make it easier for others to work with your code.
 
-#### (Project Name)
+#### 2DoBox Pivot
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/Dhanciles/2DoBox-Pivot)
+* [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
 
-(description)
+##### Description
 
-(evaluation comments)
+* For this project we were given an old codebase for the Ideabox to refactor and then convert over to 2DoBox, adding more functionality.
 
-(evaluation scores)
+##### Evaluation comments
 
-(feedback to me)
+* Notes/What To Work On:
+   * Make sure the layout works on mobile/small screens, currently is a lil broken on small screens
+   * Looks good on large screens, just a few fine tuning details around spacing, disabled states, and clearly communicating      * What is a clickable thing vs text
+   * Make sure to prioritize ARIA
+   * CSS still needs a tidy pass, there are a few properties that aren't doing anything
+   * Missing the closing HTML tag!
+   * Overall, well done!
+   * CSS and HTML could use a last clean up pass to catch final details
+
+* Evaluation scores 
+   * Functional Expectations: Proficient
+   * HTML
+      * Accessibility: Novice
+      * Style: Proficient
+   * CSS
+      * Structure of Code: Proficient
+      * Implementation: Proficient
+   * JAVASCRIPT
+      * Data Types: Proficient
+      * Conditional Logic: Proficient
+      * Functions & Scope: Proficient
+      * Arrays: Proficient
+      * Objects & Prototypes: Proficient
+      * DOM Manipulation: Proficient
+      * Style: Proficient
+   * GIT & GITHUB
+      * Git: Proficient
+      * Github: Proficient
+   * DESIGN
+      * Design Concepts: Advanced Beginner
+   * PAIRING
+      * Collaboration: Proficient / Exceptional
+   * TERMINOLOGY
+      * Technical Vocabulary: Proficient
+      
+##### Feedback to me
+
+* Drake I really appreciated your patience and your willingness to try different things. Obviously throughout refactoring this code we discovered bugs on top of bugs, and took time to fix these issues. You stayed positive as we worked through things and we kept the  dialogue while figuring out how to solve problems, which is a great skill to have while pairing rather than just shutting the other person out. The best advice I could give you is to keep pushing forward on your projects and have more attention to detail. After pairing with you it really opened my eyes to how great of a developer you really are, and I feel you could be even better by pushing yourself to take projects to the next level, even though we'd already hit on the the requirements. 
 
 ## D: Professional Skills
-(Intro)
+* Throughout the mod we had gear up and professional development class sessions to learn more about professional and personal skills.
 
 ### Gear Up
-#### (Session Name)
+#### Health and Wellness
 
-* [GitHub URL]()
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/Mod1_Week1_mental_health_101.md)
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+In the Health and Wellness gear up we talked a lot about mental and physical health.  One big topic was stress and stress management.  I liked hearing what other people do to maintain their wellness and keep a handle on their stress.  One takeaway was self care kits.  I have not made one, but I think they are a really useful tool for people that need a way to handle a ton of stress.  It is something I would look to and possibly utilize if I found myself in that situation.
+
+#### Code: Debugging the Gender Gap
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/Mod1_Week3_Code_debugging_compact_version.md)
+
+The debugging gear up was about the gender gap in the tech industry.  I think it is good that people are taking an initiative to push for a more even distribution of men and women in this field.  One of my takeaways was that it is important to have people of a diverse background when developing a product.  An example of this is when airbags were first developed, the engineers were all average sized men.  This caused the airbags to be lethal for women and people of smaller sizes.  
+
+#### Relax
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m4_sessions/1806-inning/relax.md)
+
+The relax gear up was my favorite gear up out of all of them, probably because I got a bunch of free kool aid.  I also liked it because we all got a chance to vent/show how we got past some stress.  My big takeaway was what some people do to relax, after this gear up I have started seriously considering taking short runs in the morning before I come in since I usually have a lot going on in my head when I wake up in the morning.
 
 ## E: Community Participation
 
