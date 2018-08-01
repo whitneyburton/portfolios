@@ -43,30 +43,18 @@ Phase 4 is optional. If you execute phase 4, create a separate branch in Git for
 * Make sure to clean up logs
 
 #### Functional Expectations
-
 * Novice: Application meets all of the expectations of phase one.  
 * Advanced Beginner: Application meets all of the expectations of phase two.   
-
-
 #### COMP RECREATION / DESIGN
-
 * Proficient  
-
 #### HTML
-
 * Proficient  
-
 #### CSS
-
 * Advanced Beginner  
-
 #### JS/jQuery
-
 * Advanced Beginner  
 * Proficient  
-
 #### Surprise and Delight (reminder: have fun!)
-
 * Hot Fire  
 
 
@@ -78,12 +66,25 @@ Phase 4 is optional. If you execute phase 4, create a separate branch in Git for
 
 The static comp challenge is a series of three challenges to keep you working that HTML/CSS muscle. :muscle: You will be asked to recreate a static comp, with each growing in complexity. For each challenge, you’ll be given a static comp and asked to recreate it. Don’t worry, we’ll give you a bit of creative license, however the objective is to build something that respects the integrity of the original design. Once you get into the workforce - building out comps that reflect the designer’s choice in layout, spacing, font, imagery, and color to the smallest detail is a requirement.
 
+### Feedback
+* Fix image sizing at the largest screen size
+* Watch sizing/spacing and margins around icons and text
+* Crowded boxes can be refactored
+* Watch for content getting too close to boundaries as we resize- add padding
+* Picture on full screen doesn't fill- sizing of a background image
 
 ## Static Comp #2
 
 * [GitHub URL](https://github.com/Tobin-jn/tn-comp-challenge-2)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-2.html)
 
+### Feedback
+* Fix margin at the top of pics
+* Add hover states
+* Consistent margins along the sides of the page
+* Watch margins on resizing
+* Center content on mobile view
+* Increase size of text on mobile view
 
 ## Static Comp #3
 
@@ -128,50 +129,27 @@ A button to “Remove” the bookmark
 * Experiment more with && and || operators and looking into truthy and falsy values
 
 #### Functional Expectations
-
 * Advanced Beginner: Application meets all of the functional expectations in Phase Two.
 * Proficient: Application meets all of the functional expectations in Phase Three.
-
-
 #### COMP RECREATION / DESIGN
-
 * Proficient  
-
-
 #### HTML
-
 * Advanced Beginner  
 * Proficient  
-
-
 #### CSS
-
 * Proficient  
-
-
 #### JS/jQuery
-
 * Proficient  
-
-
 #### GIT & GITHUB
-
 * Advanced Beginner  
 * Proficient  
-
 #### Pairing/Collaboration
-
 * Proficient  
-
 #### Technical Vocabulary
-
 * Advanced Beginner
 * Proficient
-
 #### Surprise and Delight (optional category, but reminder: have fun!)
-
 * Sparkles 
-
 ### Partner Feedback
 * from Sabrin: I appreciated that you always communicated and let me know what was going on.
 
