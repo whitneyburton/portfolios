@@ -126,25 +126,7 @@ This was the first of three static comp challenges in which I was asked to recre
 
 
 
-
-
-
-
-## D: Professional Skills
-(Intro)
-
-### Gear Up
-#### (Session Name)
-
-* [Mental Health](https://github.com/turingschool/gear-up/blob/master/Mod1_Week1_mental_health_101.md)
-Well
-* [Code 2.0](https://github.com/turingschool/gear-up/blob/master/Mod1_Week3_Code_debugging_compact_version.md)
-Well
-* [You're not an Imposter](https://github.com/turingschool/gear-up/blob/master/m4_sessions/1806-inning/group1.md)
-Well
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
-
-## E: Community Participation
+## D: Community Participation
 
 ### Playing a Part
 
