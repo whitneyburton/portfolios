@@ -117,22 +117,6 @@ For this module, becoming comfortable with DOM manipulation, learning cooperatio
 * You are such a hard worker! You have an eye for detail and love making all your work look the best it possibly can. I appreciate all your CSS/JS skills and creativity. This was the first group project I've had at Turing where I feel we both put in the same effort and contributed equally to the final product.  I think we both need to work on time boxing a little bit better. A few times both of us got sucked down a rabbit hole where we were working on one feature for too many hours. I think taking more pom breaks will be beneficial and will give our brains a much needed break. It always feels like we have our "a-ha" moments and figure out why our code wasn't working right coming back from a pom. Great job!
 
 
-## D: Professional Skills
-(Intro)
-
-### Gear Up
-#### (Session Name)
-
-* [GitHub URL]()
-
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
-
-## E: Community Participation
-
-### Playing a Part
-
-(ways you supported the larger Turing community)
-
 ------------------
 
 ## Final Review
