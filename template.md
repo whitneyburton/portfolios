@@ -42,7 +42,7 @@ I think that I passed the end of module assessment. I think I did well on the pe
 
 #### (Linked List)
 
-![GitHub URL](https://github.com/cierrajw/linked-list)
+[Linked List](https://github.com/cierrajw/linked-list)
 * [Original Assignment]()
 
 (description)
