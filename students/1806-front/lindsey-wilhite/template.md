@@ -10,7 +10,7 @@ I found that I made huge strides, coming from a place of not knowing what to exp
 - **A: End-of-Module Assessment**: 2
 - **B: Individual Work & Projects**: 2/3  
 - **C: Group Work & Projects**: 2
-- **D: Professional Skills**: 3
+- **D: Professional Skills**: 2/3
 - **E: Community Participation**: 3
 
 ---
