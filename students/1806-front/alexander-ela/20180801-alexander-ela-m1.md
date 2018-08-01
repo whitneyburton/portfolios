@@ -6,11 +6,11 @@
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Community Participation**: X
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 4
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 4
+* **E: Community Participation**: 3
 
 -----------------------
 
@@ -59,8 +59,12 @@
 ### Gear Up
 #### (Session Name)
 
-* [GitHub URL]()
-
+* [Mental Health](https://github.com/turingschool/gear-up/blob/master/Mod1_Week1_mental_health_101.md)
+Well
+* [Code 2.0](https://github.com/turingschool/gear-up/blob/master/Mod1_Week3_Code_debugging_compact_version.md)
+Well
+* [You're not an Imposter](https://github.com/turingschool/gear-up/blob/master/m4_sessions/1806-inning/group1.md)
+Well
 (3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
 
 ## E: Community Participation
