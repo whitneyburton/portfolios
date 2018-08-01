@@ -8,9 +8,9 @@ I setout this Mod to get a solid foundation on Javascript, as well as improve my
 
 * **A: End-of-Module Assessment**: 3
 * **B: Individual Work & Projects**: 3
-* **C: Group Work & Projects**: 3
+* **C: Group Work & Projects**: 4
 * **D: Professional Skills**: 3
-* **E: Community Participation**: 2
+* **E: Community Participation**: 3
 
 -----------------------
 
@@ -51,22 +51,26 @@ I setout this Mod to get a solid foundation on Javascript, as well as improve my
 * [GitHub URL](https://github.com/marcusp619/MP-comp-challenge-1)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-1.html)
 
-(description)
-
-(evaluation comments)
-
-(evaluation scores)
-
+### (description)
+Recreate a portfolio site with a grid layout.
+### (evaluation comments)
+- Great attention to details in trying to recreate the orginal site.
+- Fix the responsive design at smaller mdia queries. The header had issues with staying contained in its container. 
+- Add the buttons on the main photo.
+### (evaluation scores)
 #### Static Comp II
 
 * [GitHub URL](https://github.com/marcusp619/mp-comp-challenge-2)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-2.html)
 
-(description)
-
-(evaluation comments)
-
-(evaluation scores)
+### (description)
+- Recreate a layout that has a professional looking header and individual cards in the main section of the website. 
+- Must be responsive and the cards should wrap when on smaller screens
+### (evaluation comments)
+- Great attention to detail.
+- Fix font size in the cards, the headers are suppose to be the same size.
+- Grid gap needs to be wider.
+### (evaluation scores)
 
 #### Static Comp III
 
@@ -74,9 +78,15 @@ I setout this Mod to get a solid foundation on Javascript, as well as improve my
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-3.html)
 
 (description)
-
+- Recreate the job description layout and come up with your own veiws for tablet and mobile. 
 (evaluation comments)
-
+- Great job o.n the Desktop and Ipad views of the site.
+- Organize CSS according to component.
+- Either crop image or find a better pic to use border radius on.
+- At tablet veiw make other menu a drop down menu.
+- At smallet mobile view make top header a dropdown header
+- move buttons into there perspective containers in the data section.
+- add padding on mobile view.
 (evaluation scores)
 
 ## C: Group Work & Projects
@@ -91,7 +101,17 @@ I setout this Mod to get a solid foundation on Javascript, as well as improve my
 * [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
 
 ### (description)
-
+- In it’s simplest form, the application should have the following:
+  Two input fields
+  One for the title of the bookmark
+  One for the URL that the bookmark should link to
+  One button for creating the bookmark and adding it to the page
+  A section for all of the created bookmarks; each bookmark should display:
+  The title of the bookmark
+  The URL of the bookmark (this should be clickable and link to the URL)
+  A button to “Mark as Read”
+  A button to “Remove” the bookmark
+  
 ### (evaluation comments)
 * nice work on commits and commit messages
 * Branch off everytime you're working on a new feature/bug
@@ -136,7 +156,9 @@ I setout this Mod to get a solid foundation on Javascript, as well as improve my
 * [Original Assignment](http://frontend.turing.io/projects/ideabox.html)
 
 ### (description)
+- Every developer has more ideas than time. As David Allen likes to say “the human brain is for creating ideas, not remembering them.” In this project, we’ll be building a simple application for recording and archiving our ideas (good and bad alike).
 
+ -Throughout the project, one of our focuses will be on providing a fluid and responsive client-side interface. To this end, we’ll rely on JavaScript and jQuery to implement snappy filtering in the browser, and localStorage to persist our wonderful ideas between sessions.
 ### (evaluation comments)
 - a few details in the UI could use some polish to really tighten it up
 - JS has quite a bit of duplication, in a great spot to refactor and reduce duplication
@@ -208,7 +230,9 @@ I setout this Mod to get a solid foundation on Javascript, as well as improve my
 * [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
 
 ### (description)
-
+- Do you remember that project IdeaBox?…
+  We thought they were pretty great, but, we think it’s time to pivot those projects over to something we like to call 2DoBox.
+  You will be inheriting someone’s previous IdeaBox and pivoting it over to 2DoBox.
 ### (evaluation comments)
 * Git/Github
  - Nice work! Seeing a lot of commits and good context
