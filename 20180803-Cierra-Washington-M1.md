@@ -127,6 +127,44 @@ Evaluation Comments:
 
 * Exceptional: You completed Phase Three and did something with Phase Four.
 
+
+## COMP RECREATION / DESIGN
+
+* Advanced Beginner  
+* Proficient  
+
+
+## HTML
+
+* Proficient  
+
+
+## CSS
+
+* Proficient  
+
+
+## JS/jQuery
+
+* Advanced Beginner  
+
+## GIT & GITHUB
+
+* Advanced Beginner  
+
+## Pairing/Collaboration
+
+* Proficient  
+
+## Technical Vocabulary
+
+* Proficient
+* Excxeptional
+
+## Surprise and Delight (optional category, but reminder: have fun!)
+
+* Hot Fire  
+
 (evaluation scores): 3-4
 
 (feedback to me): Good job understanding the JS, and good job with aria labels. Could make more git commits. 
