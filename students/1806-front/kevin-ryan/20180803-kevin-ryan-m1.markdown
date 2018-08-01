@@ -1,12 +1,11 @@
 # Kevin Ryan - (M1) Portfolio
 
 ## Areas of Emphasis
-
-I set out to immerse myself in programming and to learn the foundational skills. As a completely new endevour I was, and still am excited about learning and establishing my identity as a programmer both thoughout Turing and beyond.
+On my second time through I put a lot of emphasis on gaining a deeper understanding of JavaScript. I also set out to gain confidence that despite struggling through problems that I am capable of finding a solution. I recieved some advice last mod from a Mod 2 student who encouraged me to fail, and to not be so fearful of getting the wrong answer. While I certainly encountered a number of hiccups along the way, I feel as though I have come a long way since my first day way back in May. I am not the strongest programmer, nor do answers come quickly, but they do come. It is not in my nature to give up and intend to see this through to the end, no matter when that is. In addition to setting personal goals, I also began to brainstorm and plan how I can use these newly gained skills to increase access to programming for at-risk-youth.      
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: 1
+* **A: End-of-Module Assessment**: 2
 * **B: Individual Work & Projects**: 3
 * **C: Group Work & Projects**: 3
 * **D: Professional Skills**: 3
@@ -28,7 +27,7 @@ I set out to immerse myself in programming and to learn the foundational skills.
 
 #### Number Guesser
 
-* [GitHub URL](https://github.com/K-Rye/Number-Guesser)
+* [GitHub URL](https://github.com/K-Rye/number-guesser2.0)
 * [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
 
 Build a game where the user guesses a number between 1 and 100.
