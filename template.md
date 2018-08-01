@@ -25,8 +25,8 @@ I think that I passed the end of module assessment. I think I did well on the pe
 
 #### (Number Guesser)
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [Number Guesser](https://github.com/cierrajw/NumberGuesser)
+* [Number Guesser Assignment](http://frontend.turing.io/projects/number-guesser.html)
 
 (description)
 
@@ -43,7 +43,7 @@ I think that I passed the end of module assessment. I think I did well on the pe
 #### (Linked List)
 
 [Linked List](https://github.com/cierrajw/linked-list)
-* [Original Assignment]()
+* [Linked List Assignmentt](http://frontend.turing.io/projects/linked-list.html)
 
 (description)
 
@@ -55,8 +55,8 @@ I think that I passed the end of module assessment. I think I did well on the pe
 
 #### (Idea Box)
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [Idea Box](https://github.com/cierrajw/idea-box)
+* [Idea Box Assignment](http://frontend.turing.io/projects/ideabox.html)
 
 (description)
 
@@ -68,8 +68,8 @@ I think that I passed the end of module assessment. I think I did well on the pe
 
 #### (2DoBox-Pivot)
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [2DoBox-Pivot](https://github.com/cierrajw/2DoBox--Pivot)
+* [2DoBox-Pivot](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
 
 (description)
 
