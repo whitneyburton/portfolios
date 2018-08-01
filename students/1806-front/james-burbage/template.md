@@ -63,72 +63,25 @@ Description
 
 ### Linked-List
 
-* [GitHub URL](https://github.com/GraySmith00/linkedList)
+* [GitHub URL](https://github.com/james-burbage/linked-list)
 * [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
 
 Description
 * Now it’s time to try your hand at building a small application.
 
+
 #### Evaluation Comments
 
-Functionality
- * No error messaging if one field is empty. No indication that `http://` is needed for URL validation.
-(Through Phase IV) 
+* [Linked-List Eval](https://github.com/turingschool/front-end-submissions-public/blob/master/1806/mod-1/linked-list/james-jessica.md)
 
-Comp Recreation/Design
- * Overall good recreation of the comp
- * Make sure button/counter placement looks intentional
- * Minor things to polish
-
-Git/GitHub
- * Good job with making verbose, detailed commits
- * Nice job working on feature branches
-
-HTML
- * Add labels to your inputs
- * Run through a screenreader
- * Do not add classes before you need them
-
-CSS
- * Nice job alphabetizing declarations
- * Look into [idiomatic CSS](https://github.com/necolas/idiomatic-css)
- * Keep your [CSS selectors short](https://csswizardry.com/2012/05/keep-your-css-selectors-short/)
-
-JS
- * Delete code that is not dealing with current spec
- * Take advantage that you are using function declarations and not expressions by placing functions called on page load at the top of your file
- * Simplify, simplify, simplify - take the Dieter Rams approach to writing your JS. Less is often more, as we discussed  
-
-#### Evaluation Scores
-
-Comp Recreation/Design
-* Proficient  
-
-HTML
-* Advanced Beginner  
-
-CSS
-* Advanced Beginner  
-
-JS/jQuery
-* Proficient  
-
-Git/GitHub
-* Proficient  
-
-Pairing/Collaboration
-* Proficient  
-
-Technical Vocabulary
-* Proficient
 
 #### My Feedback
 
- * I had a great time working with you! I thought we got along really well and it made the project more fun to work on for both of us. I could tell you have good attention to detail, and you were able to notice quickly when a word was wrong or something was in the wrong spot. You were picking up concepts quickly and came in with the clutch recursion idea at the end of the project! You also were very eager to get your javascript knowledge up and dove into the codeacademy lesson, which I thought was cool. I would encourage you to try to get better muscle memory for writing javascript in proper formatting and really keeping in mind where everything is opening and closing. So if someone says "lets make a function with a conditional that takes these 2 parameters and call it using these arguments on this event listener", you can write it out without having to think too much about the syntax. Keep up the codeacademy javascript lesson and also try to take the javascript file we wrote together and put it side-by-side with a blank file, and just type it out over and over again and really try to understand what every line is doing each time you type it. Then do it a few times without looking at the original. 
+ * I appreciated your flexibility and sympathy when I had a very rough start to the project. I also appreciated when you told me to go home when I was mentally and emotionally drained. I am grateful that, when I mentioned I wanted to work on shoring up my CSS skills, you delegated a lot of the CSS for the project to me and trusted me to get it done. I am also grateful for how much you worked with me when things didn't go as planned (i.e. when I broke the stylesheet and had to start over), and communicated with me regularly. For coaching, I would have preferred using Slack instead of GitHub to sync up our versions of the project's code. I was also frustrated when we got together to work on the project and the index.html file had been updated significantly, in my opinion; In that instance, I could have worked with the new classes in the styles.css file, thereby making our code look cleaner. I felt a bit slow and stupid when we did the driver-navigator coding on the first day, because we were going so fast and I didn't feel like I was keeping up very well, so in the future, I would recommend checking in with your partner on the pace.
 
 ### IdeaBox
 
-* [GitHub URL](https://github.com/james-burbage/idea-box)
+* [GitHub URL](https://github.com/james-burbage/ideaBox)
 * [Original Assignment](http://frontend.turing.io/projects/ideabox.html)
 
 Description
@@ -136,118 +89,15 @@ Description
 
 #### Evaluation Comments
 
-* Solid comp implementation
-
-HTML
-* Good use of aria-labels - really only needed on inputs though
-
-CSS
-* Consider adding organizational comments
-* Consider pulling duplicate declarations into a more broad class rule
-* Make sure you're using google fonts correctly
-
-JS
-* Pseudo code more and possibly use a checklist
-* Separate the data model from the markup - ie. Idea instead of IdeaCard
-
-#### Evaluation scores
-
-* Novice  Application meets all of the basic functional expectations of create, edit, delete, persist in local storage.
-
-HTML
-
-Accessibility
-
-* Proficient  Employs detailed accessibility practices throughout markup, especially in forms and can speak to decisions made in accessibility choices as it relates to specific accessibility concerns.
-
-Style
-
-* Proficient  Crafts lean, efficient markup that is easy to read and follow across naming conventions, structure, and solid formatting that follows industry best practices.
-
-CSS
-
-Structure of Code
-
-* Advanced Beginner Can cleanly and logically organize CSS rules according to similar categories (i.e. typography, layout, components), and then logically organize the remaining CSS rules based on flow of the markup. Organizes properties within rules alphabetically.
-* Proficient  Leverages cascading styles and CSS specificity rules to create more complex targeting of elements in order to reduce, reuse, share styles across elements. Organizes properties within rules based upon industry standard principles of writing consistent, idiomatic CSS.
-
-Implementation
-
-* Advanced Beginner Can articulate the differences between the approaches of absolute/relative positioning, flex-box, floats, and can appropriately apply the approaches to solve a variety of layout problems.
-* Proficient  Develops layouts that work cross-browser, are responsive, and can logically defend the choices made in implementation approach for layout.
-
-JAVASCRIPT
-
-Data Types
-
-* Advanced Beginner Can diagnose when issues of data-type mismatch are present and appropriately redirect their coding and/or research efforts accordingly to solve the problem.
-
-Conditional Logic
-
-* Advanced Beginner Uses if/else statements, but there are multiple levels of nesting, which makes the paths through the code difficult to follow. Understands what is “truthy” and “falsey” in JavaScript.
-
-Functions & Scope
-
-* Advanced Beginner Developer is comfortable using multiple arguments to pass data into functions. Understands how variables are scoped at the function level and global level. Functions are named descriptively. Knows when and why to use return in a function.
-
-Arrays
-
-* Novice  Can create array and use array indexing to extract data from array or modify array. Comfortable using arrays to store simple data types: numbers, booleans, or strings.
-* Advanced Beginner Can modify arrays by adding or removing specific elements - uses array methods such as push or shift. Can use a for loop to iterate through array.
-
-Objects & Prototypes
-
-* Advanced Beginner Can use object constructor functions and is comfortable with extracting values of properties on different object instances.
-
-DOM Manipulation
-
-* Novice  Can articulate what the DOM is and can effectively target elements in vanilla JavaScript via class, id, or tag.
-* Advanced Beginner Can add event listeners and create small functions that execute on events, can leverage the event object appropriately, and can articulate the what/why/how of jQuery.
-
-Style
-
-* Advanced Beginner Code shows strong effort toward organization, but suffers from long functions, unnecessary or poorly named variables, and requires significant refactoring. Application may have some duplication and minor bugs.
-* Proficient  Code is logically organized, such that reader can easily follow the progression of the app because variable and function names are descriptive and follow a single responsibility approach. There are no major bugs and minimal duplication.
-
-GIT & GITHUB
-
-Git
-
-* Advanced Beginner Can create branches and willingly attempts to incorporate branches into their workflow. Commits, while infrequent, are increased in volume and show improvements in description.
-
-Github
-
-* Novice  Can articulate what GitHub is, how it is different from Git, and why it is important. Can comfortably push and/or pull changes from master.
-* Advanced Beginner Can execute basic pull requests with context about changes in description. Can keep local and GitHub repositories in sync.
-
-DESIGN
-
-Comp Recreation
-
-* Advanced Beginner Can accomplish about 50-75% of the large and small design details and can logically rework them on at least 1 breakpoint.
-* Proficient  Developer captures the spirit and design intent of the comp. Some small details need polish to achieve a pixel-perfect match to the comp, but developer is clearly mindful of details and has made a conscious and careful effort to match the comp. Any design decisions left open to interpretation are handled thoughtfully and are well executed, but are more noticeable and/or unintuitive than they would be if the designer had provided the solution, or may not be totally seamless during screen-size transitions.
-
-PAIRING
-
-Collaboration
-
-* Advanced Beginner Can identify deltas in skill level and collaborate on methods whereby both pairs can share equitably in the workload. Can revisit the DTR to address changes that arise, and/or simply to keep one another reminded of the working plan.
-* Proficient  Can diplomatically handle issues that arise between the pair through respectful, focused, targeted feedback and implement changes to positively adapt the working relationship and keep the project on track. Can effectively implement tactics to support their partner’s learning and project goals, while also honoring their own personal learning and project goals, should the two be different or at different levels due to skill delta.
-
-TERMINOLOGY
-
-Technical Vocab
-
-* Advanced Beginner Can articulate what is going on in the overall codebase and uses the correct terminology some of the time.
-* Proficient Can articulate what is going on in the codebase, line by line, using the correct terminology most of the time. Developer can speak to and answer questions that utilize technical vocabulary.
+* [IdeaBox Eval](https://github.com/turingschool/front-end-submissions-public/blob/master/1806/mod-1/idea-box/graham-james.md)
 
 #### My Feedback
 
- * James did a great job of staying focused and identifying attainable goals to accomplish for our project. Moving forward your pairings will be more successful with keeping an open mind and thinking out your process with your partner. These projects are meant to make us better, and your partner wants to get better just as much as you, so I would be empathetic to your partner in those regards. 
+ * James is a great partner. His knowledge in js and jquery proved to be a cornerstone of our success in the project and I hope to work with him again in the future. James' attention to detail is second to none. I would suggest, in certain situations, that efficiency should take precedence over concentrating on the fine details:  We can always return and refactor a project to follow the rule of DRY but when we are on a productive sprint, it's best not to slow that momentum with activities that will not accomplish our functionality goals.
 
 ### 2DoBox
 
-* [GitHub URL](https://github.com/laurakwhit/2DoBox-Pivot)
+* [GitHub URL](https://github.com/flevenson/2DoBox-James-Freddie)
 * [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
 
 Description
@@ -255,97 +105,11 @@ Description
 
 #### Evaluation Comments
 
-Functional
- * Add feedback for save button, not working
- * Prevent more than 120 letters from being typed
- * Re-enable save button if less than 120 letters
-
-2 Extensions
-
-Aria
- * Make sure to use Aria on all interactive
-
- * Be very careful with floats, if you need to float right, try to use flexbox
-
-JS
- * Storing ideas in an array before putting in localStorage
- * When using ternaries in if/else statements consider combining the conditional from the ternary and the conditional from the if statement e.g. the conditional in changeImportance
-
-HTML
- * Use header/footer
-
- * Practice vocabulary
-
-
-Functional Expectations
-* Exceptional  
-
-#### Evaluation Scores
-
-HTML
-
-Accessibility
-* Advanced Beginner  
-
-Style
-* Advanced Beginner  
-
-CSS
-
-Structure of Code
-* Proficient  
-
-Implementation
-* Proficient  
-
-JAVASCRIPT
-
-Data Types
-* Proficient  
-
-Conditional Logic
-* Advanced Beginner  
-
-Functions & Scope
-* Proficient  
-
-Arrays
-* Proficient  
-
-Objects & Prototypes
-* Proficient  
-
-DOM Manipulation
-* Proficient  
-
-Style
-* Proficient  
-
-GIT & GITHUB
-
-Git
-* Proficient  
-
-Github
-* Proficient  
-
-DESIGN
-
-Design Concepts
-* Proficient  
-
-PAIRING
-
-Collaboration
-* Proficient  
-
-TERMINOLOGY
-
-Technical Vocabulary
-* Advanced Beginner
+* (https://github.com/turingschool/front-end-submissions-public/blob/master/1806/mod-1/to-do-box/freddie-james.md)
 
 #### My Feedback
- * I really appreciated your willingness to stay in contact (even over the weekend) and stay after class to work together. I know being sick definitely didn't help, but I think going forward it might be beneficial to dive into the javascript a little more. Even if you don't work on a piece of code, I think it is always a good idea to know why it's there. This could just mean sitting down with your partner and making sure that you know exactly what it is doing. All in all, it was a pleasure working with you James and I look forward to collaborating again in the future!
+
+* N/A
 
 ## D: Professional Skills
 
