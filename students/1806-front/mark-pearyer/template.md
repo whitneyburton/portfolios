@@ -153,8 +153,7 @@ The group projects were where we focused on our javascript skills and pushed our
  - Sparkles
  
 ### (feedback to me)
-- Add accessibility to HTML
-- don't use rem or em unless on fonts
+-Mark was great to work with. Mark was straightforward when we first got paired in letting me know his schedule, what he would work on and how. He was hardworking because he never fell behind schedule but instead knocked out functionalities for fun. He had a dedicated attitude probably because of his past in the US Navy. For coaching, if he was to pair with someone with a different skillset again, I definitely would recommend he pair in person more often. Our face to face pairing and remote pairing was well balanced for our particular skillsets. The guys is well-rounded as a person and programmer. I really don't know what I can tell him to make him better, in fact I kinda look up to him.
 #### Idea Box
 
 * [GitHub URL](https://github.com/lkshamus/IdeaBox)
@@ -228,7 +227,7 @@ The group projects were where we focused on our javascript skills and pushed our
  - Advanced Beginner Can articulate what is going on in the overall codebase and uses the correct terminology some of the time.
  - Proficient Can articulate what is going on in the codebase, line by line, using the correct terminology most of the time. Developer can speak to and answer questions that utilize technical vocabulary.
 ### (feedback to me)
-- sometimes things dont need to be in its own function if the cost is greater than the return.
+- Mark was available at all hours of the day/ night to work remotely on this project. I know he has a family that keeps him busy when he is not at school, so I am grateful for his flexibility when working on this project together. On the night before the project was due, we had two different approaches on how to solve our few remaining problems. We were working remotely and we both decided to solve the remaining issues differently, which caused other aspects of the code to crash. In the end, we fixed everything and our project turned out great. We both should have communicated more effectively this day so that we wouldn't have ran into the small issue that we did. 
 
 #### 2DoBox Pivot
 * [GitHub URL](https://github.com/Tobin-jn/2DoBox-Pivot)
@@ -302,23 +301,33 @@ The group projects were where we focused on our javascript skills and pushed our
  - Proficient
  - Exceptional
 ### (feedback to me)
-
+-I really appreciated the pace at which we worked throughout the project. I think we had a good DTR and stuck to it well throughout the project. I got a lot out of this project and we had a solid eval.Thanks for taking the time to talk me through a lot of the code throughout the project. We both wanted to improve our git flow and I felt good about how git went as well. Keep taking the time to do a solid DTR because in reflection it was very helpful for our pairing. Continue to remember to talk through the code as it helps move the project along and keeps everyone up to speed. Your communication and explanation was very effective.
 ## D: Professional Skills
-(Intro)
+I really enjoyed learning about everything in professional development. This transition from military to civilian life has been a real eye opener on how far behind military people are in soft skills.  
 
 ### Gear Up
-#### (Session Name)
+#### Emotional Intelligence
 
-* [GitHub URL]()
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m4_sessions/1806-inning/group5.md)
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+- Definitely learn how to manage your time in and outside of Turing. Understand your inner-voice is key to emotional intelligence. 
+
+#### Mental Health
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/Mod1_Week1_mental_health_101.md)
+- Eat good, Sleep good, Exercise, check in with with accountability person. 
+
+#### Empathy and Privilege
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/Mod2_Week1_Empathy_and_Privilege.markdown)
+- Having diversity in tech makes products better. 
 
 ## E: Community Participation
 
 ### Playing a Part
 
 (ways you supported the larger Turing community)
-SAB
+SAB - Has been a great way to be able to express concerns people have had in my cohort.
+ 
 ------------------
 
 ## Final Review
