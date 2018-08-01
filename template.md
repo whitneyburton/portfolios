@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-I set out to build a strong foundation in JavaScript/jQuery and CSS. My goal is to be great at both of these languages. 
+I set out to build a strong foundation in JavaScript/jQuery and CSS. My ultimate goal is to be great at both of these languages. I do believe that I my goal of getting a strong foundation.
 
 ## Rubric Scores
 
