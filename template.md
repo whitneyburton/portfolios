@@ -50,6 +50,45 @@ Number guesser was the initial project at Turing that helped get me off the grou
 
 (evaluation scores)
 
+# Static Comp 1
+
+* [2DoBox-Pivot](https://github.com/cierrajw/2DoBox--Pivot)
+* [2DoBox-Pivot](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+(feedback to me)
+
+# Static Comp 2
+
+* [2DoBox-Pivot](https://github.com/cierrajw/2DoBox--Pivot)
+* [2DoBox-Pivot](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+(feedback to me)
+
+# Static Comp 3
+
+* [2DoBox-Pivot](https://github.com/cierrajw/2DoBox--Pivot)
+* [2DoBox-Pivot](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+(feedback to me)
+
 ## C: Group Work & Projects
 
 ### Projects
