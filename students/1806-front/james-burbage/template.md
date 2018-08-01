@@ -152,4 +152,3 @@ I was always willing to help my classmates when I could. I also enjoyed pairing 
 
 ### Outcome
 
-( Leave blanks for reviewers )
