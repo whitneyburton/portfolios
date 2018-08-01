@@ -18,12 +18,14 @@
 
 ## B: Individual Work & Projects
 
-(Intro)
 
-#### (Project Name)
+This was the first of three static comp challenges in which I was asked to recreate a static comp, with each growing in complexity.
 
-* [GitHub URL]()
-* [Original Assignment]()
+
+#### Number Guesser
+
+* [GitHub URL](https://github.com/alexanderela/turing-number-guesser)
+* [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
 
 (description)
 
@@ -31,8 +33,6 @@
 
 (evaluation scores)
 
-
-This was the first of three static comp challenges in which I was asked to recreate a static comp, with each growing in complexity.
 
 #### Static Comp Challenge 1
 
@@ -45,9 +45,27 @@ This was the first of three static comp challenges in which I was asked to recre
 
 (evaluation scores)
 
+#### Static Comp Challenge 2
 
+* [GitHub URL](https://github.com/alexanderela/ae-comp-challenge-2)
+* [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-2.html)
 
+(description)
 
+(evaluation comments)
+
+(evaluation scores)
+
+#### Static Comp Challenge 3
+
+* [GitHub URL](https://github.com/alexanderela/ae-comp-challenge-3)
+* [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-3.html)
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
 
 
 
