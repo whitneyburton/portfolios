@@ -14,7 +14,7 @@ What did you struggle most with this module? What did you learn from that strugg
   so well.  But after we had learned all the material and I was able to go over and redo the challenges I was able to reproduce
   them and similar apps from scratch.  Where my weaknesses still lie are in ActiveRecord and SQL.  I feel that if I go through
   them with help I am able to complete and understand it but when I try a couple days later to do new problems my retention on
-  those topics is poor.  I am a visual learner so I believe that's why AR and SQL are hard for me since chaining many methods together is hard to conceptualize and visualize in your head.  I plan on working through some SQL on a website that visualizes the tables over the break in hopes to improve in these areas.
+  those topics is poor.  I am a visual learner so I believe that's why AR and SQL are hard for me since chaining many methods together is hard to conceptualize and visualize in your head.  I plan on working through some SQL on a website that visualizes the tables over the break in hopes to improve in these areas.  I also want to improve my ability to discuss my code.  I find it hard to verbalize the work I have done and speak technically.
 
 ## Blog
 
