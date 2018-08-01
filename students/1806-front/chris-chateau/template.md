@@ -92,7 +92,7 @@ I completed two pair projects this module and enjoyed the collaboration process 
 
 ### Playing a Part
 
-I have enjoyed developing relationships with my cohort-mates as well as students in the higher mods. Everyone I've interacted with has been incredibly supportive and helpful. People have even walked past me at pairing stations and check-in to see if there's anything I was struggling with. As my coding abilities progress through the Mod's, I hope to repay this gesture to incoming students. I was also amazed the the supportive DM's I received from classmates and even people in higher mods regarding my static comps. It's an inspiring community to be a part of. I admittedly have no taken part in some of the recent community evens as I'm hyper-focused on my own work, but hope change this going forward.
+I have enjoyed developing relationships with my cohort-mates as well as students in the higher mods. Everyone I've interacted with has been incredibly supportive and helpful. People have even walked past me at pairing stations and checked-in to see if there's anything I was struggling with. As my coding abilities progress through the Mod's, I hope to repay this gesture to incoming students. I was also amazed the the supportive DM's I received from classmates and even people in higher mods regarding my static comps. It's an inspiring community to be a part of. I admittedly have not taken part in some of the recent community events as I'm hyper-focused on my own work, but hope change this going forward.
 
 ------------------
 
