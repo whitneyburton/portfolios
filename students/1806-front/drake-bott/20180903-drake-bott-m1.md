@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+Learn the fundamentals.  Coming into Turing I had no experience with HTML, CSS, or Javascript.  My past experience with some light coding in Highschool from 2? years back was in Java, and 5? years ago in Python.  I feel that I have the fundmentals down, but I am definitely a lot stronger with Javascript than CSS.  My CSS works, but could be better I think.  My most recent partner evaluation hit spot on I think.  My partner pointed out that I often just shoot to finish what is required, but with the extra time I could be pushing myself further to learn more.
 
 ## Rubric Scores
 
