@@ -15,9 +15,11 @@ https://medium.com/@malek.stephen44/namespacing-in-rails-4539f969f9e8
 
 ## ActiveRecord Obstacle Course
 
-Link your finished ActiveRecord Obstacle Course here.
+Link your finished ActiveRecord Obstacle Course here.  
+https://github.com/sdmalek44/storedom-5  
 
-Was this helpful for practicing ActiveRecord?
+Was this helpful for practicing ActiveRecord?  
+This was very helpful for practicing active record. I now feel pretty comfortable with everything included in this obstacle course.  
 
 ## Projects
 
@@ -33,9 +35,11 @@ I learned a lot from my paired projects. I got to experience the negatives of ba
 
 ## Community
 
-How did you contribute to the Turing community this module?
+How did you contribute to the Turing community this module?  
+I contributed to the turing community by helping module 1 students that needed help with their projects. I know how hard module 1 was so I tried to make myself available to help people by introducing myself and telling students I am willing to help. I also contributed to the community by going to the code demo and supporting turing students who spent a lot of time and effort on their projects. It was cool to see what students in other mods have been doing with their time and see it come to fruition.  
 
-What would you like to do to contribute next module?
+What would you like to do to contribute next module?  
+Next module I would like to attend the code demo again. I enjoy going to them and I know the students involved appreciate the support. I would also like to start regularly attending a posse. I only went to the machine learning posse once this mod because I have been busy but I would like to attend more regularly. I would also like to help mod 1 and 2 students more when I am in mod 3.  
 
 ## Self-Assessment Scores
 
@@ -43,9 +47,9 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 | Category                     | Score |
 | -----------------------------| ----- |
-| **Individual Projects**      |   X   |
-| **Group Projects**           |   X   |
-| **Professional Development** |   X   |
-| **Community**                |   X   |
-| **Final Written**            |   X   |
-| **Final Timed**              |   X   |
+| **Individual Projects**      |   4   |
+| **Group Projects**           |   3   |
+| **Professional Development** |   3   |
+| **Community**                |   3   |
+| **Final Written**            |   3   |
+| **Final Timed**              |   3   |
