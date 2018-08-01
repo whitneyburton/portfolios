@@ -109,7 +109,7 @@ Description
 
 #### My Feedback
 
-* N/A
+* I appreciated your skill with time boxing extensively. Your experience from going through the mod once before was essential. You knew how to keep us motivated and rotating through tasks so we didn't get stuck on just one thing, but were able to get quick wins and morale boosts by switching tasks to something we knew how to do, or go crush a mythical creature and feel re-energized. I also just appreciated your sense of humor. We had a great dynamic between each other and were able to joke around and keep ourselves in high spirits when we were stuck working on something and getting frustrated with the code. I would say that the only piece of "coaching" feedback that I could give to you is to not over-do the rotation. I know it is the final week of the mod, and that we had discussed a couple of times that we wanted to ensure that both of us were successful at pentathlon, and that is definitely important, but it is also key to remember deadlines. We were able to accomplish so much of the project and I was so proud of what we got done, but I would remember when there is a project due sooner than another, even if the other project is more daunting or more important, it is necessary sometimes to put other tasks out of your head until the first deadline has passed and then you can refocus on the task you had more time to accomplish.
 
 ## D: Professional Skills
 
