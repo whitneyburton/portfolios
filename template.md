@@ -52,8 +52,8 @@ Number guesser was the initial project at Turing that helped get me off the grou
 
 # Static Comp 1
 
-* [2DoBox-Pivot](https://github.com/cierrajw/2DoBox--Pivot)
-* [2DoBox-Pivot](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
+* [Static Comp 1](https://github.com/cierrajw/cjw-comp-challenge-1)
+* [Static Comp 1 Assignment](http://frontend.turing.io/projects/m1-static-comp-1.html)
 
 (description)
 
@@ -65,8 +65,8 @@ Number guesser was the initial project at Turing that helped get me off the grou
 
 # Static Comp 2
 
-* [2DoBox-Pivot](https://github.com/cierrajw/2DoBox--Pivot)
-* [2DoBox-Pivot](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
+* [Static Comp 2](https://github.com/cierrajw/cjw-comp-challenge-2)
+* [Static Comp 2 Assignment](http://frontend.turing.io/projects/m1-static-comp-2.html)
 
 (description)
 
@@ -78,8 +78,8 @@ Number guesser was the initial project at Turing that helped get me off the grou
 
 # Static Comp 3
 
-* [2DoBox-Pivot](https://github.com/cierrajw/2DoBox--Pivot)
-* [2DoBox-Pivot](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
+* [Static Comp 3](https://github.com/cierrajw/cw-comp-challenge-3)
+* [Static Comp 3 Assignment](http://frontend.turing.io/projects/m1-static-comp-3.html)
 
 (description)
 
