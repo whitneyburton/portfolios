@@ -25,8 +25,8 @@
 
 #### NumberGuesser
 
-* http://frontend.turing.io/projects/number-guesser.html
-* http://frontend.turing.io/projects/number-guesser.html
+* [GitHub URL](https://github.com/Tobin-jn/NumberGuesser)
+* [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
 
 (description)
 
