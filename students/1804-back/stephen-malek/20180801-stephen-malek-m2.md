@@ -4,7 +4,7 @@
 
 What did you set out to accomplish this module? Were you successful?  
 
-This module set out to learn how to make rails applications quickly and efficiently. I feel that I was successful in my goal. On the final and the last 2 code challenges before it, I have either completed all the user stories or completed all but 1 of them. My speed has increased a lot. I find myself doing things without even having to think about it now. When I see an error message.
+This module set out to learn how to make rails applications quickly and efficiently. I feel that I was successful in my goal. On the final and the last 2 code challenges before it, I have either completed all the user stories or completed all but 1 of them. My speed has increased a lot. I find myself doing things without even having to think about it now. When I see an error message I will see it and usually know exactly where to go in my file structure to fix it. 
 
 What did you struggle most with this module? What did you learn from that struggle?
 
