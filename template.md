@@ -23,7 +23,7 @@ I think that I passed the end of module assessment. I think I did well on the pe
 
 I learned a lot while working on these individual and group projects. I was able to learn more about myself particularly through the group projects. I think that overall I did well on both the individual and group projects.
 
-#### (Number Guesser)
+# Number Guesser
 
 * [Number Guesser](https://github.com/cierrajw/NumberGuesser)
 * [Number Guesser Assignment](http://frontend.turing.io/projects/number-guesser.html)
@@ -56,7 +56,7 @@ Number guesser was the initial project at Turing that helped get me off the grou
 
 (Intro)
 
-#### (Linked List)
+## Linked List
 
 [Linked List](https://github.com/cierrajw/linked-list)
 * [Linked List Assignmentt](http://frontend.turing.io/projects/linked-list.html)
@@ -88,7 +88,7 @@ Number guesser was the initial project at Turing that helped get me off the grou
 
 (feedback to me)
 
-#### (Idea Box)
+## Idea Box
 
 * [Idea Box](https://github.com/cierrajw/idea-box)
 * [Idea Box Assignment](http://frontend.turing.io/projects/ideabox.html)
@@ -101,7 +101,7 @@ Number guesser was the initial project at Turing that helped get me off the grou
 
 (feedback to me)
 
-#### (2DoBox-Pivot)
+# 2DoBox-Pivot
 
 * [2DoBox-Pivot](https://github.com/cierrajw/2DoBox--Pivot)
 * [2DoBox-Pivot](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
