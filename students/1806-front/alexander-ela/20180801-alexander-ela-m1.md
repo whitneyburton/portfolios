@@ -32,8 +32,8 @@ The individual projects in this module consisted of the following:
 
 (description)
 
-## Evaluator: Travis Rollins
-## Notes/What To Work On:
+##### Evaluator: Travis Rollins
+##### Notes/What To Work On:
 
 * Careful of margins and spacing in header for UI
 * Next step: adding aria-labels to html buttons and inputs
