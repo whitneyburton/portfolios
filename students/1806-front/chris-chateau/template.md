@@ -44,7 +44,7 @@ I immersed myself in each one of these projects. At no point did I stop working 
 
 #### Evaluation
 
-* [2DoBox Evaluation](https://github.com/turingschool/front-end-submissions-public/blob/master/1806/mod-1/number-guesser/chris-chateau.md)
+* [2DoBox Evaluation](https://github.com/turingschool/front-end-submissions-public/tree/master/1806/mod-1/to-do-box)
 
 ## C: Group Work & Projects
 
@@ -62,7 +62,7 @@ I completed two pair projects this module and enjoyed the collaboration process 
 
 #### Evaluation
 
-* [2DoBox Evaluation](https://github.com/turingschool/front-end-submissions-public/blob/master/1806/mod-1/number-guesser/chris-chateau.md)
+* [Linked-List Evaluation](https://github.com/turingschool/front-end-submissions-public/blob/master/1806/mod-1/linked-list/chris-cierra.md)
 
 * Cierra's Feedback: ```Hi Chris! I had a great time working with you. You were very persistent in trying to figure out how to add features and learn new things. I really appreciate your refactoring efforts, and how you made the code much more organized and readable. The only 'coaching' feedback I have is that we both could have had a more systematic approach to the project,  using apps like waffle.io or Trello, etc. to organize tasks as a way to avoid some conflicts. Other than that your collaboration style was very supportive and productive. Overall a great partnership and you did a great job!```
 
