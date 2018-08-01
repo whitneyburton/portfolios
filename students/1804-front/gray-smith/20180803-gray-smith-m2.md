@@ -44,8 +44,8 @@ I really enjoyed working on both paired projects this mod. Game Time was a great
 
 For this project, my partner Benjamin Paige and I recreated the classic Tron arcade game using Object Oriented Programming and vanilla JavaScript. I wasn't super excited for this project at first, but once we got into it, it was really fun to learn the basics of game development and to make something that people could have fun with.
 
-- [GitHub URL](http://frontend.turing.io/projects/game-time.html)
-- [Original Assignment](https://github.com/GraySmith00/gs-bp-game-time)
+- [GitHub URL](https://github.com/GraySmith00/gs-bp-game-time)
+- [Original Assignment](http://frontend.turing.io/projects/game-time.html)
 - [Evaluation & Comments](https://github.com/turingschool/front-end-submissions-public/blob/master/1804/mod-2/game-time/benjamin-gray.md)
 
 #### Weatherly
