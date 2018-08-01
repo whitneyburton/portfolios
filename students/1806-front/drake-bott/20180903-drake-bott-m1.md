@@ -1,4 +1,4 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Drake Bott - M1 Portfolio
 
 ## Areas of Emphasis
 
@@ -25,14 +25,30 @@
 
 #### (Project Name)
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/bottd/Number-Guesser)
+* [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
 
-(description)
+* Intro: Build a game where the user guesses a number between 1 and 100.  This project was an intro to DOM manipulation, and my first time using javascript.
 
-(evaluation comments)
+* Evaluation comments: 
+  * Keep in mind UX (user experience)
+  * Add save button for min/max
+  * Being able to use reset button without having to make a guess
+  * Adding aria labels for inputs and buttons
+  * Small refactor: use of multiple spans in title instead of using cascading styles
+  * Cleaning up styles and removing repeated lines
+  * Add some spacing for CSS and javascript for readability
+  * Careful of nested if/else statements
+  * Use function declarations for event listeners that have the same functionality to remove repeated code
 
-(evaluation scores)
+* Evaluation scores
+  * Functional Expectations: Proficient: Application meets all of the expectations of phase three.
+  * COMP RECREATION / DESIGN: Advanced Beginner
+  * HTML: Advanced Beginner / Proficient
+  * CSS: Advanced Beginner
+  * JS/jQuery: Advanced Beginner
+  * Surprise and Delight: Hot Fire
+
 
 ## C: Group Work & Projects
 
@@ -67,7 +83,7 @@
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+Since I wasn't really around much after class due to commuting, I tried to stay active in the couple 1806 chat channels being as helpful as possible and working towards answering as many questions as I could people had problems came up.
 
 ------------------
 
