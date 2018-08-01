@@ -32,7 +32,7 @@ I learned a lot while working on these individual and group projects. I was able
 
 Number guesser was the initial project at Turing that helped get me off the ground in terms of confidence with JavaScript. This project gave me the confidence to attempt to conquer the other projects, and each subsequent project did the same.
 
-### Evaluation comments
+### Evaluation
 
 ## Evaluator: Louisa
 ## Notes/What To Work On:
@@ -132,7 +132,7 @@ The group projects were fun, and I was able to learn a lot from others, and teac
 
 Linked list is a project that allowed me to understand the concept of appending/prepending elements to other elements on a page. 
 
-### Evaluation Comments:
+### Evaluation
 
 ## Evaluator: Travis Rollins
 ## Notes/What To Work On:
@@ -206,7 +206,7 @@ Good job understanding the JS, and good job with aria labels. Could make more gi
 
 Idea box was a next level exploration of JavaScript (particularly in terms of learning things like local storage), and I was able to really use and start to understand jQuery. 
 
-### Evaluation comments:
+### Evaluation
 
 ## Evaluator: David Whitaker
 ## Notes/What To Work On:
