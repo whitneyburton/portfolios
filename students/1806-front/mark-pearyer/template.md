@@ -6,11 +6,11 @@ I setout this Mod to get a solid foundation on Javascript, as well as improve my
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Community Participation**: X
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 2
 
 -----------------------
 
@@ -207,13 +207,74 @@ I setout this Mod to get a solid foundation on Javascript, as well as improve my
 * [GitHub URL](https://github.com/Tobin-jn/2DoBox-Pivot)
 * [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
 
-(description)
+### (description)
 
-(evaluation comments)
+### (evaluation comments)
+* Git/Github
+- Nice work! Seeing a lot of commits and good context
+- Be more consistent with Capitalization and tense
 
-(evaluation scores)
+* HTML
+- Use of aria labels to provide more context
 
-(feedback to me)
+* CSS
+- Avoid comma seperated selectors, use a more broad class instead
+- Like the smaccs
+
+* JS
+- Pull duplicate blocks into their own functions and pass arguments where necessary
+- Use data model as your counter as in the case of quality
+### (evaluation scores)
+* Functional Expectations
+- Advanced Beginner  
+- Proficient  
+* HTML
+* Accessibility
+- Advanced Beginner  
+- Proficient  
+* Style
+- Proficient  
+* CSS
+* Structure of Code
+- Proficient  
+* Implementation
+- Proficient  
+* JAVASCRIPT
+* Data Types
+- Advanced Beginner  
+- Proficient  
+* Conditional Logic
+- Proficient  
+* Functions & Scope
+- Proficient  
+* Arrays
+- Proficient  
+* Objects & Prototypes
+- Proficient  
+* DOM Manipulation
+- Advanced Beginner  
+- Proficient  
+* Style
+- Proficient  
+* GIT & GITHUB
+* Git
+- Proficient  
+* Github
+- Proficient  
+- Exceptional  
+* DESIGN
+* Design Concepts
+- Proficient  
+* PAIRING
+* Collaboration
+- Exceptional
+* TERMINOLOGY
+* Technical Vocabulary
+- Proficient
+- Exceptional
+
+
+### (feedback to me)
 
 ## D: Professional Skills
 (Intro)
@@ -230,7 +291,7 @@ I setout this Mod to get a solid foundation on Javascript, as well as improve my
 ### Playing a Part
 
 (ways you supported the larger Turing community)
-
+SAB
 ------------------
 
 ## Final Review
