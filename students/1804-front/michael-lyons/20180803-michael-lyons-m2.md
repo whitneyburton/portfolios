@@ -84,8 +84,6 @@ Haley and I built an awesome weather forecasting application in ReactJs. This wa
 
 ##### Evaluation Comments
 
-not yet
-
 ## D: Community Participation
 
 ### Playing a Part
