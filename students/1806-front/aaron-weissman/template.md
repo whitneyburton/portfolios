@@ -2,31 +2,36 @@
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+I came into Turing without much background in coding other than what I'd done for the prework, so my goal was really to try to absorb as much knowledge as possible on as many subjects as I could. I feel like I've learned a ton already and am beginning to feel like I understand coding more broadly. I can look at code now and mostly grasp what is going on. In addition, my ability to read the docs and to follow what is happening on stack exchange have greatly increased. I now feel like with enough time I can go and figure out almost anything I need to do.
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Community Participation**: X
+* **A: End-of-Module Assessment**: 4
+* **B: Individual Work & Projects**: 4
+* **C: Group Work & Projects**: 4
+* **D: Professional Skills**: 4
+* **E: Community Participation**: 2
 
 -----------------------
 
 ## A: End of Module Assessment
 
-(Indicate whether you passed or failed the end of module assessment)
-
+I believe I passed the module. I've worked hard to do as many phases of every project as possible and also to make sure that I collaborated closely with my partners. I learned a lot at each phase of each project and did my best to challenge my self rather than just get things done.
 
 ## B: Individual Work & Projects
 
-(Intro)
+Individual Projects Include:
 
-#### (Project Name)
+Number Guesser
+Static Comp 1
+Static Comp 2
+Static Comp 3
 
-* [GitHub URL]()
-* [Original Assignment]()
+#### (Number Guesser)
+
+* [GitHub URL](https://github.com/aweissman11/number-guesser)
+* [GitHub Pages](https://aweissman11.github.io/number-guesser/)
+* [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
 
 (description)
 
