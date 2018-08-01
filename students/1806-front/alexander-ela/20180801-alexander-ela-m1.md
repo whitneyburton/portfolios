@@ -134,7 +134,7 @@ The group projects in this module consisted of three assignments completed by gr
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+My contributions to the greater Turing community have been subtle but considered.  I'm introverted by nature and sometimes struggle with asking questions. However, I've consistently strived to be vocal in class when I don't understand a concept. This is both for my own benefit and for other students who may feel hesitant to ask questions themselves. When talking to other students I've made a consistent effort to be kind and supportive, as I very much realize that many students are feeling vulnerable in a fast-paced educational setting with material that is new to them.  Another way I've tried to contribute to the Turing community as a whole has been to take my learning very seriously and to consistently demonstrate through my actions, classroom etiquette, and study habits that I am wholeheartedly committed to my studies at Turing. It is my hope that my demeanor has helped to motivate or inspire others during my time here thus far. Furthermore, it is my hope that as I gain confidence in my programming skills in future modules, I will feel more confident in my ability to offer specific guidance to my classmates and to other Turing students with whom I come into contact.
 
 ------------------
 
