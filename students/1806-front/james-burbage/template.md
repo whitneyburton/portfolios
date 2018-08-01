@@ -29,9 +29,9 @@ I really wanted to absorb as much information as possible and pass the module. I
 Description
 * Build a game where the user guesses a number between 1 and 100.
 
-#### Evaluation Comments
+#### Evaluation
 
-* [Number Guesser Eval](https://github.com/turingschool/front-end-submissions-public/blob/master/1806/mod-1/number-guesser/james-burbage.md)
+* [Number Guesser Evaluation](https://github.com/turingschool/front-end-submissions-public/blob/master/1806/mod-1/number-guesser/james-burbage.md)
 
 ### Static Comp 1
 
@@ -70,9 +70,9 @@ Description
 * Now it’s time to try your hand at building a small application.
 
 
-#### Evaluation Comments
+#### Evaluation
 
-* [Linked-List Eval](https://github.com/turingschool/front-end-submissions-public/blob/master/1806/mod-1/linked-list/james-jessica.md)
+* [Linked-List Evaluation](https://github.com/turingschool/front-end-submissions-public/blob/master/1806/mod-1/linked-list/james-jessica.md)
 
 
 #### My Feedback
@@ -87,9 +87,9 @@ Description
 Description
 * Every developer has more ideas than time. As David Allen likes to say “the human brain is for creating ideas, not remembering them.” In this project, we’ll be building a simple application for recording and archiving our ideas (good and bad alike).
 
-#### Evaluation Comments
+#### Evaluation
 
-* [IdeaBox Eval](https://github.com/turingschool/front-end-submissions-public/blob/master/1806/mod-1/idea-box/graham-james.md)
+* [IdeaBox Evaluation](https://github.com/turingschool/front-end-submissions-public/blob/master/1806/mod-1/idea-box/graham-james.md)
 
 #### My Feedback
 
@@ -103,9 +103,9 @@ Description
 Description
 * Every developer has more ideas than time. As David Allen likes to say “the human brain is for creating ideas, not remembering them.” In this project, we’ll be building a simple application for recording and archiving our ideas (good and bad alike).
 
-#### Evaluation Comments
+#### Evaluation
 
-* (https://github.com/turingschool/front-end-submissions-public/blob/master/1806/mod-1/to-do-box/freddie-james.md)
+* [2DoBox Evaluation](https://github.com/turingschool/front-end-submissions-public/blob/master/1806/mod-1/to-do-box/freddie-james.md)
 
 #### My Feedback
 
