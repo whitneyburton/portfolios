@@ -16,9 +16,6 @@
 
 ## A: End of Module Assessment
 
-(Indicate whether you passed or failed the end of module assessment)
-
-
 ## B: Individual Work & Projects
 
 (Intro)
@@ -33,6 +30,28 @@
 (evaluation comments)
 
 (evaluation scores)
+
+
+This was the first of three static comp challenges in which I was asked to recreate a static comp, with each growing in complexity.
+
+#### Static Comp Challenge 1
+
+* [GitHub URL](https://github.com/alexanderela/ae-comp-challenge-1)
+* [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-1.html)
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+
+
+
+
+
+
+
 
 ## C: Group Work & Projects
 
