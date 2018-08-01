@@ -43,33 +43,25 @@ The individual projects in this module consisted of the following:
 * Keep working on refactoring repeated lines of code in your javascript
 * Make sure to pass event as a parameter in event listener functions
 
-## Functional Expectations
+##### Functional Expectations
 
 * Advanced Beginner: Application meets all of the expectations of phase two.   
 
 
-## COMP RECREATION / DESIGN
- 
+##### COMP RECREATION / DESIGN
 * Advanced Beginner  
 
-## HTML
- 
+##### HTML
 * Proficient  
 
-
-## CSS
-  
+##### CSS
 * Advanced Beginner  
 * Proficient   
 
-
-## JS/jQuery
-
+##### JS/jQuery
 * Proficient  
 
-
-## Surprise and Delight (reminder: have fun!)
-
+##### Surprise and Delight (reminder: have fun!)
 * Hot Fire  
 
 
