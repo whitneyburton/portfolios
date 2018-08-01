@@ -1,4 +1,4 @@
-# First Last - M1 Portfolio
+# Tara Craig - BEM1 Portfolio
 
 ## Areas of Emphasis
 
