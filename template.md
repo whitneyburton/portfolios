@@ -28,7 +28,7 @@ I learned a lot while working on these individual and group projects. I was able
 * [Number Guesser](https://github.com/cierrajw/NumberGuesser)
 * [Number Guesser Assignment](http://frontend.turing.io/projects/number-guesser.html)
 
-(description)
+(description):
 
 Number guesser was the initial project at Turing that helped get me off the ground in terms of confidence with JavaScript. This project gave me the confidence to attempt to conquer the other projects, and each subsequent project did the same.
 
@@ -55,11 +55,11 @@ Number guesser was the initial project at Turing that helped get me off the grou
 * [Static Comp 1](https://github.com/cierrajw/cjw-comp-challenge-1)
 * [Static Comp 1 Assignment](http://frontend.turing.io/projects/m1-static-comp-1.html)
 
-(description)
+(description):
 
 Static comp 1 was my very first static comp challenge, where I was really able to utilize grid and flex box and start to understand how they work. 
 
-(evaluation comments)
+(evaluation comments):
 
 Great feedback, just could space the arrows on my side image better, and fix the < 320 media query alignment.
 
@@ -68,11 +68,11 @@ Great feedback, just could space the arrows on my side image better, and fix the
 * [Static Comp 2](https://github.com/cierrajw/cjw-comp-challenge-2)
 * [Static Comp 2 Assignment](http://frontend.turing.io/projects/m1-static-comp-2.html)
 
-(description)
+(description):
 
 Static comp 2 was an exploration in more advanced grid topics such as auto fit and minmax. 
 
-(evaluation comments)
+(evaluation comments):
 
 I did a great job with aligning things on the page as well as media queries, just could work on fonts to really make the page "pop"
 
@@ -81,12 +81,12 @@ I did a great job with aligning things on the page as well as media queries, jus
 * [Static Comp 3](https://github.com/cierrajw/cw-comp-challenge-3)
 * [Static Comp 3 Assignment](http://frontend.turing.io/projects/m1-static-comp-3.html)
 
-(description)
+(description):
 
 Static comp 3 was definitely a learning experience for me, and a challenge (mostly in patience, and media queries). I think I did a great job overall mimicking the original comp, particularly in desktop mode. I also explored other things like creating a bargraph with Canvas and also a jQuery toggle for the side menu. I feel that I have a great idea of how to structure a page by looking at it and planning it out, using CSS grid. 
 
 
-(evaluation comments)
+(evaluation comments):
 
 I did a great job with structuring the page and my code, and I could do better with media queries as far as a liquid layout with the complex comp. I just have to watch a video or two, becuase I understand grid and flex pretty well, but the media queries got a little "squirely". 
 
@@ -101,6 +101,8 @@ I did a great job with structuring the page and my code, and I could do better w
 
 [Linked List](https://github.com/cierrajw/linked-list)
 * [Linked List Assignmentt](http://frontend.turing.io/projects/linked-list.html)
+
+(description):
 
 Linked list is a project that allowed me to understand the concept of appending/prepending elements to other elements on a page. 
 
@@ -127,16 +129,19 @@ Evaluation Comments:
 
 (evaluation scores): 3-4
 
-(feedback to me):
+(feedback to me): Good job understanding the JS, and good job with aria labels. Could make more git commits. 
 
 # Idea Box
 
 * [Idea Box](https://github.com/cierrajw/idea-box)
 * [Idea Box Assignment](http://frontend.turing.io/projects/ideabox.html)
 
-(description)
+(description):
 
-## Student: Cierra and Cole
+Idea box was a next level exploration of JavaScript (particularly in terms of learning things like local storage), and I was able to really use and start to understand jQuery. 
+
+Evaluation comments:
+
 ## Evaluator: David Whitaker
 ## Notes/What To Work On:
 
@@ -161,28 +166,46 @@ Evaluation Comments:
 
 Proficient/The application consists of one page with all of the major functionality being provided by jQuery. No approach was taken that is counter to the spirit of the project and its learning goals.
 
-evaluation scores: 3-4
-
-feedback to me: 
+(evaluation scores): 3-4
 
 # 2DoBox-Pivot
 
 * [2DoBox-Pivot](https://github.com/cierrajw/2DoBox--Pivot)
 * [2DoBox-Pivot](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
 
-(description)
+(description):
 
-(evaluation comments)
+The 2DoBox-Pivot was a project that allowed me to really solidify some concepts such as local storage and JSON, as well as grasp jQuery even better. I was able to help my partner understand some concepts, and I was able to see him become a more confident programmer, especially with the help of his mentor. 
 
-evaluation scores: 3-4
+(evaluation comments):
 
-(feedback to me)
+## Students: Alex and Cierra
+## Evaluator: Louisa
+## Notes/What To Work On:
+
+- nice disabled save button color choices/behavior
+- good "completed" button addition
+- nice use of transitions when filtering cards
+- good github workflow, make sure you're writing clear commit messages, some were a little unclear
+- nice use of ARIA
+- missing closing HTML tag
+- still some unused/unneeded CSS, still could use a clean up refactor pass
+- JS is tidy and well factored
+- Fantastic use of terminology and really, really good at speaking about your code and the decisions that went into it
+- really good team work! So awesome to see a team that worked so well together and enjoyed working together.
+- REALLY GOOD JOB!!!!!
+
+## Functional Expectations
+
+* Proficient  
+
+(evaluation scores): 3-4
 
 ## D: Community Participation
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+(ways you supported the larger Turing community):
 
 I think that I supported the larger Turing community in a couple of ways. One way is that I was able to help my fellow classmates who were in need of a push in terms of understanding their projects, or in terms of motivation. Another way is that I made sure to do my part as far as cleaning/maintaining our classroom space, and cleaning up after myself in the kitchen.
 
