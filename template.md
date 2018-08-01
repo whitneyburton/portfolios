@@ -159,6 +159,8 @@ Number guesser was the initial project at Turing that helped get me off the grou
 
 (ways you supported the larger Turing community)
 
+I think that I supported the larger Turing community in a couple of ways. One way is that I was able to help my fellow classmates who were in need of a push in terms of understanding their projects, or in terms of motivation. Another way is that I made sure to do my part as far as cleaning/maintaining our classroom space, and cleaning up after myself in the kitchen.
+
 ------------------
 
 ## Final Review
