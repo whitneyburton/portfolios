@@ -100,9 +100,9 @@ Number guesser was the initial project at Turing that helped get me off the grou
 [Linked List](https://github.com/cierrajw/linked-list)
 * [Linked List Assignmentt](http://frontend.turing.io/projects/linked-list.html)
 
-(description)
+Linked list is a project that allowed me to understand the concept of appending/prepending elements to other elements on a page. 
 
-(evaluation comments)
+Evaluation Comments:
 
 ## Evaluator: Travis Rollins
 ## Notes/What To Work On:
@@ -123,9 +123,9 @@ Number guesser was the initial project at Turing that helped get me off the grou
 
 * Exceptional: You completed Phase Three and did something with Phase Four.
 
-(evaluation scores)
+(evaluation scores): 3-4
 
-(feedback to me)
+(feedback to me):
 
 # Idea Box
 
