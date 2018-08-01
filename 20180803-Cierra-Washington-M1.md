@@ -34,8 +34,8 @@ Number guesser was the initial project at Turing that helped get me off the grou
 
 ## Evaluation comments
 
-### Evaluator: Louisa
-### Notes/What To Work On:
+## Evaluator: Louisa
+## Notes/What To Work On:
 
 - got through phase 3!!
 - very minimal styling, not fonts
@@ -46,7 +46,33 @@ Number guesser was the initial project at Turing that helped get me off the grou
 
 ## Functional Expectations
 
-* Proficient: Application meets all of the expectations of phase three.  
+* Proficient: Application meets all of the expectations of phase three.   
+
+## COMP RECREATION / DESIGN
+
+* Novice  
+
+
+## HTML
+
+* Advanced Beginner   
+
+
+## CSS
+
+* Advanced Beginner  
+
+
+## JS/jQuery
+
+* Advanced Beginner  
+* Proficient  
+
+
+## Surprise and Delight (reminder: have fun!)
+
+* Unicorn Rainbows
+
 
 (evaluation scores): 3-4
 
