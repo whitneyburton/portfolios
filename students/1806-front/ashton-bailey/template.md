@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+My goals for this mod were focused towards establishing a lifestyle that would fit in well with the curriculum. I didn't know enough about code to set a focus within the curriculum itself. I set out to try a few different methods to organize my time at home and at school. I tried to integrate pomodoros, time boxing, and a set eating/sleeping schedule to keep myself balanced. I was successful with pomodoros. I found a Chrome app that suited my needs and was simple enough to use. Time boxing was not as helpful. I like to use Google calendar to plan ahead, and time boxing seems more appropriate to use in the moment. The set eat/sleep schedule was by far the best tool for getting into a routine for school. I gave myself an anchor for each day that I could fall back on as the stress waxed and waned.
 
 ## Rubric Scores
 
@@ -16,7 +16,7 @@
 
 ## A: End of Module Assessment
 
-(Indicate whether you passed or failed the end of module assessment)
+Pass, with some notes for improvement moving into the next mod.
 
 
 ## B: Individual Work & Projects
@@ -75,7 +75,7 @@ Each of these projects increased in difficulty and time required to complete. As
 
 (Intro)
 
-#### (Project Name)
+#### Linked List
 
 * [GitHub URL]()
 * [Original Assignment]()
@@ -88,21 +88,37 @@ Each of these projects increased in difficulty and time required to complete. As
 
 (feedback to me)
 
-## D: Professional Skills
-(Intro)
-
-### Gear Up
-#### (Session Name)
+#### IdeaBox
 
 * [GitHub URL]()
+* [Original Assignment]()
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+(description)
 
-## E: Community Participation
+(evaluation comments)
+
+(evaluation scores)
+
+(feedback to me)
+
+#### 2DoBox
+
+* [GitHub URL]()
+* [Original Assignment]()
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+(feedback to me)
+
+## D: Community Participation
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+It took a couple of weeks for me to open up and insert myself into public discussion. I represented our cohort in the bake-off. I will be sitting in the Turing booth at the Ethiopian Cultural Festival this weekend. I went to almost all of the wrap ups. I went to one Health and Wellness Posse meeting. I participated in the Significant Other Meetup during the mod. I voted in the Code Fair. I plan to attend the Demo Night and graduation for Mod4 folks. I hope to do more next mod.
 
 ------------------
 
