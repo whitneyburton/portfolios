@@ -77,8 +77,12 @@ The individual projects in this module consisted of the following:
 ## C: Group Work & Projects
 
 ### Projects
+ 
+The group projects in this module consisted of three assignments completed by groups of two, consisting of myself and another classmate. These assignments consisted of the following:
 
-(Intro)
+1. **Linked List:**  An interactive
+2. **IdeaBox:**  An interactive
+3. **2DoBox (IdeaBox Refactor/Pivot):**  An interactive
 
 #### 1. Linked List
 
@@ -95,7 +99,7 @@ The individual projects in this module consisted of the following:
 (feedback to me)
 
 
-#### 2. Idea Box
+#### 2. IdeaBox
 
 * [GitHub URL](https://github.com/alexanderela/Idea_Box)
 * [Original Assignment](http://frontend.turing.io/projects/ideabox.html)
@@ -110,7 +114,7 @@ The individual projects in this module consisted of the following:
 (feedback to me)
 
 
-#### 3. 2 Do Box (Idea Box Refactor)
+#### 3. 2DoBox (Idea Box Refactor/Pivot)
 
 * [GitHub URL](https://github.com/alexanderela/2DoBox--Pivot)
 * [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
