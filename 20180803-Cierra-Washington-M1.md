@@ -32,7 +32,7 @@ I learned a lot while working on these individual and group projects. I was able
 
 Number guesser was the initial project at Turing that helped get me off the ground in terms of confidence with JavaScript. This project gave me the confidence to attempt to conquer the other projects, and each subsequent project did the same.
 
-## Evaluation comments
+### Evaluation comments
 
 ## Evaluator: Louisa
 ## Notes/What To Work On:
@@ -85,7 +85,7 @@ Number guesser was the initial project at Turing that helped get me off the grou
 
 Static comp 1 was my very first static comp challenge, where I was really able to utilize grid and flex box and start to understand how they work. 
 
-(evaluation comments):
+### (evaluation comments):
 
 Great feedback, just could space the arrows on my side image better, and fix the < 320 media query alignment.
 
@@ -206,7 +206,7 @@ Good job understanding the JS, and good job with aria labels. Could make more gi
 
 Idea box was a next level exploration of JavaScript (particularly in terms of learning things like local storage), and I was able to really use and start to understand jQuery. 
 
-Evaluation comments:
+### Evaluation comments:
 
 ## Evaluator: David Whitaker
 ## Notes/What To Work On:
