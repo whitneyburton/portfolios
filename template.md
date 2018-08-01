@@ -1,4 +1,4 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# (Cierra Washington) - (M1) Portfolio
 
 ## Areas of Emphasis
 
@@ -6,9 +6,9 @@ I set out to build a strong foundation in JavaScript/jQuery and CSS. My goal is 
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: 3.5/4
-* **B: Individual Work & Projects**: 3.6/4
-* **C: Group Work & Projects**: 3.6/4
+* **A: End-of-Module Assessment**: 3.2/4
+* **B: Individual Work & Projects**: 3.5/4
+* **C: Group Work & Projects**: 3.5/4
 * **D: Professional Skills**: 3.5/4
 * **E: Community Participation**: 3/4
 
@@ -48,7 +48,7 @@ Number guesser was the initial project at Turing that helped get me off the grou
 
 * Proficient: Application meets all of the expectations of phase three.  
 
-(evaluation scores)
+(evaluation scores): 3-4
 
 # Static Comp 1
 
@@ -57,11 +57,11 @@ Number guesser was the initial project at Turing that helped get me off the grou
 
 (description)
 
+Static comp 1 was my very first static comp challenge, where I was really able to utilize grid and flex box and start to understand how they work. 
+
 (evaluation comments)
 
-(evaluation scores)
-
-(feedback to me)
+Great feedback, just could space the arrows on my side image better, and fix the < 320 media query alignment.
 
 # Static Comp 2
 
@@ -70,11 +70,11 @@ Number guesser was the initial project at Turing that helped get me off the grou
 
 (description)
 
+Static comp 2 was an exploration in more advanced grid topics such as auto fit and minmax. 
+
 (evaluation comments)
 
-(evaluation scores)
-
-(feedback to me)
+I did a great job with aligning things on the page as well as media queries, just could work on fonts to really make the page "pop"
 
 # Static Comp 3
 
@@ -83,11 +83,13 @@ Number guesser was the initial project at Turing that helped get me off the grou
 
 (description)
 
+Static comp 3 was definitely a learning experience for me, and a challenge (mostly in patience, and media queries). I think I did a great job overall mimicking the original comp, particularly in desktop mode. I also explored other things like creating a bargraph with Canvas and also a jQuery toggle for the side menu. I feel that I have a great idea of how to structure a page by looking at it and planning it out, using CSS grid. 
+
+
 (evaluation comments)
 
-(evaluation scores)
+I did a great job with structuring the page and my code, and I could do better with media queries as far as a liquid layout with the complex comp. I just have to watch a video or two, becuase I understand grid and flex pretty well, but the media queries got a little "squirely". 
 
-(feedback to me)
 
 ## C: Group Work & Projects
 
