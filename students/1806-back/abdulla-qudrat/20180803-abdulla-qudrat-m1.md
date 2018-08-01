@@ -1,5 +1,4 @@
 # First Last - M1 Portfolio
-
 ## Areas of Emphasis
 
 What did you set out to accomplish this module? Were you successful?
