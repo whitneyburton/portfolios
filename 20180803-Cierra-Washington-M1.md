@@ -74,14 +74,14 @@ Number guesser was the initial project at Turing that helped get me off the grou
 * Unicorn Rainbows
 
 
-(evaluation scores): 3-4
+### (evaluation scores): 3-4
 
 # Static Comp 1
 
 * [Static Comp 1](https://github.com/cierrajw/cjw-comp-challenge-1)
 * [Static Comp 1 Assignment](http://frontend.turing.io/projects/m1-static-comp-1.html)
 
-(description):
+### (description):
 
 Static comp 1 was my very first static comp challenge, where I was really able to utilize grid and flex box and start to understand how they work. 
 
@@ -94,11 +94,11 @@ Great feedback, just could space the arrows on my side image better, and fix the
 * [Static Comp 2](https://github.com/cierrajw/cjw-comp-challenge-2)
 * [Static Comp 2 Assignment](http://frontend.turing.io/projects/m1-static-comp-2.html)
 
-(description):
+### (description):
 
 Static comp 2 was an exploration in more advanced grid topics such as auto fit and minmax. 
 
-(evaluation comments):
+### (evaluation comments):
 
 I did a great job with aligning things on the page as well as media queries, just could work on fonts to really make the page "pop"
 
@@ -107,12 +107,12 @@ I did a great job with aligning things on the page as well as media queries, jus
 * [Static Comp 3](https://github.com/cierrajw/cw-comp-challenge-3)
 * [Static Comp 3 Assignment](http://frontend.turing.io/projects/m1-static-comp-3.html)
 
-(description):
+### (description):
 
 Static comp 3 was definitely a learning experience for me, and a challenge (mostly in patience, and media queries). I think I did a great job overall mimicking the original comp, particularly in desktop mode. I also explored other things like creating a bargraph with Canvas and also a jQuery toggle for the side menu. I feel that I have a great idea of how to structure a page by looking at it and planning it out, using CSS grid. 
 
 
-(evaluation comments):
+### (evaluation comments):
 
 I did a great job with structuring the page and my code, and I could do better with media queries as far as a liquid layout with the complex comp. I just have to watch a video or two, becuase I understand grid and flex pretty well, but the media queries got a little "squirely". 
 
@@ -121,18 +121,18 @@ I did a great job with structuring the page and my code, and I could do better w
 
 ### Projects
 
-(Intro)
+The group projects were fun, and I was able to learn a lot from others, and teach others as well. The group projects were a great learning/growing experence as far as how I see myself as a developer now and in the future (at future jobs/teams, etc.).
 
 # Linked List
 
 [Linked List](https://github.com/cierrajw/linked-list)
 * [Linked List Assignmentt](http://frontend.turing.io/projects/linked-list.html)
 
-(description):
+### (description):
 
 Linked list is a project that allowed me to understand the concept of appending/prepending elements to other elements on a page. 
 
-Evaluation Comments:
+### Evaluation Comments:
 
 ## Evaluator: Travis Rollins
 ## Notes/What To Work On:
@@ -191,16 +191,18 @@ Evaluation Comments:
 
 * Hot Fire  
 
-(evaluation scores): 3-4
+### (evaluation scores): 3-4
 
-(feedback to me): Good job understanding the JS, and good job with aria labels. Could make more git commits. 
+### (feedback to me): 
+
+Good job understanding the JS, and good job with aria labels. Could make more git commits. 
 
 # Idea Box
 
 * [Idea Box](https://github.com/cierrajw/idea-box)
 * [Idea Box Assignment](http://frontend.turing.io/projects/ideabox.html)
 
-(description):
+### (description):
 
 Idea box was a next level exploration of JavaScript (particularly in terms of learning things like local storage), and I was able to really use and start to understand jQuery. 
 
@@ -317,18 +319,18 @@ Evaluation comments:
 * Proficient Can articulate what is going on in the codebase, line by line, using the correct terminology most of the time. Developer can speak to and answer questions that utilize technical vocabulary.
 * Exceptional Can articulate what is going on in the codebase, line by line, using the correct terminology. Developer is confident and comfortable speaking to and answering questions that utilize technical vocabulary.
 
-(evaluation scores): 3-4
+### (evaluation scores): 3-4
 
 # 2DoBox-Pivot
 
 * [2DoBox-Pivot](https://github.com/cierrajw/2DoBox--Pivot)
 * [2DoBox-Pivot](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
 
-(description):
+### (description):
 
 The 2DoBox-Pivot was a project that allowed me to really solidify some concepts such as local storage and JSON, as well as grasp jQuery even better. I was able to help my partner understand some concepts, and I was able to see him become a more confident programmer, especially with the help of his mentor. 
 
-(evaluation comments):
+### (evaluation comments):
 
 ## Students: Alex and Cierra
 ## Evaluator: Louisa
