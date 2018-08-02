@@ -176,6 +176,8 @@ The group projects in this module consisted of three assignments completed by gr
 * Hot Fire 
 
 
+
+
 #### 2. IdeaBox
 
 * [GitHub URL](https://github.com/alexanderela/Idea_Box)
@@ -275,6 +277,8 @@ The group projects in this module consisted of three assignments completed by gr
 
 
 
+
+
 #### 3. 2DoBox (Idea Box Refactor/Pivot)
 
 * [GitHub URL](https://github.com/alexanderela/2DoBox--Pivot)
@@ -282,9 +286,9 @@ The group projects in this module consisted of three assignments completed by gr
 * [Evaluation](https://github.com/turingschool/front-end-submissions-public/blob/master/1806/mod-1/to-do-box/alexander-cierra.md)
 
 (description)
-## Students: Alex and Cierra
-## Evaluator: Louisa
-## Notes/What To Work On:
+##### Students: Alex and Cierra
+##### Evaluator: Louisa
+##### Notes/What To Work On:
 
 - nice disabled save button color choices/behavior
 - good "completed" button addition
@@ -298,75 +302,75 @@ The group projects in this module consisted of three assignments completed by gr
 - really good team work! So awesome to see a team that worked so well together and enjoyed working together.
 - REALLY GOOD JOB!!!!!
 
-## Functional Expectations
+##### Functional Expectations
 * Proficient  
 
-## HTML
+#### HTML
 
-#### Accessibility
+##### Accessibility
 * Proficient   
 
-#### Style
+##### Style
 * Proficient  
 
 
-## CSS
+#### CSS
 
-#### Structure of Code
+##### Structure of Code
 * Proficient   
 
-#### Implementation
+##### Implementation
 * Proficient  
 
 
-## JAVASCRIPT
+#### JAVASCRIPT
 
-#### Data Types
+##### Data Types
 * Proficient  
 
-#### Conditional Logic
+##### Conditional Logic
 * Proficient   
 
-#### Functions & Scope
+##### Functions & Scope
 * Proficient  
 
-#### Arrays
+##### Arrays
 * Proficient  
 
-#### Objects & Prototypes
+##### Objects & Prototypes
 * Proficient   
 
-#### DOM Manipulation
+##### DOM Manipulation
 * Proficient  
 
-#### Style
+##### Style
 * Proficient  
 
 
-## GIT & GITHUB
+#### GIT & GITHUB
 
-#### Git
+##### Git
 * Proficient  
 
-#### Github
+##### Github
 * Proficient   
 
 
-## DESIGN
+#### DESIGN
 
-#### Design Concepts
+##### Design Concepts
 * Proficient  
 * Exceptional  
 
 
-## PAIRING
+#### PAIRING
 
-#### Collaboration
+##### Collaboration
 * Exceptional
 
-## TERMINOLOGY
+#### TERMINOLOGY
 
-#### Technical Vocabulary
+##### Technical Vocabulary
 * Exceptional
 
 
