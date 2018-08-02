@@ -101,13 +101,14 @@ This inning I praticipated in the Turing community by being an SAP rep, giving a
 
 ## Final Review
 
-1. End-of-Module Assessment: 
-2. Individual Work & Projects: 
-3. Group Work & Projects: 
-4. Professional Skills: 
-5. Community Participation: 
+1. End-of-Module Assessment: 3.5
+2. Individual Work & Projects: 3.5
+3. Group Work & Projects: 4
+4. Professional Skills: 3
+5. Community Participation: 3.5 
 
 ### Notes
 
 
 ### Outcome:
+PASS
