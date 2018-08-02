@@ -44,33 +44,44 @@ As a direct result of this assignment, I try much harder to consider how to make
 * [GitHub URL](https://github.com/IntrepidPanda/je-comp-challenge-1)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-1.html)
 
-(description)
+This project has a readme file that describes what it is.
 
-(evaluation comments)
+Internalized feedback:
 
-(evaluation scores)
+* Try not to use a black background where a full image should be.
+* Control the sizing of elements so that they don't squish down proportionate to screen size.
+* Change sizing and placing of elements to fill space, instead of putting in filler blocks.
+* Make sure buttons are big enough on mobile to be easy to click on.
 
 #### Static Comp 2
 
 * [GitHub URL](https://github.com/IntrepidPanda/je-comp-challenge-2)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-2.html)
 
-(description)
+This project has a readme file that describes what it is.
 
-(evaluation comments)
+Internalized feedback:
 
-(evaluation scores)
+* Use color overlays on entire cards, and remove them on hover to really make them pop/make the website feel more interactive and exciting.
+* Use hover states.
+* Center items in the page, and control their spacing so that it is obvious they are connected.
+* Display one centered card per row on mobile.
+* Control the sizing of text through media queries to prevent wonkiness at smaller screen sizes.
 
-#### Static Comp 3
+#### Static Comp 3 *Pending*
 
 * [GitHub URL](https://github.com/IntrepidPanda/je-comp-challenge-3)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-3.html)
 
-(description)
+This project has a readme file that describes what it is.
 
-(evaluation comments)
+Internalized feedback:
 
-(evaluation scores)
+* Don't let buttons jump around on hover.
+* Size individual bits of content to be the width of the screen on mobile.
+* Change the visual representation of tabs when the screen is too small to show their names.
+* Make nested elements more apparent in html.
+* Make multi-selectors in css more apparent.
 
 ## C: Group Work & Projects
 
