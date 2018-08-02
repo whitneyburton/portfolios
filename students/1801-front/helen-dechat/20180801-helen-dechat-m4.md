@@ -2,7 +2,7 @@
 # Helen Dechat - M4 Portfolio
  
  ## 30 Day Plan
-https://calendar.google.com/calendar/r/week/2018/8/6
+https://calendar.google.com/calendar?cid=cTk2aXBxcGhlcDZwbWQ5c290M3Q3MDFkOWNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ
  
  ## What was your biggest achievement of the module?
 Simply, my biggest achievement was  following through with all the expected assignments and deliverables. By Mod 4 I was very tired. The enthusiasm that fed the energy to get through the first 3 mods was gone. This mod was about discipline and work ethic. 
