@@ -17,13 +17,13 @@ What did you struggle most with this module? What did you learn from that strugg
 
 ## Blog
 
-  (https://chrisianpowell.wixsite.com/spockmarten/home/code-music-with-sonic-pi)
+  https://chrisianpowell.wixsite.com/spockmarten/home/code-music-with-sonic-pi
 
   This blog is about using a ruby framework that allows you to create music live.
 
 ## ActiveRecord Obstacle Course
 
-  (https://github.com/turingschool-examples/storedom-5/pull/29)
+  https://github.com/turingschool-examples/storedom-5/pull/29 
 
 Was this helpful for practicing ActiveRecord?
 
