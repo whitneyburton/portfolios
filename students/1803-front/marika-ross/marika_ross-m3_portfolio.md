@@ -21,3 +21,14 @@ Scores have not yet been posted.  This project provided many valuable learning e
 
 ## Contributions to the Community 
 This is probably my strongest area at Turing.  This mod, I took charge of Monday morning iron-fes.  I wish I had had more time to create exercises for them.  It's a good way to keep array prototype methods fresh and also a good way to become more comfortable in situations where you may not know everything (which is all the time).  I had planned to do a schoolwide lightning talk again this mod, but was a bit overwhelmed by the work load.  Hopefully I can do it next mod.  
+
+
+# Scores
+1. End-of-Module Assessment: 3
+2. Individual Work & Projects: 3 
+3. Group Work & Projects: 3.5
+4. Professional Skills: 3
+5. Community Participation: 4
+
+# Outcome
+PASS
