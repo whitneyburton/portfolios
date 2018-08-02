@@ -4,13 +4,6 @@
 
 This module I focused on solidifying my understanding of react, and learning router and redux.
 
-## Rubric Scores
-
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Community Participation**: X
 
 -----------------------
 
@@ -59,5 +52,16 @@ This project allows users to browse through characters, vehicles and planets fea
 This app populates a list of recent movies, allowing users to sign up, sign in, and/or select and save favorite movie information. Built in 9 days by David Starr Dunn, Marika Ross, and Joel O'Connor with React, Redux, React-Router, and a Postgres database.
 [scores](https://github.com/turingschool/front-end-submissions-public/blob/master/1803/mod-3/movie-tracker/david-joel-marika/scores.md)
 
+
+## Rubric Scores
+
+* **A: End-of-Module Assessment**: 4
+* **B: Individual Work & Projects**: 3.5
+* **C: Group Work & Projects**: 3.5
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 3.5
+
+## Outcome
+PASS
 
 
