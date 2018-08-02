@@ -1,4 +1,4 @@
-# (Alan Charles) - (M3) Portfolio
+# Alan Charles - M3 Portfolio
 
 ## Areas of Emphasis
 
@@ -17,14 +17,13 @@ I set out to really understand how React works. I thought I had a handle on it l
 
 ## A: End of Module Assessment
 
-(Indicate whether you passed or failed the end of module assessment)
-
 Passed
+
 ## B: Individual Work & Projects
 
 (This mod’s individual projects included SWAPI Box and my personal project, League Leader. I became more comfortable with React and Redux in the process. These projects helped me nail down testing in React and Redux as well as ganging a better understanding of the React landscape in general.  )
 
-#### (SWAPI BOX)
+#### SWAPI BOX
 
 * [GitHub URL](https://github.com/abomb14c/swapi-box-2)
 * [Original Assignment](1.Get comfortable whipping together React components on your own with the additional complexity of implementing React Router (if you want to).
@@ -60,9 +59,10 @@ The output from ESLint shows…
 2 - Six to ten complaints
 1 - More than ten complaints
 Workflow
+
 3 - Developer(s) make many small, atomic commits that document the evolution of the application but sometimes contain irrelevant changesets and inconsistent commit messages. Developer(s) use git branches and pull requests when applicable to incorporate changes into the application, and are not pushing fresh changes directly to master. Pull requests may contain little or no code review. There may be slight instances where the developer(s) have committed source code that should be .gitignored. There may be some instances of “dead” or commented-out code and debugger statements like console.log that need to be cleaned up.
 
-#### (League Leader)
+#### League Leader
 
 * [GitHub URL](https://github.com/abomb14c/league-leader)
 * [Original Assignment]
@@ -80,7 +80,7 @@ League-Leader is an app designed to make betting with friends much easier to do.
 
 Group projects for this mod included HeadCount 2.0 and MovieTracker. I feel that this time around I really focused on teaching the processes of React and Redux to confirm my own understanding. I feel as if I gained a much better understanding of both and got a lot of joy out of helping others understand it. 
 
-#### (HeadCount 2.0)
+#### HeadCount 2.0
 
 * [GitHub URL](https://github.com/quinhill/headcount2.0)
 * [Original Assignment]
@@ -111,9 +111,10 @@ The output from ESLint shows…
 
 4 - Zero complaints
 Workflow
+
 4 - Developer(s) make many small, atomic commits that clearly document the evolution of the application and do not contain irrelevant changesets that aren't reflected by the commit message. Commit messages are concise and consistent in syntax and tense. Developer(s) effectively use git branches and pull requests when applicable to incorporate changes into the application, and are not pushing directly to master. There are no instances where the developer(s) have committed source code that should be .gitignored. There are no instances of "dead" or commented-out code and debugger statements like console.log.
 
-### (MovieTracker)
+### MovieTracker
 
 * [GitHub URL](https://github.com/gavin-love/movieTracker)
 * [Original Assignment]
@@ -144,12 +145,14 @@ Redux Architecture
 Routing
 4: Application is a single page and uses the React Router to display appropriate components based on URL.
 Workflow
+
 4 - Developer(s) make many small, atomic commits that clearly document the evolution of the application and do not contain irrelevant changesets that aren't reflected by the commit message. Commit messages are concise and consistent in syntax and tense. Developer(s) effectively use git branches and pull requests when applicable to incorporate changes into the application, and are not pushing directly to master. There are no instances where the developer(s) have committed source code that should be .gitignored. There are no instances of "dead" or commented-out code and debugger statements like console.log.
+
 ## D: Community Participation
 
 ### Playing a Part
 
-(I did my best to be  helpful to students going through lower mods and to my classmates going through mod3 for the first time. I feel as if I became a better teacher in the process. It was fun and something I enjoyed more than I thought I would. )
+I did my best to be  helpful to students going through lower mods and to my classmates going through mod3 for the first time. I feel as if I became a better teacher in the process. It was fun and something I enjoyed more than I thought I would. 
 
 ------------------
 
