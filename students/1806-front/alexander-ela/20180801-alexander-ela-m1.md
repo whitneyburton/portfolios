@@ -31,10 +31,10 @@ The individual projects in this module consisted of the following:
 * [Evaluation](https://github.com/turingschool/front-end-submissions-public/blob/master/1806/mod-1/number-guesser/alexander-ela.md)
 
 Build a game where the user guesses a number between 1 and 100.  The application should have the following user interface components:  
-* A button for clearing the input field
-* A button that resets the game
-* Display the user’s most recent guess
-* Display results and feedback:=
++ A button for clearing the input field
+- A button that resets the game
++ Display the user’s most recent guess
+- Display results and feedback:=
 * The input field should only accept numerical entries, within the defined min and max range
 * The application should display an error message if the guess is not a number (e.g. parseInt() returns NaN).
 * The application should display an error if the guess is outside of the range of possible answers.
