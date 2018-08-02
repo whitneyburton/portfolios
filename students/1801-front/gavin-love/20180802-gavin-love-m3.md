@@ -4,13 +4,6 @@
 
 Solidy React knowledge and learn how to build a PWA from scratch.
 
-## Rubric Scores
-
-* **A: End-of-Module Assessment**: 3
-* **B: Individual Work & Projects**: 3
-* **C: Group Work & Projects**: 3
-* **D: Professional Skills**: 3
-* **E: Community Participation**: 3
 
 -----------------------
 
@@ -81,10 +74,19 @@ I help others out as much as I possibly can, provide an of campus study group to
 
 ## Final Review
 
+## Scores
+
+* **A: End-of-Module Assessment**: 3.5
+* **B: Individual Work & Projects**: 3.5
+* **C: Group Work & Projects**: 3.5
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 3 
+
+
 ### Notes
 
 ( Leave blanks for reviewers )
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PASS
