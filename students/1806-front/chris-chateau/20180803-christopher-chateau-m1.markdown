@@ -6,11 +6,11 @@ To develop a strong basis in HTML and CSS while improving my rudimentary underst
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: Proficient
-* **B: Individual Work & Projects**: Proficient
-* **C: Group Work & Projects**: Proficient
-* **D: Professional Skills**: Proficient
-* **E: Community Participation**: Proficient / Advanced Beginner
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 2.5
 
 -----------------------
 
