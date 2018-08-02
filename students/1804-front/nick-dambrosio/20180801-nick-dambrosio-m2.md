@@ -27,15 +27,15 @@ Did not pass.
 
 ## B: Individual Work & Projects
 
-I spent the first half of intermission doing the deepest of dives into CSS. I built a few static-sites from the ground up, and really cemented an understading of grid, positioning, and design. I'm not fully there on the execution, yet, but I feel like I'm on a really good track to be able to make some incredible looking things, very, very soon. 
+I spent the first half of intermission doing the deepest of dives into CSS. I built a few static-sites from the ground up, and really cemented an understading of grid, positioning, and design. I've made continual, gradual progression and feel like I'm on a really good track to be able to make some incredible looking things, very, very soon. 
 
 #### (Stomp Snowboards)
 
 * [https://github.com/30ozSteak/Snow-Tell](https://30ozsteak.github.io/Snow-Tell/)
 
 # Description
-(This site takes forever to load the first time. It's a soon to be addressed problem)
-For prework in mod1, we had to create a site that followed some very basic guidelines. Needs to have a form, needs to have an unordered list, an image, etc. Most of my web experience before Turing was done with framework like bootstrap, so I used what I knew best. Upon evaluation of our day1 sites however, I learned that was a huge mistake(I'm sorry Pam). I never actually revisited the site without using bootstrap, but it was also wasn't brought up again.  
+(This site takes forever to load the first time. It's a soon to be addressed problem, even listed in issues!)
+For prework in mod1, we had to create a site that followed some very basic guidelines. Needs to have a form, needs to have an unordered list, an image, etc. Most of my web experience before Turing was done with framework like bootstrap, so I used what I knew best. Upon evaluation of our day1 sites however, I learned that was a huge mistake(sorry Pam). I never actually revisited the site without using bootstrap, but it was also wasn't brought up again.  
 
 Over intermission break I wanted to remake it and combine a number of the css tricks I learned from the week prior. I made some weird design decisions initially, but also made it a goal to move onto something else after I struggled with any part for 20-25 minutes, so I never really addressed them. (Like that giant text on the hero-page and dividers. Disgusting.) It has a rather big readme with all of the issues I hope to address soon, but most of them are design choices.
 
