@@ -22,8 +22,7 @@ For this module, becoming comfortable with DOM manipulation, learning cooperatio
 ## B: Individual Work & Projects
 
 ### Projects
-
-(Intro)
+##### For this mod's individual projects, I could really feel my evolution to becoming more organized with my workflow, to being more comfortable with increasingly complicated comps, coming from when I first started when I would rush projects after putting them off, and not having a broader scope of how to take advantage of layouts like Grid. I'm happy with my learning progress this mod.
 
 
 ## Number Guesser
@@ -68,8 +67,7 @@ For this module, becoming comfortable with DOM manipulation, learning cooperatio
 ## C: Group Work & Projects
 
 ### Projects
-
-(Intro)
+##### Learning to work cooperatively on a code base with a paired partner or group was one of my main reasons for coming to Turing, and I've been really pleased, and pleasantly surprised, with how well my paired partners and I have worked together. Our open communication and flexible cooperation made each of our projects a success.  
 
 
 ## Linked List
