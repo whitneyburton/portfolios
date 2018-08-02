@@ -12,13 +12,7 @@ Final Assessment (PASS)
 
 Included Projects: Headcount 2.0 (Group), SWAPIBox (Individual), Movie Tracker (Group), and Self-Directed Project (Individual)
 
-## Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Community Participation**: X
 
 -----------------------
 
@@ -97,6 +91,17 @@ I went to the Friday morning speaker, Kai, kkh@kkh.io, and I plan to connect wit
 ------------------
 
 ## Final Review
+
+## Rubric Scores
+
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3.5
+* **C: Group Work & Projects**: 3.5
+* **D: Professional Skills**: 4
+* **E: Community Participation**: 3
+
+## Outcome
+PASS!
 
 ### Notes
 
