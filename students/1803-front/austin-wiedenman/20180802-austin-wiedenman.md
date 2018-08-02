@@ -3,16 +3,6 @@
 ## Areas of Emphasis
 Seeing the material for the second time,  one of my goals to get very comfortable with react and redux workflow. I also wanted to get better at testing.  Testing is one thing that I felt really unsure of last mod and was a huge area of emphasis this mod. 
 
-## Rubric Scores
-
-* **A: End-of-Module Assessment**: Pass
-* **B: Individual Work & Projects**: 3.5
-* **C: Group Work & Projects**: 4
-* **D: Professional Skills**: 3
-* **E: Community Participation**: 3
-
------------------------
-
 ## A: End of Module Assessment
 
 Pass. I felt very confident in my react and redux skills despite getting hung up at one spot.  I think that overall it went really well.
@@ -92,7 +82,7 @@ I have done some work paring with mod 1 and 2 students.  We are plannig a resurg
 
 ## Final Review
 
-* **A: End-of-Module Assessment**: 3.25
+* **A: End-of-Module Assessment**: 3
 * **B: Individual Work & Projects**: 3.5
 * **C: Group Work & Projects**: 3.5
 * **D: Professional Skills**: 3
@@ -103,3 +93,5 @@ I have done some work paring with mod 1 and 2 students.  We are plannig a resurg
 ( Leave blanks for reviewers )
 
 ### Outcome: 
+
+PASS
