@@ -80,13 +80,15 @@ This session, I worked a lot with my classmates and paired with a few mod two st
 
 ## Final Review
 
-1. End-of-Module Assessment: 3
-2. Individual Work & Projects: 3
-3. Group Work & Projects: 3
-4. Professional Skills: 3
-5. Community Participation: 3
+1. End-of-Module Assessment: 3.5
+2. Individual Work & Projects: 4
+3. Group Work & Projects: 3.5
+4. Professional Skills: 3.5
+5. Community Participation: 3.5
 
 ### Notes
 
 
 ### Outcome:
+
+PASS
