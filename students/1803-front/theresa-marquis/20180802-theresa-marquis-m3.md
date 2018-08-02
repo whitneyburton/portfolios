@@ -1,5 +1,7 @@
 ## Module 3 (Front-end) - Individual Goals for the Module
 
+[Turing Alum Profile](https://www.turing.io/alumni/theresa-marquis)
+
 Individual Self Assessment
 
 I have achieved a rapport with my cohort members while learning the content of Mod3.  
@@ -69,9 +71,9 @@ Passed
 
 ## D: Professional Skills
 
- * Cover Letter review workshop
- * Made 3 pull requests to open source Turing lessons
- * Used Job Track several times.
+ * Cover Letter review workshop and Cover Letter personalized recommendations from Ian Douglas
+ * Made tw pull requests to open source Turing lessons
+ * Used Job Track several times
 
 ### Microaggressions GearUp
 
