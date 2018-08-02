@@ -7,9 +7,9 @@ I set out to build a strong foundation in JavaScript/jQuery and CSS. My ultimate
 ## Rubric Scores
 
 * **A: End-of-Module Assessment**: 3.2/4
-* **B: Individual Work & Projects**: 3.5/4
-* **C: Group Work & Projects**: 3.5/4
-* **D: Professional Skills**: 3.5/4
+* **B: Individual Work & Projects**: 3.4/4
+* **C: Group Work & Projects**: 3.4/4
+* **D: Professional Skills**: 3.3/4
 * **E: Community Participation**: 3/4
 
 ------------------------
