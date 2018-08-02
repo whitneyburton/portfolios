@@ -7,11 +7,6 @@
 I set out to really understand how React works. I thought I had a handle on it last time but the improvements I feel I made has shown me how wrong I was. I finally feel ready to consider myself a programmer. 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: 3
-* **B: Individual Work & Projects**: 3
-* **C: Group Work & Projects**: 3
-* **D: Professional Skills**: 3
-* **E: Community Participation**: 3
 
 -----------------------
 
@@ -158,10 +153,16 @@ I did my best to be  helpful to students going through lower mods and to my clas
 
 ## Final Review
 
+* **A: End-of-Module Assessment**: 3.5
+* **B: Individual Work & Projects**: 3.5
+* **C: Group Work & Projects**: 4
+* **D: Professional Skills**: 3.5
+* **E: Community Participation**: 3.5 
+
+
 ### Notes
 
 ( Leave blanks for reviewers )
 
 ### Outcome
-
-( Leave blanks for reviewers )
+PASS
