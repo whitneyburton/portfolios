@@ -69,13 +69,13 @@ evaluation scores
 
 
 ## D: Professional Skills
-    In this mod I gained soild knowledge in React, Redux, Router, and unit testing.
+In this mod I gained soild knowledge in React, Redux, Router, and unit testing.
 
 ## E: Community Participation
 
 ### Playing a Part
 
-    I help others out as much as I possibly can, provide an of campus study group to all mods most Saturdays and particpate in volunteer opportunties when I meet the requirements to be eligible. 
+I help others out as much as I possibly can, provide an of campus study group to all mods most Saturdays and particpate in volunteer opportunties when I meet the requirements to be eligible. 
 
 ------------------
 
