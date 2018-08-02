@@ -15,6 +15,13 @@ Link your blog post here. Include a short description of your topic (one sentenc
 - https://medium.com/@tristan0bambauer/unicode-and-why-its-important-to-you-54e578af5c18
 - My topic is about the use of Unicode and how languages can be encoded to be interpreted
 
+ActiveRecord Obstacle Course (https://github.com/turingschool-examples/storedom-5/pull/21)
+ - I believed this to be very helpful with my understanding of database queries as well as
+ a resource to reference when I encounter similar problems with databases in the future.
+ - I do submit that I think it would have been better to delve into SQL prior to learning
+ ActiveRecord, an opinion that I believe a few other students share, but other than that, I found it very useful!
+
+
 ## Projects
 
 What were your favorite projects this module? Least favorite? Why?
