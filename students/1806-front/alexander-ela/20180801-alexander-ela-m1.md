@@ -312,6 +312,7 @@ The group projects in this module consisted of three assignments completed by gr
 ##### Functional Expectations
 * Proficient  
 
+
 #### HTML
 
 ##### Accessibility
@@ -328,6 +329,7 @@ The group projects in this module consisted of three assignments completed by gr
 
 ##### Implementation
 * Proficient  
+
 
 
 #### JAVASCRIPT
