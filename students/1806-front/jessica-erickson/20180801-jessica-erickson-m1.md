@@ -4,13 +4,13 @@
 
 For this module, I had four overarching goals: 
 
-    * learn how to be an efficient and effective programmer
+* learn how to be an efficient and effective programmer
      
-    * learn how to be an efficient and effective group partner
+* learn how to be an efficient and effective group partner
      
-    * practice trusting and accepting the help of others
+* practice trusting and accepting the help of others
      
-    * practice managing my mental health in a high-stress environment that is similar to a workplace environment
+* practice managing my mental health in a high-stress environment that is similar to a workplace environment
 
 ## Rubric Scores
 
