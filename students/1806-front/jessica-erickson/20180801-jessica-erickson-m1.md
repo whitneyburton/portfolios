@@ -29,19 +29,15 @@ For this module, I had four overarching goals:
 
 ## B: Individual Work & Projects
 
-(Intro)
-
 #### Number Guesser
 
 * [GitHub URL](https://github.com/IntrepidPanda/NumberGuesserV2)
 * [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
 * [Evaluation](https://github.com/turingschool/front-end-submissions-public/blob/master/1806/mod-1/number-guesser/jessica-erickson.md)
 
-(description)
+For this assignment, I was tasked with creating a number guessing game app, based on a list of phased functionality requirements and a design spec. Since I was still learning the Turing process at the time, I made a point of taking the feedback I got and using it to update my code, which I did not have the time for, but I don't necessarily regret doing so. There are a few bits of feedback I got on this project that have defined my coding style; Now, I use kabob-case in my html files, default to using multiple classes for styling selectors, use organizational comments in the css file and not the others, leverage the "cascading" part of CSS, and am more descriptive when naming variables and classes. 
 
-(evaluation comments)
-
-(evaluation scores)
+As a direct result of this assignment, I try much harder to consider how to make web applications more accessible to people who use screen-readers, in addition to already trying to make them accessible for people who need larger font sizes. There are obvious accessibility problems in the final version of this project, particularly in using a mouse-enter event listener, but I hadn't thought of that at the time; I was mostly just excited about all the different kinds of event listeners I could use.
 
 #### Static Comp 1
 
@@ -80,21 +76,15 @@ For this module, I had four overarching goals:
 
 ### Projects
 
-(Intro)
-
 #### Linked List
 
 * [GitHub URL](https://github.com/IntrepidPanda/LinkedList)
 * [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
 * [Evaluation](https://github.com/turingschool/front-end-submissions-public/blob/master/1806/mod-1/linked-list/james-jessica.md)
 
-(description)
+For this assignment, we were tasked with creating a web application that took a website name and url from the user, and displaying that input in a lovely card format. To do this, we generated new card html text for each individual submission, and appended it to the page. In order to remove the generated cards, or to mark a link as read, we utilized an event listener on the parent element, then used an if statement to define functionality for the "read" and "delete" buttons.
 
-(evaluation comments)
-
-(evaluation scores)
-
-(feedback to me)
+I struggled the most with this assignment, because it was the first time I had done a group project in two years and my social anxiety was flaring up something fierce, due to being in a new environment with new people. My project partner, James, was already well-versed in keeping up good communication, so I was able to quickly follow his lead in that aspect, but I still struggled a bit with asserting myself when I thought we were going the wrong direction in task delegation. Even so, I am proud of the work I did on the styling of this application, and did learn a great deal of JavaScript from James.
 
 #### IdeaBox
 
@@ -102,13 +92,9 @@ For this module, I had four overarching goals:
 * [Original Assignment](http://frontend.turing.io/projects/ideabox.html)
 * [Evaluation](https://github.com/turingschool/front-end-submissions-public/blob/master/1806/mod-1/idea-box/jessica-joel.md)
 
-(description)
+For this assignment, we were tasked with creating a web application that utilized local storage to allow users to track ideas. We took an idea title and an idea explanation from the user, generated a card to display on the page, and stored that data in local storage, using .now() to generate unique identifiers for each data set.
 
-(evaluation comments)
-
-(evaluation scores)
-
-(feedback to me)
+This was the first assignment I tried using jQuery with, so, while we were working on it, I was learning how to navigate the jQuery docs and learning what the jQuery equivalents for some JavaScript array methods were. I enjoyed working with jQuery, because it was faster to write, and the corresponding docs were faster to parse. I disliked working with jQuery, because errors would show up in the jQuery script, instead of the script we wrote, so bugs were harder to track down and fix.
 
 #### 2DoBox-Pivot
 
@@ -116,13 +102,7 @@ For this module, I had four overarching goals:
 * [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
 * [Evaluation](https://github.com/turingschool/front-end-submissions-public/blob/master/1806/mod-1/to-do-box/jessica-justin.md)
 
-(description)
-
-(evaluation comments)
-
-(evaluation scores)
-
-(feedback to me)
+This was, by far, my favorite project to work on at Turing; We took a former student's IdeaBox code, and were tasked with making it functional, then refactoring it for a similar purpose. I loved working on this project, because I could see the ideas that the originator was getting at, and I was able to carry the code the last few steps to get there. I am also very proud of the work I did with this project, because I think I faithfully preserved the integrity of the original, instead of ripping out parts that didn't work and effectively starting over. I am also proud of the work I did to help my project partner understand the jQuery file and how it works. I am an amplifier in most aspects of my life, and it is nice to see that I can somewhat apply that to being a programmer, as well.
 
 ## D: Community Participation
 
