@@ -78,9 +78,13 @@ Build a game where the user guesses a number between 1 and 100.  The application
 * [GitHub URL](https://github.com/alexanderela/ae-comp-challenge-1)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-1.html)
 
-(description)
+The first of three static comp challenges. The static comp challenge is a series of three challenges to hone students' HTML/CSS skills.  You will be asked to recreate a static comp, with each growing in complexity. For each challenge, you’ll be given a static comp and asked to recreate it. 
 
- 
+##### Evaluation comments
+
+
+##### Evaluation scores
+No official scores given.
 
 
 #### 3. Static Comp Challenge 2
@@ -88,22 +92,25 @@ Build a game where the user guesses a number between 1 and 100.  The application
 * [GitHub URL](https://github.com/alexanderela/ae-comp-challenge-2)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-2.html)
 
-(description)
+The second of three static comp challenges. The static comp challenge is a series of three challenges to hone students' HTML/CSS skills.  You will be asked to recreate a static comp, with each growing in complexity. For each challenge, you’ll be given a static comp and asked to recreate it. 
 
-(evaluation comments)
+##### Evaluation comments
 
-(evaluation scores)
+##### Evaluation scores
+No official scores given.
 
 #### 4. Static Comp Challenge 3
 
 * [GitHub URL](https://github.com/alexanderela/ae-comp-challenge-3)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-3.html)
 
-(description)
+The thirde of three static comp challenges. The static comp challenge is a series of three challenges to hone students' HTML/CSS skills.  You will be asked to recreate a static comp, with each growing in complexity. For each challenge, you’ll be given a static comp and asked to recreate it. 
 
-(evaluation comments)
+##### Evaluation comments
+Currently awaiting comments.
 
-(evaluation scores)
+##### Evaluation scores
+Currently awaiting scores.
 
 
 
