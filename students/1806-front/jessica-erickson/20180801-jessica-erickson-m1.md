@@ -86,6 +86,7 @@ For this module, I had four overarching goals:
 
 * [GitHub URL](https://github.com/IntrepidPanda/LinkedList)
 * [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
+* [Evaluation](https://github.com/turingschool/front-end-submissions-public/blob/master/1806/mod-1/linked-list/james-jessica.md)
 
 (description)
 
@@ -99,6 +100,7 @@ For this module, I had four overarching goals:
 
 * [GitHub URL](https://github.com/JoelSmith123/ideabox)
 * [Original Assignment](http://frontend.turing.io/projects/ideabox.html)
+* [Evaluation](https://github.com/turingschool/front-end-submissions-public/blob/master/1806/mod-1/idea-box/jessica-joel.md)
 
 (description)
 
@@ -112,6 +114,7 @@ For this module, I had four overarching goals:
 
 * [GitHub URL](https://github.com/JustinTorrance/2DoBox-Pivot)
 * [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
+* [Evaluation](https://github.com/turingschool/front-end-submissions-public/blob/master/1806/mod-1/to-do-box/jessica-justin.md)
 
 (description)
 
