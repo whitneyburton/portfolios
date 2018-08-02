@@ -10,6 +10,14 @@ I have a much greater understanding and ability to use React. I understand the r
 
 Final Assessment: PASS
 
-Included Projects: Headcount 2.0 (Group), SWAPIBox (Individual), Movie Tracker (Group), and Self-Directed Project: Love-15 (Individual)
+Included Projects: 
 
-Contributions to community: I have assisted my fellow mod 3 students when needed. I have also hepled mod 2 students when necessary and attended demo night.
+Headcount 2.0 (Group): https://github.com/airum82/headcount2.1 
+
+SWAPIBox (Individual): https://github.com/airum82/swapi-box 
+
+Movie Tracker (Group): https://github.com/airum82/movietracker
+
+Self-Directed Project (Individual): https://github.com/airum82/love-15
+
+Contributions to community: I have assisted my fellow mod 3 students when needed. I have also helped mod 2 students when necessary and attended demo night.
