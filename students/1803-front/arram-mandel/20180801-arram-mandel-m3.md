@@ -21,3 +21,15 @@ Movie Tracker (Group): https://github.com/airum82/movietracker
 Self-Directed Project (Individual): https://github.com/airum82/love-15
 
 Contributions to community: I have assisted my fellow mod 3 students when needed. I have also helped mod 2 students when necessary and attended demo night.
+
+## Scores
+
+## Rubric Scores
+1. End-of-Module Assessment: 3.5
+2. Individual Work & Projects: 3.5
+3. Group Work & Projects: 3
+4. Professional Skills: 3
+5. Community Participation: 3
+
+## Outcome 
+PASS
