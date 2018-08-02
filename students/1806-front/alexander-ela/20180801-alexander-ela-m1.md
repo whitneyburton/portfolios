@@ -81,7 +81,14 @@ Build a game where the user guesses a number between 1 and 100.  The application
 The first of three static comp challenges. The static comp challenge is a series of three challenges to hone students' HTML/CSS skills.  You will be asked to recreate a static comp, with each growing in complexity. For each challenge, you’ll be given a static comp and asked to recreate it. 
 
 ##### Evaluation comments
-
+* Keep all functionality and don't delete buttons or other elements at media queries.
+* Red and green colors complement each other but make it hard to view content. Use more contrasting shades.
+* Add more space between buttons and text.
+* Same with header button icons.
+* Paragraph and icon text too small at first media query.
+* Icons not perfectly centered at smallest media query.
+* Too much unused space in header.
+* Use 14-24 pt font size.
 
 ##### Evaluation scores
 No official scores given.
@@ -95,6 +102,9 @@ No official scores given.
 The second of three static comp challenges. The static comp challenge is a series of three challenges to hone students' HTML/CSS skills.  You will be asked to recreate a static comp, with each growing in complexity. For each challenge, you’ll be given a static comp and asked to recreate it. 
 
 ##### Evaluation comments
+* Text overflowing down vertically out of container at smallest mobile media query.
+* Overall well-done.
+* Use more contrast on header photos.
 
 ##### Evaluation scores
 No official scores given.
