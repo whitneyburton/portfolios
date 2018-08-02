@@ -127,8 +127,8 @@ The group projects in this module consisted of three assignments completed by gr
 
 (description)
 
-##### Student: Alex and Alex
-##### Evaluator: David
+##### Student: Alexander Ela and Alexander Rau
+##### Evaluator: David Whitaker
 ##### Notes/What To Work On:
 
 ##### HTML
@@ -286,8 +286,8 @@ The group projects in this module consisted of three assignments completed by gr
 * [Evaluation](https://github.com/turingschool/front-end-submissions-public/blob/master/1806/mod-1/to-do-box/alexander-cierra.md)
 
 (description)
-##### Students: Alex and Cierra
-##### Evaluator: Louisa
+##### Students: Alexander Ela and Cierra Washington
+##### Evaluator: Louisa Barret
 ##### Notes/What To Work On:
 
 - nice disabled save button color choices/behavior
@@ -378,8 +378,11 @@ The group projects in this module consisted of three assignments completed by gr
 ## D: Community Participation
 
 ### Playing a Part
+As I write this in my last week of Module 1, I realize that I am only now feeling comfortable enough with many of the concepts discussed throughout the module that I feel confident in my ability to assist other students who may be struggling. I look forward to helping my fellow students more as I continue to feel increasingly qualified to do so.
 
-My contributions to the greater Turing community have been subtle but considered.  I'm introverted by nature and sometimes struggle with asking questions. However, I've consistently strived to be vocal in class when I don't understand a concept. This is both for my own benefit and for other students who may feel hesitant to ask questions themselves. When talking to other students I've made a consistent effort to be kind and supportive, as I very much realize that many students are feeling vulnerable in a fast-paced educational setting with material that is new to them.  Another way I've tried to contribute to the Turing community as a whole has been to take my learning very seriously and to consistently demonstrate through my actions, classroom etiquette, and study habits that I am wholeheartedly committed to my studies at Turing. It is my hope that my demeanor has helped to motivate or inspire others during my time here thus far. Furthermore, it is my hope that as I gain confidence in my programming skills in future modules, I will feel more confident in my ability to offer specific guidance to my classmates and to other Turing students with whom I come into contact.
+My contributions to the greater Turing community have been subtle but considered.  I'm introverted by nature and sometimes struggle with asking questions. However, I've consistently strived to be vocal in class when I don't understand a concept. This is both for my own benefit and for other students who may feel hesitant to ask questions themselves. When talking to other students I've made a consistent effort to be kind and supportive, as I very much realize that many students are feeling vulnerable in a fast-paced educational setting with material that is new to them.  
+
+Another way I've tried to contribute to the Turing community as a whole has been to take my learning very seriously and to consistently demonstrate through my actions, classroom etiquette, and study habits that I am wholeheartedly committed to my studies at Turing. It is my hope that my demeanor has helped to motivate or inspire others during my time here thus far. Furthermore, it is my hope that as I gain confidence in my programming skills in future modules, I will feel more confident in my ability to offer specific guidance to my classmates and to other Turing students with whom I come into contact.
 
 ------------------
 
