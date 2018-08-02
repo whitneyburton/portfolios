@@ -37,16 +37,38 @@ Passed
 
 (SWAPI-box is a react app that allows users to view Star Wars data from the Star Wars API https://swapi.co/documentation. There are four buttons that allow the user to browse through people, planets, vehicles and favorites. Users can add cards to favorites by clicking on the favorite button.)
 
-(evaluation comments)
+Specification Adherence
+3 - The application completes all 4 iterations.
+Code Quality
+3 - Developer appears comfortable in React. There are minor opportunities to refactor.
+CSS/Design
+3 - Developer has made a targeted effort to make the app appealing and user friendly. Evaluator has multiple recommendations for design changes. Follows majority of the 10 Essential Usability Guidelines.
+SASS/SCSS
+Pass - Styles are written using either SASS or SCSS
+Fail - Styles are written using vanilla CSS
+Testing
+1 - There was little to no attempt to test this application.
+PropType Implementation
+Fail - There are components missing proptype validation.
+README Updates
+Fail - The boilerplate README is still in place
+Code Sanitation
+The output from ESLint shows…
 
-(evaluation scores)
+4 - Zero complaints
+3 - Five or fewer complaints
+2 - Six to ten complaints
+1 - More than ten complaints
+Workflow
+3 - Developer(s) make many small, atomic commits that document the evolution of the application but sometimes contain irrelevant changesets and inconsistent commit messages. Developer(s) use git branches and pull requests when applicable to incorporate changes into the application, and are not pushing fresh changes directly to master. Pull requests may contain little or no code review. There may be slight instances where the developer(s) have committed source code that should be .gitignored. There may be some instances of “dead” or commented-out code and debugger statements like console.log that need to be cleaned up.
 
 #### (League Leader)
 
 * [GitHub URL](https://github.com/abomb14c/league-leader)
-* [Original Assignment]( The goal of this project is to create a successful web application from a project idea. You will create an app that will solve an actual problem.)
+* [Original Assignment]
+The goal of this project is to create a successful web application from a project idea. You will create an app that will solve an actual problem.
 
-(League-Leader is an app designed to make betting with friends much easier to do. Users have the ability to log in, pick a sport and draft teams. Users will soon have the ability to invite other users and hold multi-person live drafts. The App is built with React, Redux, and Router on the frontend and node, express, and knex on the backend.)
+League-Leader is an app designed to make betting with friends much easier to do. Users have the ability to log in, pick a sport and draft teams. Users will soon have the ability to invite other users and hold multi-person live drafts. The App is built with React, Redux, and Router on the frontend and node, express, and knex on the backend.
 
 (evaluation comments)
 
@@ -56,39 +78,73 @@ Passed
 
 ### Projects
 
-(Group projects for this mod included HeadCount 2.0 and MovieTracker. I feel that this time around I really focused on teaching the processes of React and Redux to confirm my own understanding. I feel as if I gained a much better understanding of both and got a lot of joy out of helping others understand it. )
+Group projects for this mod included HeadCount 2.0 and MovieTracker. I feel that this time around I really focused on teaching the processes of React and Redux to confirm my own understanding. I feel as if I gained a much better understanding of both and got a lot of joy out of helping others understand it. 
 
 #### (HeadCount 2.0)
 
 * [GitHub URL](https://github.com/quinhill/headcount2.0)
-* [Original Assignment]( 	•	Separate application logic into small, testable functions.
+* [Original Assignment]
+
+•	Separate application logic into small, testable functions.
 * Create modular, reusable React components.
 * Use propTypes to validate props passed to each component.
 * Write meaningful, comprehensive unit and integration tests.
-)
+
 
 (Head-count is an app designed to display kindergarten data from the Colorado public education system. Functionality includes the ability to search for a school's data, and the ability to compare a school against another school. The main goal of this project was to become more comfortable with React components, passing props, and TDD.
-)
 
-(evaluation comments)
 
-(evaluation scores)
+Specification Adherence
+3 - The application completes all 5 iterations.
+Code Quality
+3 - Developer appears comfortable in React. There are minor opportunities to refactor.
+CSS/Design
+3 - Developer has made a targeted effort to make the app appealing and user friendly. Evaluator has multiple recommendations for design changes. Follows majority of the 10 Essential Usability Guidelines.
+Testing
+3 - Almost all components are tested to a level that indicates developer has an understanding of testing
+PropType Implementation
+Pass - Proptype validation is implemented for any component receiving props.
+README Updates
+Pass - The README.md file has been updated with a description of the project, the team, and how to get it up and running
+Code Sanitation
+The output from ESLint shows…
 
-(feedback to me)
+4 - Zero complaints
+Workflow
+4 - Developer(s) make many small, atomic commits that clearly document the evolution of the application and do not contain irrelevant changesets that aren't reflected by the commit message. Commit messages are concise and consistent in syntax and tense. Developer(s) effectively use git branches and pull requests when applicable to incorporate changes into the application, and are not pushing directly to master. There are no instances where the developer(s) have committed source code that should be .gitignored. There are no instances of "dead" or commented-out code and debugger statements like console.log.
 
 ### (MovieTracker)
 
 * [GitHub URL](https://github.com/gavin-love/movieTracker)
-* [Original Assignment]( The goal of this project was to use and understand redux in conjunction with React. We learned to pass props, connect the redux store to the visual layer, and most importantly, how to test redux. )
+* [Original Assignment]
+The goal of this project was to use and understand redux in conjunction with React. We learned to pass props, connect the redux store to the visual layer, and most importantly, how to test redux.
 
-(Movie-Tracker is an app designed to display data using the moviedb API. It has functionality allowing users to view upcoming movies, their description and their overall rating. Users are also able to select favorites from from the list of movies and view them later under the favorites button. The main goal of this project was to learn about how to use redux, router, TDD as well as gain a better understanding of react.)
+Movie-Tracker is an app designed to display data using the moviedb API. It has functionality allowing users to view upcoming movies, their description and their overall rating. Users are also able to select favorites from from the list of movies and view them later under the favorites button. The main goal of this project was to learn about how to use redux, router, TDD as well as gain a better understanding of react.
 
-(evaluation comments)
 
-(evaluation scores)
+Rubric
+Specification Adherence
+3 - The application completes all 2 iterations.
+Code Quality
+4- - Developer demonstrates complete understanding of React with appropriately separated components and exceptionally well refactored code.
+CSS/Design
+4- - Developer has made a targeted effort to make the app appealing and user friendly. Evaluator has minimal recommendations for design changes. Follows 10 Essential Usability Guidelines.
+Testing
+3+ - Almost all components are tested to a level that indicates developer has an understanding of testing
+PropType Implementation
+Pass - Proptype validation is implemented for any component receiving props.
+README Updates
+Pass - The README.md file has been updated with a description of the project, the team, and how to get it up and running
+5. Code Sanitation
+The output from ESLint shows…
 
-(feedback to me)
-
+4 - Zero complaints
+Redux Architecture
+3: At least one component is not connected with Redux appropriately. Application state is mutated by more than just Redux. The Redux store is missing application data that it should be handling.
+Routing
+4: Application is a single page and uses the React Router to display appropriate components based on URL.
+Workflow
+4 - Developer(s) make many small, atomic commits that clearly document the evolution of the application and do not contain irrelevant changesets that aren't reflected by the commit message. Commit messages are concise and consistent in syntax and tense. Developer(s) effectively use git branches and pull requests when applicable to incorporate changes into the application, and are not pushing directly to master. There are no instances where the developer(s) have committed source code that should be .gitignored. There are no instances of "dead" or commented-out code and debugger statements like console.log.
 ## D: Community Participation
 
 ### Playing a Part
