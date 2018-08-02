@@ -22,7 +22,7 @@ For this module, becoming comfortable with DOM manipulation, learning cooperatio
 ## B: Individual Work & Projects
 
 ### Projects
-##### For this mod's individual projects, I could really feel my evolution to becoming more organized with my workflow, to being more comfortable with increasingly complicated comps, coming from when I first started when I would rush projects after putting them off, and not having a broader scope of how to take advantage of layouts like Grid. I'm happy with my learning progress this mod.
+##### For this mod's individual projects, I could really feel my evolution as a learning developer, from becoming more organized with my workflow, to being more comfortable with increasingly complicated comps, coming from when I first started when I would rush projects after putting them off, and I lacked a broader scope of how to take advantage of layouts like Grid. I'm happy with my learning progress this mod.
 
 
 ## Number Guesser
