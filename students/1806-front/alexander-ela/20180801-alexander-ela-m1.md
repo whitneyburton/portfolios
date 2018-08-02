@@ -133,7 +133,7 @@ Currently awaiting scores.
 The group projects in this module consisted of three assignments completed by groups of two, consisting of myself and another classmate. These assignments consisted of building the following interfaces, each increasing in complexity:
 
 1. **Linked List:**  A website that allows users to enter a website title and URL and posts submissions to a separate section.
-2. **IdeaBox:**  A website that allows users to enter a website title and body and posts submissions to a separate section. Each submission generates its own unique ID for use in local storage and allows users to toggle a "quality" rating for each unique submission.
+2. **IdeaBox:**  A website that allows users to enter an idea title and body and posts submissions to a separate section. Each submission generates its own unique ID for use in local storage and allows users to toggle a "quality" rating for each unique submission.
 3. **2DoBox (IdeaBox Refactor/Pivot):**  A refactor of a previous student's version of IdeaBox. Final product includes a more polished code base and new features including a more intricate rating system, search feature, and more elegantly designed interface. 
 
 #### 1. Linked List
@@ -142,7 +142,7 @@ The group projects in this module consisted of three assignments completed by gr
 * [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
 * [Evaluation](https://github.com/turingschool/front-end-submissions-public/blob/master/1806/mod-1/linked-list/alexander-alexander.md)
 
-In it’s simplest form, the application should have the following:
+Build a website that allows users to enter a website title and URL and posts submissions to a separate section.  In it’s simplest form, the application should have the following:
 
 * Two input fields
 * One for the title of the bookmark
@@ -216,7 +216,35 @@ In it’s simplest form, the application should have the following:
 * [Original Assignment](http://frontend.turing.io/projects/ideabox.html)
 * [Evaluation](https://github.com/turingschool/front-end-submissions-public/blob/master/1806/mod-1/idea-box/alexander-ashton.md)
 
-(description)
+Build a website that allows users to enter an idea title and body and posts submissions to a separate section.
+The website should contain the following features:
+
+When visiting the application, the user should:
+* See a list of all existing ideas, including the title, body, and quality for each idea.
+* Ideas should appear in descending chronological order (with the most recently created idea at the top).
+* An Idea must have an id, title, a body, and a quality.
+* The id should be a unique identifier.
+* Title and body are free-form strings.
+* Quality should be one of the follow: “genius”, “plausible”, and “swill.”
+* By default, the idea’s “quality” should default to the lowest setting (i.e. “swill”).
+
+When a user clicks “Save”:
+* A new idea with the provided title and body should appear in the idea list.
+* The text fields should be cleared and ready to accept a new idea.
+* The page should not reload.
+* The idea should be persisted. It should still be present upon reloading the page.
+
+When viewing the idea list:
+
+* Each idea in the list should have a link or button to “Delete” (or 𝗫).
+* Upon clicking “Delete”, the appropriate idea should be removed from the list.
+* The page should not reload when an idea is deleted.
+* The idea should be removed from localStorage. It should not re-appear on next page load.
+* Each idea in the list should include an “upvote” and “downvote” button.
+* Clicking upvote on the idea should increase its quality one notch (“swill” → “plausible”, “plausible” → “genius”).
+* Clicking downvote on the idea should decrease its quality one notch (“genius” → “plausible”, “plausible” → “swill”).
+* Incrementing a “genius” idea or decrementing a “swill” idea should have no effect.
+
 
 ##### Student: Alexander Ela & Ashton Bailey
 ##### Evaluator: Travis Rollins
@@ -317,7 +345,30 @@ In it’s simplest form, the application should have the following:
 * [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
 * [Evaluation](https://github.com/turingschool/front-end-submissions-public/blob/master/1806/mod-1/to-do-box/alexander-cierra.md)
 
-(description)
+Perform a refactor of a previous student's version of IdeaBox. Final product must include a more polished code base and new features including a more intricate rating system, search feature, and more elegantly designed interface. 
+
+Refactoring Guidelines:
+* Small JavaScript functions focused on single responsibility (SRP) - for example, one function should not handle both disabled button state and rendering elements to the DOM
+* Consistent formatting, indentation, and naming schemes
+* Smart, concise comments (only when absolutely needed for clarity)
+* Little to no duplication in JavaScript (DRY principle)
+* Avoid deep nesting (for if/else conditionals)
+* Line lengths (keep them short and readable to avoid horizontal scrolling in your text editor)
+* File and folder organization (images, CSS directories)
+
+In addition to the functionality contained in the previous IdeaBox project, the 2DoBox should contain the following features:
+
+* When a user clicks the title or task of a TODO in the list, that text should:
+* Become an editable text field, pre-populated with the existing TODO title or task.
+* The user should be able to “commit” their changes by pressing “Enter/Return” or by clicking outside of the text field.
+* If the user reloads the page, their edits will be reflected.
+* At the top of the TODO list, include a text field labeled Filter.
+* As a user types in the filter box, the list of TODOs should filter in real time to only display TODOs whose title or task include the user’s text.
+* The page should not reload.
+* Clearing the filter box should restore all the ideas to the list.
+
+
+
 ##### Students: Alexander Ela and Cierra Washington
 ##### Evaluator: Louisa Barret
 ##### Notes/What To Work On:
