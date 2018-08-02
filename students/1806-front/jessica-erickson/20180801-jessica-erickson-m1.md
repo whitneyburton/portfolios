@@ -1,8 +1,12 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Jessica Erickson - M1 Portfolio
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+For this module, I had four overarching goals: 
+    * learn how to be an efficient and effective programmer
+    * learn how to be an efficient and effective group partner
+    * practice trusting and accepting the help of others
+    * practice managing my mental health in a high-stress environment that is similar to a workplace environment
 
 ## Rubric Scores
 
@@ -23,10 +27,43 @@
 
 (Intro)
 
-#### (Project Name)
+#### Number Guesser
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/IntrepidPanda/NumberGuesserV2)
+* [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+#### Static Comp 1
+
+* [GitHub URL](https://github.com/IntrepidPanda/je-comp-challenge-1)
+* [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-1.html)
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+#### Static Comp 2
+
+* [GitHub URL](https://github.com/IntrepidPanda/je-comp-challenge-2)
+* [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-2.html)
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+#### Static Comp 3
+
+* [GitHub URL](https://github.com/IntrepidPanda/je-comp-challenge-3)
+* [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-3.html)
 
 (description)
 
