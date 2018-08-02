@@ -9,7 +9,7 @@ My path has evolved from not knowing what to expect, to becoming excited and ten
 ## Rubric Scores
 
 - **A: End-of-Module Assessment**: 2.4
-- **B: Individual Work & Projects**: 2.9  
+- **B: Individual Work & Projects**: 2.8  
 - **C: Group Work & Projects**: 2
 - **D: Professional Skills**: 2.8
 - **E: Community Participation**: 3
