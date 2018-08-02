@@ -8,11 +8,11 @@ Fetching data from API and easily displaying it via react/redux. Get job ready.
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Community Participation**: X
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3.5
+* **E: Community Participation**: 3.5
 
 -----------------------
 
