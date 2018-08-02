@@ -4,13 +4,7 @@
 
 My goals for this mod were to get better at testing, be as engaged as possible, learn from as many resources as I can find, help classmates and become better at pairing. 
 
-## Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Community Participation**: X
 
 -----------------------
 
@@ -106,10 +100,18 @@ I lead numerous Iron FE sessions to help the mod2ers with array prototypes, part
 
 ## Final Review
 
+## Scores
+
+* **A: End-of-Module Assessment**: 4
+* **B: Individual Work & Projects**: 3.5
+* **C: Group Work & Projects**: 3.5
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 4
+
 ### Notes
 
 ( Leave blanks for reviewers )
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PASS
