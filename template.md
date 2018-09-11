@@ -51,7 +51,7 @@
 
 (evaluation scores)
 
-## E: Community Participation
+## D: Community Participation
 
 ### Playing a Part
 
