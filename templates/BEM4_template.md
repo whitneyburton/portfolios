@@ -4,7 +4,7 @@
 
 What do you want to focus on this inning? What do you hope to accomplish by graduation?
 
-Learning Javascript.
+Networking/community involvement, algorithmic thinking & logic, present a great capstone project.
 
 ## JS Assessment
 
@@ -12,16 +12,20 @@ Include your final outcome (pass/fail) and a reflection based on answering the f
 pass
 
 * What was your biggest technical challenge?
-Learning how to deal with promises in JS and how JS executes code. 
+
+Configuration for an Express app, learning how to properly use JS promises, syntax for raw SQL within knex.
 
 * What did you like the most about the challenge?
-Afterwards, having an understanding of one of the most popular languages being used.
+
+Seeing the real world example of how the same implementation of endpoints can be acheived with a different interface.
 
 * How did you solve that challenge? What was your approach?
-Pairing with fellow students who had a much better understanding.
+
+I paired with others in my cohort to understand setup and configuration, and returned to JS curriculum for syntax assistance.
 
 * What did you learn?
-Beginner level understanding of JS.
+
+Familiarity with JavaScript, knex, and Node. Improved my knowledge about asynchronous functions and promisies. 
 
 ## Technical Communication Assessment
 
@@ -29,16 +33,20 @@ Include your final outcome (pass/fail) and a reflection based on answering the f
 pass
 
 * What was your biggest challenge?
-None for this portion.
+
+Keeping my nerves under control and articulating details for the response portion of the HTTP request/response cycle.
 
 * What did you like the most about the challenge?
-Practice in answering questions that may be asked on an actual interview.
+
+Having some confidence about technical topics I've studied while at Turing.
 
 * How did you solve that challenge? What was your approach?
-N/A
+
+Used analogies to describe functionality when I couldn't remember exact technical terms. Offered to look into more technical description.
 
 * What did you learn?
-A good approach to answering questions to which I don't know the answers.
+
+How to think of similar talking points under pressure.
 
 
 ## Quantified Self
@@ -46,80 +54,99 @@ A good approach to answering questions to which I don't know the answers.
 Include a reflection answering the following questions:
 
 * What was your biggest technical challenge?
-Handling all the DOM manipulation as I was just learning JS.
+
+Express configuration, Python file structure differences.
 
 * How did you solve that challenge? What was your approach?
-Lots of online searching for solutions.
+
+Pairing and research. I asked some Python questions at an Ask a Dev meetup as well.
 
 * What did you like the most about the challenge?
-Seeing how JS performs asynchronous actions.
+
+Trying out a new language and framework (Python/Django).
 
 * What are three technical concepts you learned during this project?
-DOM manipulation, AJAX returns, how JS works with promises. 
+
+JS promises, how to write better documentation, difference between Rails Views and Django Templates
 
 * If you could change one thing about your technical approach, what would it be and why?
-More pairing with my project partner would've been ideal, but my partner had a personal emergency come up so that left me to work on project and partner with others.
+
+I would have spent more time researching the ecosystem of an express app.
 
 * What was the experience like working with a pair while learning something new?
-see above answer
+
+N/A -- solo project
 
 ## Capstone Project
 
 Include a reflection answering the following questions:
 
 * What was your biggest technical challenge?
-Coming up the initial idea for the capstone and then mainly integrating that to a browser. Biggest challenge in the end was deploying to a production environment.
+
+Remaining agile on a large team and keeping up with frequency of changes.
 
 * How did you solve that challenge? What was your approach?
-I'm still trying to resolve the issue with being able to deploy to a production environment.
+
+Frequent Slack check-ins and use of Waffle.io
 
 * What did you like the most about the challenge?
-Having researched and tried different approaches to try and fix the issue.
+
+Getting to build out the back end of a project while the front end is being built at the same time by team mates.
 
 * What are three technical concepts you learned during this project?
-Issues deploying a vanilla JS to a production environment with env variables, creating a chatbot, integrating text to voice feature.
+
+Practice consuming Google directions API, configuring Travis CI, and learned more about CORS for connecting decoupled apps.
 
 ## Open Source Project
 
 Include a reflection answering the following questions:
 
 * What codebase did you contribute to?
-Spree library
+
+Refuge Restrooms
 
 * What was your biggest technical challenge?
-Trying to deconstruct and understand the codebase. We couldn't test the bug in a live environment.
+
+Understanding what Heroku instructions meant (since Heroku instructions were the only ones provided by repo owners)
 
 * How did you solve that challenge? What was your approach?
-We tried with writing a test and pinpointing where we would place our solution.
+
+Googled and asked project owners clarifying questions
 
 * What did you like the most about the challenge?
-Reviewing an elaborate codebase and trying to understand a piece of it.
+
+Getting to work on a real-world project 
 
 * What are three technical concepts you learned during this project?
-Setting up env, good documentation is key, good protocol for communication and contribution to an open source project.
+
+Setting up environment, GitHub open source etiquette, learned about S3 buckets
 
 ## Feedback
 
 What's one piece of meaningful feedback you received during B4? What have you done or going to do regarding this feedback?
-Communicate challenges and issues arising with work or personal life immediately with instructor staff.
+
+My PD coach recommended that I revisit the Ruby docs and become more familiar with common methods, which I have done and will continue to do as part of my daily coding practice.
 
 ## Gear Up
 
 Write a reflection about the process of planning/revising a Gear Up session and facilitating the session. Did you enjoy the experience? What was challenging? What was most rewarding?
-Challenging to organize this whilst busy with everything else in mod 4. It was an interesting experience as we chose a good topic.
+
+It was challenging to guide conversations in directions that weren't repetitive, and the video material we selected wasn't as engaging as I would have liked. However, it was really rewarding to see people share their experiences with each other.
 
 ## Community Involvement
 
 How else did you give back to the community this inning? Why do you think this is a required part of the Turing experience?
-Provided humor to classmates. Very instrumental in easing stress.
+
+I paired with students in other mods, and I think that this is important for both participants. As a mod 4 student, reviewing mod 3 and mod 1 concepts was very helpful as a refresher, but it's also good practice for working with people at various skill levels in future workplaces.
 
 ## Going Forward
 
 What three skills (professional and/or technical) are you going to take forward with you during your next job post-Turing?
-Communicate with tech lead , be open and honest about capabilities/constraints, providing good documentation.
+
+Writing detailed documentation, taking notes/diagrams about project challenges and goals before starting to code, good Git workflow.
+
 
 ## Professional Development
 
-* Link to 30-day post-grad job search action plan using [this template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md)
-* Prepare a summarized version of your professional story to share during the portfolio review. This is a 1-2 minute sharing highlighting who you are, why you are in software, and what's next in your career.
-* Prepare and share your Turing story during week six.
+* https://gist.github.com/jamisonordway/7a3e74962608bb6d8108c121e9fdde16
+* During my career as a musician and an educator, my coding hobby grew into a love of programming. I chose to improve my software engineering skills at Turing School, because I was drawn to their mission and values. Though I certainly accomplished my goal of obtaining relevant technical knowledge, attending Turing has also been instrumental to refining my general thought process and my collaborative skills. I have transitioned into the tech industry so that I can wake up each day excited to solve interesting problems.  My personal background in music and activism, combined with my professional background in youth leadership, has led me to seek a work environment which involves restoration, creativity, and teamwork. 
