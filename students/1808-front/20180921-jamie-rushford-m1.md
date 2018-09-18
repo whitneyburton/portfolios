@@ -1,4 +1,4 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Jamie Rushford - M1 Portfolio
 
 ## Areas of Emphasis
 
