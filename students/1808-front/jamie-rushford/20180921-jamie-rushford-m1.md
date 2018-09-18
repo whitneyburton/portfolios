@@ -2,15 +2,15 @@
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+This module I set out to build a very strong base of knowledge and skills to support me as I move beyond Mod 1 into more complex topics. I knew coming into the program that logic and JavaScript would be something I would have to work a little harder at than design/CSS work, so I tried to spend a good amount of time focusing on dialing those skills. I also looked to start finding my own professional place in software development/the things I gravitate towards, as well as my place in the Turing community, which I look to continue doing throughout my time here. In terms of technical skills going forward I want to continue practicing JS and logic so that I feel more comfortable with it as things start to get more complex. I also want to just continue playing with CSS and design to keep up those skills and continue to polish and expand what I feel comfortable doing on that wide of things.
 
 ## Rubric Scores
 
 * **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Community Participation**: X
+* **B: Individual Work & Projects**: 4
+* **C: Group Work & Projects**: 3.5
+* **D: Professional Skills**: 3.5
+* **E: Community Participation**: 3
 
 -----------------------
 
