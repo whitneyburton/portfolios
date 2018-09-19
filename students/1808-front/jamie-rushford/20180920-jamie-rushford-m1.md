@@ -6,33 +6,62 @@ This module I set out to build a strong base of knowledge and skills to support 
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: X
+* **A: End-of-Module Assessment**: 3.5
 * **B: Individual Work & Projects**: 4
-* **C: Group Work & Projects**: 3.5
+* **C: Group Work & Projects**: 4
 * **D: Professional Skills**: 3.5
-* **E: Community Participation**: 3
+* **E: Community Participation**: 3.5
 
 -----------------------
 
 ## A: End of Module Assessment
 
-(Indicate whether you passed or failed the end of module assessment)
-
+Pass
 
 ## B: Individual Work & Projects
 
-(Intro)
+#### Number Guesser
 
-#### (Project Name)
+* [GitHub URL](https://github.com/jarushford/number-guesser)
+* [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
 
-* [GitHub URL]()
-* [Original Assignment]()
+This project involved making a game where a user gusses a number between 1 and 100 and is given feedback on whether their guess is too high, too low, or correct. The range can also be change to increase or decrease difficulty.
 
-(description)
+- Like the bouncing animation for winning!
+- Be sure to add directions for the user about the range changing - the numbers positined on the side are not intuitive
+- Nice job using forms around inputs
+- Good organization in CSS - look into [clustering related properties](https://github.com/necolas/idiomatic-css) for a different approach to organization
+- Watch formatting in your JS files - follow the style guide [here](https://github.com/turingschool-examples/javascript/tree/master/es5)
+- Work on naming in JS 
+- Nice job with breaking functionality apart
 
-(evaluation comments)
+- Functional Expectations: Exceptional
+- Comp Recreation/Design: Advanced Beginner/Proficient
+- HTML: Proficient
+- CSS: Proficient
+- JS/jQuery: Advanced Beginner/Proficient
+- Surprise and Delight: Sparkles
 
-(evaluation scores)
+#### Static Comp 1
+
+* [GitHub URL](https://github.com/jarushford/jr-comp-challenge-1)
+* [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-1.html)
+
+This project involved recreating a static site based on a provided comp. Creative liberty was given with the copy, images, and icons, provided they made sense. Creative liberty was not given with the layout, which must be also be responsive.
+
+#### Static Comp 2
+
+* [GitHub URL](https://github.com/jarushford/jr-comp-challenge-2)
+* [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-2.html)
+
+This project involved recreating a static site based on a provided comp. Creative liberty was given with the copy, images, and icons, provided they made sense. Creative liberty was not given with the layout, which must be also be responsive. Additionally, a CSS Normalize file must be used and the site must be compatible with Chrome, Mozilla, and Safari.
+
+#### Static Comp 3
+
+* [GitHub URL](https://github.com/jarushford/jr-comp-challenge-3)
+* [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-3.html)
+
+This project involved recreating a static site based on a provided comp. Creative liberty was given with the copy, images, and icons, provided they made sense. Creative liberty was not given with the layout, which must be also be responsive. Additionally, a CSS Normalize file must be used, the site must be compatible with Chrome, Mozilla, and Safari, and the circle graphs must be made using SVGs.
 
 ## C: Group Work & Projects
 
