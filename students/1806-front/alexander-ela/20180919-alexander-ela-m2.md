@@ -2,7 +2,8 @@
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+1. 
+2.
 
 ## Rubric Scores
 
@@ -23,16 +24,29 @@
 
 (Intro)
 
-#### (Project Name)
+#### 1. Complete Me
 
 * [GitHub URL]()
 * [Original Assignment]()
 
 (description)
 
-(evaluation comments)
+##### Evaluator: Nathaniel Foster
+##### Evaluation: Comments
 
 (evaluation scores)
+
+#### 2. React Static Comp
+
+* [GitHub URL]()
+* [Original Assignment]()
+
+(description)
+
+##### Evaluator: None
+##### Evaluation: None
+##### Evaluation Scores: None
+
 
 ## C: Group Work & Projects
 
@@ -40,18 +54,35 @@
 
 (Intro)
 
-#### (Project Name)
+#### 1. Game Time
 
 * [GitHub URL]()
 * [Original Assignment]()
 
 (description)
 
-(evaluation comments)
-
-(evaluation scores)
+##### Students: 
+##### Evaluator: 
+##### Evaluation: 
+##### Evaluation Scores: 
 
 (feedback to me)
+
+
+#### Weathrly
+
+* [GitHub URL]()
+* [Original Assignment]()
+
+(description)
+
+##### Students: 
+##### Evaluator: 
+##### Evaluation: 
+##### Evaluation Scores: 
+
+(feedback to me)
+
 
 ## D: Community Participation
 
