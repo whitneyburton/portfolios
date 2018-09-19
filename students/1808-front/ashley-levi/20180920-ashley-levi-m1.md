@@ -21,11 +21,11 @@ Pass
 
 ## B: Individual Work & Projects
 
-Over the course of the module I had to work on various projects, both individual and with a partner. I gained a ton of experience and knowledge working with JavaScript/Jquery DOM manipulation, event delegation, local storage, and organizing HTML and CSS. On top of that, I was able to pratice working and communicating with different types of people on difficult projects which prompted us to quickly learn and master git/github in the process.
+Over the course of the module I had to work on various projects, both individual and with a partner. I gained a ton of experience and knowledge working with JavaScript/jQuery DOM manipulation, event delegation, local storage, array prototypes and organizing and structering HTML and CSS. On top of that, I was able to practice working and communicating with different types of people on difficult projects which prompted us to quickly learn and master git/github in the process.
 
 #### Number Guesser
 
-For this project I created a number guessing game where the user is challanged to correctly guess a randomly generated number.  The user can instantiate their own minimum and maximum number-range and then the application will generate a random number between those minimum and maximum inputs. If the user guesses correcly, the game will tell them 'BOOM!', and then the minimum range decreases by 10 and the maximum range increases by 10. 
+For this project I created a number guessing game where the user is challanged to correctly guess a randomly generated number.  The user can instantiate their own minimum and maximum number-range and then the application will generate a random number between those minimum and maximum inputs. If the user guesses correctly, the game will tell them 'BOOM!' and then the minimum range decreases by 10 and the maximum range increases by 10. 
 
 * [GitHub URL](https://github.com/ashleylevi/number-guesser)
 * [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
@@ -37,12 +37,12 @@ For this project I created a number guessing game where the user is challanged t
 * Evaluation: Need to work on understanding how media queries work and implementing them effectively. Need to work on fine tuning the details. 
 
 #### Static Comp 2
-* [GitHub URL](https://github.com/ashleylevi/number-guesser)
+* [GitHub URL](https://github.com/ashleylevi/-al-comp-challenge-2)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-2.html)
 * Evaluation: Need to work on understanding and implementing best practices for design, such as optimal color contrast principals. 
 
 #### Static Comp 3
-* [GitHub URL](https://github.com/ashleylevi/number-guesser)
+* [GitHub URL](https://github.com/ashleylevi/al-comp-challenge-3)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-3.html)
 * Evaluation: Need to work on final tocuhes- even spacing between all elements, line-height, aria labels, stack the circle graphs at iphone 5 media query, and move search bar so it's functionality isn't hidden.
 
@@ -62,7 +62,7 @@ Ashley was very organized overall and drove the progress by being on-time and ha
 
 #### IdeaBox
 
-For this project we created an application that allowed you to add all of your ideas to a list on a page. This project implemented local storage so that all of your prepended ideas persisted on the page after reloading. You can delete your ideas, search through them, edit them, and upvote the quality of each idea.
+For this project we created an application that allowed you to add all of your ideas to a list on a page. This project implemented local storage so that all of your prepended ideas persisted on the page after reloading. You can delete your ideas, search through them, edit them, and upvote or downvote the quality of each idea.
 
 * [GitHub URL](https://github.com/ashleylevi/ideabox)
 * [Original Assignment](http://frontend.turing.io/projects/ideabox.html)
@@ -87,7 +87,7 @@ No feedback from him yet.
 
 I have felt very connected to the Turing community throughout module 1. I often arrived to campus about an hour before classes started and stayed on campus until around 7:00pm every day. Because of this, I was able to connect with a lot of my peers and offer help to anyone in need- especially for static comp projects and mythical creatures. I also set up pairs almost every day, therefore, I was really able to connect with people in other modules and grow my network at Turing while also receiving the help and assistance I needed on assignments. On top of my general presence around campus, Loryn Mason and I were able to put together a mythical creatures study session for our module 1 peers over the weekend before finals. 
 
-On top of that, I participated in events outside of Turing such as the Demo Comp at WeWork!
+On top of that, I participated in events outside of Turing such as attending the Demo Comp at WeWork!
 
 ------------------
 
