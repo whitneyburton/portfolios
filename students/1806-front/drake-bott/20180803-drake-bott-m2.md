@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+Learn how to utilize ES6 syntax, basics of React, and expand my understanding of Javascript.
 
 ## Rubric Scores
 
@@ -25,7 +25,7 @@ PASS
 * [GitHub URL](https://github.com/bottd/complete-me)
 * [Original Assignment](http://frontend.turing.io/projects/complete-me.html)
 
-Create a prefix trie in javascript.
+Create a prefix trie in javascript for later use as an autocomplete engine.
 
 ##### Evaluation score
 
@@ -33,28 +33,25 @@ PASS
 
 ## C: Group Work & Projects
 
-### Projects
+#### Game Time
 
-(Intro)
+* [GitHub URL](https://github.com/lkshamus/game-time)
+* [Original Assignment](http://frontend.turing.io/projects/game-time.html)
 
-#### (Project Name)
+Learn object oriented programming (OOP) principles by building a game that is playable in the browser.
 
-* [GitHub URL]()
-* [Original Assignment]()
+#### Weatherly
 
-(description)
+* [GitHub URL](https://github.com/bottd/weathrly)
+* [Original Assignment](http://frontend.turing.io/projects/weathrly.html)
 
-(evaluation comments)
-
-(evaluation scores)
-
-(feedback to me)
+Practice React framework fundamentals through creating a basic weather app.  
 
 ## D: Community Participation
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+I had a very open pairing schedule on the FE pairing spreadsheet and paired as much as requested.  I also would walk around during work time and help out classmates from Mod 1 & 2.
 
 ------------------
 
