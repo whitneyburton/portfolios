@@ -1,29 +1,30 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Kaylee Bunce -  Portfolio
 
 ## Areas of Emphasis
 
 (What did you set out to accomplish this module?)
+Walking into Turing on the first day, I was immediately intimidated. Everyone was talking about how rigirous the program was, to front load as much as you can, and review notes and practice as much as possible. Throughout Mod 1 my goal was to soak up as much information while staying mentally, emotionally, and physically recharged in order to be ready to go each day. I knew I had to get on top of planning my weeks out accordingly. By delegating my time to areas with the most importance, and making sure that I had time for the outdoors.
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Community Participation**: X
+* **A: End-of-Module Assessment**: 3.7
+* **B: Individual Work & Projects**: 3.5
+* **C: Group Work & Projects**: 3.2
+* **D: Professional Skills**: 3.5
+* **E: Community Participation**: 3
 
 -----------------------
 
 ## A: End of Module Assessment
 
-(Indicate whether you passed or failed the end of module assessment)
+Passed
 
 
 ## B: Individual Work & Projects
 
 (Intro)
 
-#### (Project Name)
+#### Number Guesser
 
 * [GitHub URL]()
 * [Original Assignment]()
@@ -40,10 +41,32 @@
 
 (Intro)
 
-#### (Project Name)
+#### Linked List
 
-* [GitHub URL]()
-* [Original Assignment]()
+* https://github.com/kayleenovak/Linked-List
+* http://frontend.turing.io/projects/linked-list.html
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+#### IdeaBox
+
+* https://github.com/kayleenovak/IdeaBox
+* http://frontend.turing.io/projects/ideabox.html
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+#### 2DoBox
+
+* https://github.com/kayleenovak/2DoBox-Pivot
+* http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html
 
 (description)
 
