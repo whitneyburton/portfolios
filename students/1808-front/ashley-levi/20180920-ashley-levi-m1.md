@@ -34,17 +34,17 @@ For this project I created a number guessing game where the user is challanged t
 #### Static Comp 1
 * [GitHub URL](https://github.com/ashleylevi/al-comp-challenge-1)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-1.html)
-* Evaluation: Great color scheme. Need to work on understanding how media queries work and implementing them effectively. Need to work on fine tuning the details. 
+* Evaluation: Need to work on understanding how media queries work and implementing them effectively. Need to work on fine tuning the details. 
 
 #### Static Comp 2
 * [GitHub URL](https://github.com/ashleylevi/number-guesser)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-2.html)
-* Evaluation: Much better control of media queries on this project. Need to work on understanding and implementing best practices for design, such as optimal color contrast principals. 
+* Evaluation: Need to work on understanding and implementing best practices for design, such as optimal color contrast principals. 
 
 #### Static Comp 3
 * [GitHub URL](https://github.com/ashleylevi/number-guesser)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-3.html)
-* Evaluation: Need to work on final tocuhes- even spacing between all elements, line-height, aria labels, stack the circle graphs at iphone 5 media query, and move search bars so it's functionality isn't hidden.
+* Evaluation: Need to work on final tocuhes- even spacing between all elements, line-height, aria labels, stack the circle graphs at iphone 5 media query, and move search bar so it's functionality isn't hidden.
 
 ## C: Group Work & Projects
 
@@ -86,7 +86,7 @@ No feedback from him yet.
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+I have felt very connected to the Turing community throughout module 1. I often arrived to campus about an hour before classes started and stayed on campus until around 7:00pm every day. Because of this, I was able to connect with a lot of my peers and offer help to anyone in need- especially for static comp projects and mythical creatures. I also set up pairs almost every day, therefore, I was really able to connect with people in other modules and grow my network at Turing while also receiving the help and assistance I needed on assignments. On top of my general presence around campus, Loryn Mason and I were able to put together a mythical creatures study session for our module 1 peers over the weekend before finals. 
 
 ------------------
 
