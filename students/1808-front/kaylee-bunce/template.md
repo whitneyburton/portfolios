@@ -7,10 +7,10 @@ Walking into Turing on the first day, I was immediately intimidated. Everyone wa
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: 3.7
+* **A: End-of-Module Assessment**: 3
 * **B: Individual Work & Projects**: 3.5
-* **C: Group Work & Projects**: 3.2
-* **D: Professional Skills**: 3.5
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
 * **E: Community Participation**: 3
 
 -----------------------
