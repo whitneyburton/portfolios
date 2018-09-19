@@ -68,11 +68,36 @@ Passed
 ##### Original Assignment
   - http://frontend.turing.io/projects/linked-list.html
 
-(description)
+##### Overview
+  - Build 
 
-(evaluation comments)
+#### Evaluation Comments
+  - Need many more small commits and branches for each feature
+  - Great work on the comp and matching the design
+  - Good use of semantic tags and aria labels to describe inputs and buttons
+  - Nice work CSS, a few situations where we could group some similar styles together
+  - Nice organization of of global variables, event listeners, and function declarations
+  - Remember to clear out console.logs before evals
+  - Instead of using alerts, try implementing the errors in the DOM
+  - Good work breaking functions out into smaller functions
+  - A few situations where you might be able to take away some of the global variables (the counters)
+  - One or two situations where we don't need the extra else if statement, an else statement would work fine
 
-(evaluation scores)
+#### Evaluation Scores
+  - Functional Expectations
+    - Exceptional
+  - Comp Recreation and Design
+    - Proficient
+    - Exceptional
+  - HTML
+    - Proficient
+  - CSS
+    - Proficient
+  - JS/jQuery
+    - Advanced Beginner
+    - Proficient
+  - GIT and GitHub
+    - Novice
 
 #### IdeaBox
 
@@ -80,12 +105,25 @@ Passed
   - https://github.com/kayleenovak/IdeaBox
 ##### Original Assignment
   - http://frontend.turing.io/projects/ideabox.html
+  
+##### Overview
+  - 
 
-(description)
+#### Evaluation Comments
+  - 
 
-(evaluation comments)
-
-(evaluation scores)
+#### Evaluation Scores
+  - Functional Expectations
+    - 
+  - Comp Recreation and Design
+    - 
+  - HTML
+    - 
+    - 
+  - CSS
+    - 
+  - JS/jQuery
+    -
 
 #### 2DoBox
 
@@ -94,11 +132,27 @@ Passed
 ##### Original Assignment
   - http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html
 
-(description)
+##### Overview
+  - 
 
-(evaluation comments)
+#### Evaluation Comments
+  - Good naming conventions
+  - Consider adding organizational comments
+  - DRY it up!!!!
+  - Think about where you can pass arguments when there is duplication between functions
 
-(evaluation scores)
+#### Evaluation Scores
+  - Functional Expectations
+    - Advanced Beginner
+    - Proficient
+  - Comp Recreation and Design
+    - Proficient
+  - HTML
+    - Proficient
+  - CSS
+    - Proficient
+  - JS/jQuery
+    - Advanced Beginner
 
 ## D: Community Participation
 
