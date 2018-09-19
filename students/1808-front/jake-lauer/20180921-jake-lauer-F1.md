@@ -78,9 +78,9 @@ Create a LinkedList webapp where users can add links as bookmarks.
 - HTML: <b>Proficient</b>
 - CSS: <b>Advanced Beginner</b>
 - JS: <b>Proficient</b>
-- Git: <b>Proficient</br>
-- Pairing: <b>Proficient</br>
-- Technical Vocab: <b>Proficient</br>
+- Git: <b>Proficient</b>
+- Pairing: <b>Proficient</b>
+- Technical Vocab: <b>Proficient</b>
 - Suprise: <b>Hot Fire</b>
 
 #### Idea Box
@@ -104,9 +104,9 @@ Assignment was to create a webapp where users could submit ideas, sort them, and
 - HTML: <b></b>
 - CSS: <b></b>
 - JS: <b></b>
-- Git: <b></br>
-- Pairing: <b></br>
-- Technical Vocab: <b></br>
+- Git: <b></b>
+- Pairing: <b></b>
+- Technical Vocab: <b></b>
 - Suprise: <b></b>
 
 #### TodoBox
