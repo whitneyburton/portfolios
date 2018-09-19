@@ -36,14 +36,14 @@ Our only individual Assessment was Number Guesser - the first assignment of the 
 
 The objective was to build a game where the user guesses a number between 1 and 100, following the provided design comps.
 
-##### Evaluation Comments
+`Evaluation Comments`
 - Change Tab sizes to 2 from 4!
 - Lose the brs, use more semantic elements.
 - Alphabetize css rules
 - Dry up the Javascript 
 - [Full Comments] (https://github.com/turingschool/front-end-submissions-public/blob/master/1808/mod-1/number-guesser/jake-lauer.md)
 
-##### Evaluation Scores
+`Evaluation Scores`
 - Functional: <b>Exceptional</b>
 - Comp Recreation: <b>Proficient</b>
 - HTML: <b>Proficient</b>
@@ -64,15 +64,15 @@ There were 3 group projects in Mod 1: Linked List, IdeaBox, and TodoBox.
 
 Create a LinkedList webapp where users can add links as bookmarks.
 
-##### Evaluation Comments
+`Evaluation Comments`
 - Love how many commits there are!
 - Nice work matching comp
 - Stay away from nested divs
 - Nice JS organazation/while loop/ternaries
 - Work on using less global vars
-- [Full Comments] (https://github.com/turingschool/front-end-submissions-public/blob/master/1808/mod-1/linked-list/jake-kylie.md)
+- [Full Comments](https://github.com/turingschool/front-end-submissions-public/blob/master/1808/mod-1/linked-list/jake-kylie.md)
 
-##### Evaluation Scores
+`Evaluation Scores`
 - Functional: <b>Exceptional</b>
 - Comp Recreation: <b>Proficient</b>
 - HTML: <b>Proficient</b>
@@ -90,14 +90,14 @@ Create a LinkedList webapp where users can add links as bookmarks.
 
 Assignment was to create a webapp where users could submit ideas, sort them, and rank them.
 
-##### Evaluation Comments
+`Evaluation Comments`
 - 
 - 
 - 
 - 
-- [Full Comments] (https://github.com/turingschool/front-end-submissions-public/blob/master/1808/mod-1/idea-box/hillary-jake.md)
+- [Full Comments](https://github.com/turingschool/front-end-submissions-public/blob/master/1808/mod-1/idea-box/hillary-jake.md)
 
-##### Evaluation Scores
+`Evaluation Scores`
 - Functional: <b>Exceptional</b>
 - Comp Recreation: <b></b>
 - HTML: <b></b>
@@ -115,14 +115,14 @@ Assignment was to create a webapp where users could submit ideas, sort them, and
 
 Refactor a disjointed LinkedList and pivot to ToDo box functionality.
 
-##### Evaluation Comments
+`Evaluation Comments`
 - Make sure aria-labels aren't providing redundant info
 - Love the organizational comments/multiple class architecture
 - Think about using more early returns
 - Think about where you can pass in arguments to prevent duplication
-- [Full Comments] (https://github.com/turingschool/front-end-submissions-public/blob/master/1808/mod-1/to-do-box/jake-justin.md)
+- [Full Comments](https://github.com/turingschool/front-end-submissions-public/blob/master/1808/mod-1/to-do-box/jake-justin.md)
 
-##### Evaluation Scores
+`Evaluation Scores`
 - Functional: <b>Exceptional</b>
 - Comp Recreation: <b>Exceptional</b>
 - HTML: <b>Proficient</b>
