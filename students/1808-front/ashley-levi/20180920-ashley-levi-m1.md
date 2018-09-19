@@ -21,7 +21,7 @@ Pass
 
 ## B: Individual Work & Projects
 
-(Intro)
+Over the course of the module I had to work on various projects, both individual and with a partner. I gained a ton of experience and knowledge working with JavaScript/Jquery DOM manipulation, event delegation, local storage, and organizing HTML and CSS. On top of that, I was able to pratice working and communicating with different types of people on difficult projects which prompted us to quickly learn and master git/github in the process.
 
 #### Number Guesser
 
@@ -58,7 +58,6 @@ For this project we created a bookmarking application where you can create bookm
 * [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
 * [Evaluation Comments](https://github.com/turingschool/front-end-submissions-public/blob/master/1808/mod-1/linked-list/theo-ashley.md)
 * Feedback from Theo:
-Hey Ashley, here's your feedback from Theo on Linked List:
 Ashley was very organized overall and drove the progress by being on-time and having a "can-do" attitude. We did a great job of spacing out work time and getting our work done early. For coaching, keep up the strong communication!
 
 #### IdeaBox
@@ -73,7 +72,7 @@ Ashley and I worked very well together on IdeaBox. I appreciated how she had a f
 
 #### 2DoBox
 
-For this project we refactored someone else's code for the Ideabox bookmarking application to make it fully functioanl. Once we accomplished this, we pivoted to 2Dobox. This entailed adding new features to the application such as: updating the amount of upvotes or downvotes for each 2-do item, searchability by quality, buttons to mark the 2-do as completed, and storing the completed 2-dos so as to be able to uncover them at a later time. 
+For this project we refactored someone else's code for the Ideabox bookmarking application to make it fully functional. Once we accomplished this, we pivoted to 2Dobox. This entailed adding new features to the application such as: updating the amount of upvotes or downvotes for each 2-do item, searchability by quality, buttons to mark the 2-do as completed, and storing the completed 2-dos so as to be able to uncover them at a later time. 
 
 * [GitHub URL](https://github.com/ashleylevi/2DoBox-Pivot)
 * [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
@@ -87,6 +86,8 @@ No feedback from him yet.
 ### Playing a Part
 
 I have felt very connected to the Turing community throughout module 1. I often arrived to campus about an hour before classes started and stayed on campus until around 7:00pm every day. Because of this, I was able to connect with a lot of my peers and offer help to anyone in need- especially for static comp projects and mythical creatures. I also set up pairs almost every day, therefore, I was really able to connect with people in other modules and grow my network at Turing while also receiving the help and assistance I needed on assignments. On top of my general presence around campus, Loryn Mason and I were able to put together a mythical creatures study session for our module 1 peers over the weekend before finals. 
+
+On top of that, I participated in events outside of Turing such as the Demo Comp at WeWork!
 
 ------------------
 
