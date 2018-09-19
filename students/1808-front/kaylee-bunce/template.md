@@ -28,14 +28,32 @@ Passed
 
 ##### GitHub Repo
   - https://github.com/kayleenovak/Number-Guesser
+  
 ##### Original Assignment
   - http://frontend.turing.io/projects/number-guesser.html
 
-(description)
+##### Overview
+  - Build a guessing game where the user guesses a number between 1 and 100. 
 
-(evaluation comments)
+#### Evaluation Comments
+  - Great work on the user experience of your application
+  - Some things on the UI could match a bit better with comp
+  - Good organization and structure of HTML
+  - Good organization of styles
+  - A few instances where functions get a little long
 
-(evaluation scores)
+#### Evaluation Scores
+  - Functional Expectations
+    - Proficient
+  - Comp Recreation and Design
+    - Advanced Beginner
+  - HTML
+    - Advanced Beginner
+    - Proficient
+  - CSS
+    - Advanced Beginner
+  - JS/jQuery
+    - Advanced Beginner
 
 ## C: Group Work & Projects
 
