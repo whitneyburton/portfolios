@@ -43,7 +43,9 @@ Passed
 
 #### Linked List
 
-* https://github.com/kayleenovak/Linked-List
+##### GitHub Repo
+  - https://github.com/kayleenovak/Linked-List
+##### 
 * http://frontend.turing.io/projects/linked-list.html
 
 (description)
