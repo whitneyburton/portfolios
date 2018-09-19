@@ -70,7 +70,7 @@ This project involved recreating a static site based on a provided comp. Creativ
 ## C: Group Work & Projects
 
 ### Projects
-h
+
 #### Linked List
 
 * [GitHub URL](https://github.com/chris023/linked-list)
