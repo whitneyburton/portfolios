@@ -5,18 +5,19 @@
 I set out to gain the basic foundations of front-end development and start my shift in career towards programming. I only had practice using HTML and CSS before enrolling in Turing, and by the end of this mod, I  learn about the 'why' in programming and not just the 'how'.
 
 ## Rubric Scores
+Out of 4 statrs:
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Community Participation**: X
+* **A: End-of-Module Assessment**: pending
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 4
+* **D: Professional Skills**: 3.5
+* **E: Community Participation**: 3
 
 -----------------------
 
 ## A: End of Module Assessment
 
-(passed or failed the end of module assessment)
+pending
 
 
 ## B: Individual Work & Projects
@@ -37,9 +38,8 @@ Build a game where the user guesses a number between 1 and 100.
 
 Recreate static comp with some creative license.
 
-(evaluation comments)
+Evaluation comments: Focus on alignment and choice of colors.
 
-(evaluation scores)
 
 #### Static Comp 2
 
@@ -48,9 +48,8 @@ Recreate static comp with some creative license.
 
 Recreate static comp with some creative license except on layout.
 
-(evaluation comments)
+Evaluation comments: Minor margin issues and responsiveness.
 
-(evaluation scores)
 
 #### Static Comp 3
 
@@ -69,22 +68,36 @@ Recreate static comp with little creative license on layout.
 ### Projects
 
 
-#### (Project Name)
+#### Linked List
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/ellytea/linkedList)
+* [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
+* [Evaluation Comments and Scores](https://github.com/turingschool/front-end-submissions-public/blob/master/1808/mod-1/linked-list/cole-elly.md)
 
-(description)
+Building a small application.
 
-(evaluation comments)
+#### Idea Box
 
-(evaluation scores)
+* [GitHub URL](https://github.com/kayleenovak/IdeaBox)
+* [Original Assignment](http://frontend.turing.io/projects/ideabox.html)
+* [Evaluation Comments and Scores](https://github.com/turingschool/front-end-submissions-public/blob/master/1808/mod-1/idea-box/elly-kaylee.md)
+
+Building an application using local storage.
+
+#### 2DoBox-Pivot
+
+* [GitHub URL](https://github.com/lorynmason/2DoBox-Pivot)
+* [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
+* [Evaluation Comments and Scores](https://github.com/turingschool/front-end-submissions-public/blob/master/1808/mod-1/to-do-box/loryn-elly.md)
+
+Refactor and build on IdeaBox project.
+
 
 ## D: Community Participation
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+I volunteered for Turing events when they were needed, towards the end of the mod I warmed up to pairing sessions, and participated in class-mate hosted study sessions.
 
 ------------------
 
