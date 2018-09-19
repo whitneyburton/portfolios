@@ -26,8 +26,10 @@ Passed
 
 #### Number Guesser
 
-* [GitHub URL]()
-* [Original Assignment]()
+##### GitHub Repo
+  - https://github.com/kayleenovak/Number-Guesser
+##### Original Assignment
+  - http://frontend.turing.io/projects/number-guesser.html
 
 (description)
 
@@ -45,8 +47,8 @@ Passed
 
 ##### GitHub Repo
   - https://github.com/kayleenovak/Linked-List
-##### 
-* http://frontend.turing.io/projects/linked-list.html
+##### Original Assignment
+  - http://frontend.turing.io/projects/linked-list.html
 
 (description)
 
@@ -56,8 +58,10 @@ Passed
 
 #### IdeaBox
 
-* https://github.com/kayleenovak/IdeaBox
-* http://frontend.turing.io/projects/ideabox.html
+##### GitHub Repo
+  - https://github.com/kayleenovak/IdeaBox
+##### Original Assignment
+  - http://frontend.turing.io/projects/ideabox.html
 
 (description)
 
@@ -67,8 +71,10 @@ Passed
 
 #### 2DoBox
 
-* https://github.com/kayleenovak/2DoBox-Pivot
-* http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html
+##### GitHub Repo
+  - https://github.com/kayleenovak/2DoBox-Pivot
+##### Original Assignment
+  - http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html
 
 (description)
 
