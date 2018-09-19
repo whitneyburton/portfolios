@@ -71,18 +71,94 @@ This project involved recreating a static site based on a provided comp. Creativ
 
 ### Projects
 
-(Intro)
+#### Linked List
 
-#### (Project Name)
+* [GitHub URL](https://github.com/chris023/linked-list)
+* [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
 
-* [GitHub URL]()
-* [Original Assignment]()
+This project involved creating a small application where a user can input a title and a URL and it will dynamically create a bookmark card on the page. The cards can then marked as read or deleted.
 
-(description)
+##### Eval Feedback
 
-(evaluation comments)
+COMP
+* like the design decision to have the counters at the top of the bookmark section
 
-(evaluation scores)
+HTML
+* Consider using aria-labels on inputs that don't have labels associated with them
+* Think about what pluralization in naming means
+
+CSS
+* Love the organizational comments
+* Love the multiple class structure
+
+JS
+* Good naming conventions
+* pull duplicate chunks of code into their own functions and pass arguments where necessary
+
+##### Eval Scores
+
+- Functional Expectations: Proficient
+- Comp Recreation/Design: Proficient
+- HTML: Proficient
+- CSS: Proficient
+- JS/jQuery: Proficient/Exceptional
+- Git/GitHub: Advanced Beginner/Proficient
+- Pairing/Collaboration: Proficient
+- Technical Vocab: Proficient
+- Surprise and Delight: Magic
+
+#### IdeaBox
+
+* [GitHub URL](https://github.com/jarushford/idea-box)
+* [Original Assignment](http://frontend.turing.io/projects/ideabox.html)
+
+This project was similar to Linked List in that it took user inputs and displayed them on the page. This project also added the use of localStorage and being able to persist changes, as well as the ability to filter results based on a search input.
+
+##### Eval Feedback
+
+* Nice work with the commits and commit messages
+  * Continue to keep working on creating new branches for each branch name
+* Good UI and UX (awesome attention to detail)
+  * The sorting is really solid
+  * I love the sticky nav bar.
+  * Good responsive view to the app as well.  Very good spacing and sizing.
+* Good work using aria-labels and keeping the html clean and using semantic tags
+  * I would load the script after the body
+* Make sure to add border-box to it
+* Organization and alphabetizing properties of styles
+  * Continue to work on controlling main elements without having to use relative positioning
+  * When you have multiple classes with similar styles trying using one class and putting them on those elements
+* Nice work staying away from using global variables
+* Nice use of constructor function
+  * I wouldn't save the html inside of constructor function and localStorage.
+* Instead of saving your ideas individually into local storage, experiment storing them into one key with an array of ideas.  Makes it easier for scalability and keeping your local storage organized.
+* Nice work breaking out functions into smaller functions
+* Might put the qualities inside of an array instead of multiple else if statements
+* Experiment using more array prototype methods over for loops.
+* Functions where you are using an if/else statement to return true or false, try returning the expression
+
+##### Eval Scores
+
+- Functional Expectations: Exceptional
+- Comp Recreation/Design: Exceptional
+- HTML: Proficient/Exceptional
+- CSS: Advanced/Proficient
+- JS/jQuery: Advanced Beginner/Proficient
+- Git/GitHub: Advanced Beginner/Proficient
+- Pairing/Collaboration: Proficient
+- Technical Vocab: Proficient
+- Surprise and Delight: Magic
+
+#### 2DoBox-Pivot
+
+* [GitHub URL](https://github.com/jarushford/2dobox)
+* [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
+
+This project was very similar to IdeaBox, but it required refactoring a previously created version of IdeaBox that needed some work and debugging, and then shifting the functionality to work as a todo list. Additional functionality included being able to sort by importance using buttons and limiting the display to 10 cards and having a button to show more/less.
+
+##### Eval Feedback
+
+##### Eval Scores
 
 ## D: Community Participation
 
