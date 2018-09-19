@@ -30,7 +30,7 @@ The individual project this module was the first project, Number Guesser.
 
  The goal of this project was to build a game where the user guesses a number between 1 and 100. The user should be told if their guess is too high, too low, or accurate. Then, the user should be able to set a range for their guess.
 
-* [My scores](https://github.com/turingschool/front-end-submissions-public/blob/master/1808/mod-1/number-guesser/cole-vanacore.md)
+* [Instructor Feedback](https://github.com/turingschool/front-end-submissions-public/blob/master/1808/mod-1/number-guesser/cole-vanacore.md)
 
 ## C: Group Work & Projects
 
