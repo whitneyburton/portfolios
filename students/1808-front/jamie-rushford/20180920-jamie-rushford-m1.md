@@ -70,7 +70,7 @@ This project involved recreating a static site based on a provided comp. Creativ
 ## C: Group Work & Projects
 
 ### Projects
-
+h
 #### Linked List
 
 * [GitHub URL](https://github.com/chris023/linked-list)
@@ -164,7 +164,7 @@ This project was very similar to IdeaBox, but it required refactoring a previous
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+I am definitely a pretty introverted person, so at times it can be difficult for me to integrate into new communities with lots of new people. That said I really like the Turing community and have made an effort to put myself out there a bit in it, which I want to continue to push myself to do over the coming months. I have gone to and really enjoyed some events like the Demo Comp night at WeWork earlier this block. And I feel like on a smaller scale within our class I have made an attempt to reach out or offer help when I can to people around me who are looking for it. Moving forward I would like to continue building this support within our cohort (and the greater community), giving help where I can and receiving it where needed. I would also like to start getting more involved now in some more events/groups outside of just normal classes now that I feel a little more settled in the community.
 
 ------------------
 
