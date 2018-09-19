@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-This module I sought out to become comfortable with HTML, CSS, JS, JQuery, and Git by the end of the mod. I 
+I sought out to become comfortable with HTML, CSS, JS, JQuery, and Git by the end of the mod. I 
 also wanted to make solid connections with as many of my classmates as possible. By the end of the module, I 
 acheived all my technical goals and had a lot of fun working with and hanging out with more of my classmates than I 
 thought I would!
