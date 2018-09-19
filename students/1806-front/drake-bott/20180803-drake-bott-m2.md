@@ -1,4 +1,4 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Drake Bott - M2 Portfolio
 
 ## Areas of Emphasis
 
@@ -6,33 +6,30 @@
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Community Participation**: X
+* **A: End-of-Module Assessment**: PASS
+* **B: Individual Work & Projects**: PASS
+* **C: Group Work & Projects**: PASS
+* **D: Professional Skills**: PASS
+* **E: Community Participation**: PASS
 
 -----------------------
 
 ## A: End of Module Assessment
-
-(Indicate whether you passed or failed the end of module assessment)
-
+ 
+PASS
 
 ## B: Individual Work & Projects
 
-(Intro)
+#### Complete Me
 
-#### (Project Name)
+* [GitHub URL](https://github.com/bottd/complete-me)
+* [Original Assignment](http://frontend.turing.io/projects/complete-me.html)
 
-* [GitHub URL]()
-* [Original Assignment]()
+Create a prefix trie in javascript.
 
-(description)
+##### Evaluation score
 
-(evaluation comments)
-
-(evaluation scores)
+PASS
 
 ## C: Group Work & Projects
 
