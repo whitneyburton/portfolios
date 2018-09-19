@@ -57,9 +57,8 @@ For this project we created a bookmarking application where you can create bookm
 * [GitHub URL](https://github.com/ashleylevi/linked-list)
 * [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
 * [Evaluation Comments](https://github.com/turingschool/front-end-submissions-public/blob/master/1808/mod-1/linked-list/theo-ashley.md)
-Feedback from Theo:
+* Feedback from Theo:
 Hey Ashley, here's your feedback from Theo on Linked List:
-
 Ashley was very organized overall and drove the progress by being on-time and having a "can-do" attitude. We did a great job of spacing out work time and getting our work done early. For coaching, keep up the strong communication!
 
 ## D: Community Participation
