@@ -129,9 +129,9 @@ Refactor a disjointed LinkedList and pivot to ToDo box functionality.
 - HTML: <b>Proficient</b>
 - CSS: <b>Proficient</b>
 - JS: <b>Exceptional</b>
-- Git: <b>Exceptional</br>
-- Pairing: <b>Proficient</br>
-- Technical Vocab: <b>Proficient</br>
+- Git: <b>Exceptional</b>
+- Pairing: <b>Proficient</b>
+- Technical Vocab: <b>Proficient</b>
 - Suprise: <b>Hot Fire</b>
 
 ## D: Community Participation
