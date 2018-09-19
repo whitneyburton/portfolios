@@ -61,6 +61,30 @@ For this project we created a bookmarking application where you can create bookm
 Hey Ashley, here's your feedback from Theo on Linked List:
 Ashley was very organized overall and drove the progress by being on-time and having a "can-do" attitude. We did a great job of spacing out work time and getting our work done early. For coaching, keep up the strong communication!
 
+#### Idea Box
+
+For this project we created a bookmarking application where you can create bookmarks for all of your favorite websites. You can mark any bookmark as read and/or delete a bookmark. The application will keep a counting track of all bookmarks created and all bookmarks that are marked as read.
+
+* [GitHub URL](https://github.com/ashleylevi/ideabox)
+* [Original Assignment](http://frontend.turing.io/projects/ideabox.html)
+* [Evaluation Comments](https://github.com/turingschool/front-end-submissions-public/blob/master/1808/mod-1/idea-box/cole-ashley.md)
+* Feedback from Cole:
+Ashley and I worked very well together on IdeaBox. I appreciated how she had a flexible working schedule, and was willing to meet whenever I could meet. We both had similar mindsets that we wanted to get a majority of the project done over the weekend so we would have a good start on it going into the week. Ashley is very organized and determined worker, and I appreciate that we both learned a lot during this project. I really appreciated that we alternated driving and navigating because it helped me to really understand what we were doing. One thing that we can both do to improve next time is to make sure we make our website responsive even if the directions dont say to.
+
+#### 2Do Box
+
+For this project we created a bookmarking application where you can create bookmarks for all of your favorite websites. You can mark any bookmark as read and/or delete a bookmark. The application will keep a counting track of all bookmarks created and all bookmarks that are marked as read.
+
+* [GitHub URL](https://github.com/ashleylevi/2DoBox-Pivot)
+* [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
+* [Evaluation Comments](https://github.com/turingschool/front-end-submissions-public/blob/master/1808/mod-1/to-do-box/ashley-matt.md)
+* Feedback from Theo:
+Hey Ashley, here's your feedback from Theo on Linked List:
+Ashley was very organized overall and drove the progress by being on-time and having a "can-do" attitude. We did a great job of spacing out work time and getting our work done early. For coaching, keep up the strong communication!
+
+
+
+
 ## D: Community Participation
 
 ### Playing a Part
