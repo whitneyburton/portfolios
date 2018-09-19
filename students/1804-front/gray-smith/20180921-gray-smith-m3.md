@@ -4,6 +4,14 @@
 
 I have been excited for mod3 since I started at Turing. Going into mod3 I knew I wanted to solidify my ability to conceptualize an idea and be able to think through it thoroughly and build out an MVP product. I feel like I am becoming much more confident in my ability to create things from scratch and implement my own original ideas rather than just following guides.
 
+## Resume
+
+[Resume](https://github.com/GraySmith00/gs-headCount2.0)
+
+## Portfolio Page
+
+[Portfolio Page](https://www.turing.io/alumni/gray-smith)
+
 ## Rubric Scores
 
 - **A: End-of-Module Assessment**: 3.9
