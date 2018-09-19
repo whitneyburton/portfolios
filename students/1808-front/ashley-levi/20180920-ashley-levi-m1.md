@@ -30,7 +30,14 @@ Pass
 
 For this project I created a number guessing game where the user is challanged to correctly guess a randomly generated number.  The user can instantiate their own minimum and maximum number-range and then the application will generate a random number between those minimum and maximum inputs. If the user guesses correcly, the game will tell them 'BOOM!', and then the minimum range decreases by 10 and the maximum range increases by 10. 
 
-[evaluation comments and socres] (https://github.com/turingschool/front-end-submissions-public/blob/master/1808/mod-1/number-guesser/ashley-levi.md)
+* [evaluation comments and socres](https://github.com/turingschool/front-end-submissions-public/blob/master/1808/mod-1/number-guesser/ashley-levi.md)
+
+* [Static Comp 1](https://github.com/ashleylevi/al-comp-challenge-1)
+* [Original Assignment](https://github.com/ashleylevi/number-guesser)
+* [Static Comp 2](https://github.com/ashleylevi/number-guesser)
+* [Original Assignment](https://github.com/ashleylevi/number-guesser)
+* [Static Comp 3](https://github.com/ashleylevi/number-guesser)
+* [Original Assignment](https://github.com/ashleylevi/number-guesser)
 
 ## C: Group Work & Projects
 
