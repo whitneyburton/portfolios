@@ -44,7 +44,7 @@ For this project I created a number guessing game where the user is challanged t
 #### Static Comp 3
 * [GitHub URL](https://github.com/ashleylevi/number-guesser)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-3.html)
-* Evaluation: Great at replicating the original comp. Need to work on having better control of media queries with more complicated layouts. 
+* Evaluation: Need to work on final tocuhes- even spacing between all elements, line-height, aria labels, stack the circle graphs at iphone 5 media query, and move search bars so it's functionality isn't hidden.
 
 ## C: Group Work & Projects
 
@@ -61,9 +61,9 @@ For this project we created a bookmarking application where you can create bookm
 Hey Ashley, here's your feedback from Theo on Linked List:
 Ashley was very organized overall and drove the progress by being on-time and having a "can-do" attitude. We did a great job of spacing out work time and getting our work done early. For coaching, keep up the strong communication!
 
-#### Idea Box
+#### IdeaBox
 
-For this project we created a bookmarking application where you can create bookmarks for all of your favorite websites. You can mark any bookmark as read and/or delete a bookmark. The application will keep a counting track of all bookmarks created and all bookmarks that are marked as read.
+For this project we created an application that allowed you to add all of your ideas to a list on a page. This project implemented local storage so that all of your prepended ideas persisted on the page after reloading. You can delete your ideas, search through them, edit them, and upvote the quality of each idea.
 
 * [GitHub URL](https://github.com/ashleylevi/ideabox)
 * [Original Assignment](http://frontend.turing.io/projects/ideabox.html)
@@ -71,18 +71,15 @@ For this project we created a bookmarking application where you can create bookm
 * Feedback from Cole:
 Ashley and I worked very well together on IdeaBox. I appreciated how she had a flexible working schedule, and was willing to meet whenever I could meet. We both had similar mindsets that we wanted to get a majority of the project done over the weekend so we would have a good start on it going into the week. Ashley is very organized and determined worker, and I appreciate that we both learned a lot during this project. I really appreciated that we alternated driving and navigating because it helped me to really understand what we were doing. One thing that we can both do to improve next time is to make sure we make our website responsive even if the directions dont say to.
 
-#### 2Do Box
+#### 2DoBox
 
-For this project we created a bookmarking application where you can create bookmarks for all of your favorite websites. You can mark any bookmark as read and/or delete a bookmark. The application will keep a counting track of all bookmarks created and all bookmarks that are marked as read.
+For this project we refactored someone else's code for the Ideabox bookmarking application to make it fully functioanl. Once we accomplished this, we pivoted to 2Dobox. This entailed adding new features to the application such as: updating the amount of upvotes or downvotes for each 2-do item, searchability by quality, buttons to mark the 2-do as completed, and storing the completed 2-dos so as to be able to uncover them at a later time. 
 
 * [GitHub URL](https://github.com/ashleylevi/2DoBox-Pivot)
 * [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
 * [Evaluation Comments](https://github.com/turingschool/front-end-submissions-public/blob/master/1808/mod-1/to-do-box/ashley-matt.md)
-* Feedback from Theo:
-Hey Ashley, here's your feedback from Theo on Linked List:
-Ashley was very organized overall and drove the progress by being on-time and having a "can-do" attitude. We did a great job of spacing out work time and getting our work done early. For coaching, keep up the strong communication!
-
-
+* Feedback from Matt: 
+No feedback from him yet.
 
 
 ## D: Community Participation
