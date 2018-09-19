@@ -1,4 +1,4 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Alexander Ela - M2 Portfolio
 
 ## Areas of Emphasis
 
@@ -26,8 +26,8 @@
 
 #### 1. Complete Me
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/alexanderela/complete-me)
+* [Original Assignment](http://frontend.turing.io/projects/complete-me.html)
 
 (description)
 
@@ -38,8 +38,8 @@
 
 #### 2. React Static Comp
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/alexanderela/ae-react-static-comp)
+* [Original Assignment](https://github.com/turingschool-examples/react-starter-kit/tree/react-static-comp)
 
 (description)
 
@@ -56,12 +56,12 @@
 
 #### 1. Game Time
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/alexanderela/game-time)
+* [Original Assignment](http://frontend.turing.io/projects/game-time.html)
 
 (description)
 
-##### Students: 
+##### Students: Alexander Ela and Mark Pearyer
 ##### Evaluator: 
 ##### Evaluation: 
 ##### Evaluation Scores: 
@@ -71,12 +71,12 @@
 
 #### Weathrly
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/flevenson/Weathrly/tree/master/weathrly-app)
+* [Original Assignment](http://frontend.turing.io/projects/weathrly.html)
 
 (description)
 
-##### Students: 
+##### Students: Alexander Ela and Freddie Levenson
 ##### Evaluator: 
 ##### Evaluation: 
 ##### Evaluation Scores: 
