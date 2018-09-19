@@ -41,7 +41,7 @@ The objective was to build a game where the user guesses a number between 1 and 
 - Lose the brs, use more semantic elements.
 - Alphabetize css rules
 - Dry up the Javascript 
-- [Full Comments] (https://github.com/turingschool/front-end-submissions-public/blob/master/1808/mod-1/number-guesser/jake-lauer.md)
+- [Full Comments](https://github.com/turingschool/front-end-submissions-public/blob/master/1808/mod-1/number-guesser/jake-lauer.md)
 
 `Evaluation Scores`
 - Functional: <b>Exceptional</b>
@@ -90,7 +90,8 @@ Create a LinkedList webapp where users can add links as bookmarks.
 
 Assignment was to create a webapp where users could submit ideas, sort them, and rank them.
 
-`Evaluation Comments`
+`Evalulation Comments`
+
 - 
 - 
 - 
