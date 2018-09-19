@@ -158,7 +158,25 @@ This project was very similar to IdeaBox, but it required refactoring a previous
 
 ##### Eval Feedback
 
+- really nice looking UI
+- nice animations
+- clean, tight CSS
+- really well executed CSS
+- super tight, clean JS
+- very thoughtful, well factored and smart execution of JS
+- GREAT JOB!!!!!
+
 ##### Eval Scores
+
+- Functional Expectations: Proficient/Exceptional
+- Comp Recreation/Design: Proficient/Exceptional
+- HTML: Proficient/Exceptional
+- CSS: Proficient/Exceptional
+- JS/jQuery: Proficient/Exceptional
+- Git/GitHub: Proficient/Exceptional
+- Pairing/Collaboration: Proficient/Exceptional
+- Technical Vocab: Proficient/Exceptional
+- Surprise and Delight: Unicorn Rainbows
 
 ## D: Community Participation
 
