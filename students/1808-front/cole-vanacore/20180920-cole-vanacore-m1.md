@@ -6,11 +6,11 @@ I came into Turing with no previous coding experience, besides the week of pre-w
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: 3.7
-* **B: Individual Work & Projects**: 3.4
+* **A: End-of-Module Assessment**: 3.8
+* **B: Individual Work & Projects**: 3.5
 * **C: Group Work & Projects**: 3.5
 * **D: Professional Skills**: 3.2
-* **E: Community Participation**: 3.2
+* **E: Community Participation**: 3.5
 
 -----------------------
 
