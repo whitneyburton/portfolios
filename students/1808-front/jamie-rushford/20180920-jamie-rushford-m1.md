@@ -27,6 +27,8 @@ Pass
 
 This project involved making a game where a user gusses a number between 1 and 100 and is given feedback on whether their guess is too high, too low, or correct. The range can also be change to increase or decrease difficulty.
 
+##### Eval Feedback
+
 - Like the bouncing animation for winning!
 - Be sure to add directions for the user about the range changing - the numbers positined on the side are not intuitive
 - Nice job using forms around inputs
@@ -34,6 +36,8 @@ This project involved making a game where a user gusses a number between 1 and 1
 - Watch formatting in your JS files - follow the style guide [here](https://github.com/turingschool-examples/javascript/tree/master/es5)
 - Work on naming in JS 
 - Nice job with breaking functionality apart
+
+##### Eval Scores
 
 - Functional Expectations: Exceptional
 - Comp Recreation/Design: Advanced Beginner/Proficient
