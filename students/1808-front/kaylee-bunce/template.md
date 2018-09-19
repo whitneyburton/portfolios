@@ -69,7 +69,7 @@ Passed
   - http://frontend.turing.io/projects/linked-list.html
 
 ##### Overview
-  - Build 
+  - Build an application that takes two inputs, a website name and the website's URL, to create a bookmark which should be prepended to the page. Each bookmark should have a delete and marked as read button. The delete button should delete the associated bookmark, and the mark as read button should be marked as read when the associated button is clicked. The application should have a function that omits an incorrect URL. The application should have a "Clear Read Bookmarks" button which will change the read bookmarks back to unread bookmarks. 
 
 #### Evaluation Comments
   - Need many more small commits and branches for each feature
