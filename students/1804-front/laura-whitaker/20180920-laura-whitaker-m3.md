@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-I wanted to become more familiar with React and Redux, as well impove on testing. 
+I wanted to become more familiar with React and Redux, as well as improve on testing. 
 
 ## Rubric Scores
 
