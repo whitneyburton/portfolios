@@ -20,7 +20,7 @@ In this module I set out to become more confident as a problem solver, which I t
 
 (Indicate whether you passed or failed the end of module assessment)
 
-I believe that I passed the end of module assessment. I do think that my proctor labeled me thinking through problems as "struggling", but I didn't feel like I was struggling at all. It's possible that I just wasn't moving fast enough under pressure, which is an issue that can be fixed with more reps. 
+I believe that I passed the end of module assessment. I do think that my proctor labeled me thinking through certain problems as "struggling", but I didn't feel like I was struggling at all. It's possible that I just wasn't moving fast enough under pressure, which is an issue that can be fixed with more practice/exposure to the interview style/situation.
 
 
 ## B: Individual Work & Projects
