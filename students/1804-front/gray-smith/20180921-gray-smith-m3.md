@@ -72,10 +72,17 @@ I have tried to be a driving force in the learning of everyone around me at Turi
 
 ## Final Review
 
+- **A: End-of-Module Assessment**: PASS
+- **B: Individual Work & Projects**: 4 
+- **C: Group Work & Projects**: 4
+- **D: Professional Skills**: 4
+- **E: Community Participation**: 4 
+
+
 ### Notes
 
 ( Leave blanks for reviewers )
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PASS
