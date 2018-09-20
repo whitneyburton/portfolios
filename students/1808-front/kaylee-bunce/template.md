@@ -24,15 +24,15 @@ Passed
 
 (Intro)
 
-#### Number Guesser
+### Number Guesser
 
-##### GitHub Repo
+#### GitHub Repo
   - https://github.com/kayleenovak/Number-Guesser
   
-##### Original Assignment
+#### Original Assignment
   - http://frontend.turing.io/projects/number-guesser.html
 
-##### Overview
+#### Overview
   - Build a guessing game where the user guesses a number between 1 and 100. 
 
 #### Evaluation Comments
@@ -55,22 +55,22 @@ Passed
   - JS/jQuery
     - Advanced Beginner
     
-#### Static Comp #1
+### Static Comp #1
 
-##### GitHub Repo
+#### GitHub Repo
   - https://github.com/kayleenovak/kb-comp-challenge-1
   
-##### Original Assignment
+#### Original Assignment
   - http://frontend.turing.io/projects/m1-static-comp-1.html
 
-##### Overview
+#### Overview
   - Recreate the static comp provided with the integrity of the original design. There is no liberty with the layout, however there are liberties with the color pallette, icons, and pictures. The site must be responsive.
 
 #### Evaluation Comments
   - Pay attention to colors and their values compared to the section next to it.
   - Utilize Empty space better when breaking the page down.
   - Add icons to the buttons in the main content section.
-    
+--------------    
 #### Static Comp #2
 
 ##### GitHub Repo
