@@ -75,10 +75,15 @@ Coming from a student who benefited a bunch from going to iron-fe, I took it upo
 
 ## Final Review
 
+* **A: End-of-Module Assessment**: PASS
+* **B: Individual Work & Projects**: 3.5
+* **C: Group Work & Projects**: 3.5
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 4
+
 ### Notes
 
 ( Leave blanks for reviewers )
 
 ### Outcome
-
-( Leave blanks for reviewers )
+PASS
