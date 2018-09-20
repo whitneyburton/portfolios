@@ -74,7 +74,7 @@
 
 #### (Turing Alumni Profile)
 
-- [Turing URL](https://www.turing.io/alumni/cody-taft)
+- [Turing URL](https://alumni.turing.io/alumni/cody-taft)
 
 ## E: Community Participation
 
