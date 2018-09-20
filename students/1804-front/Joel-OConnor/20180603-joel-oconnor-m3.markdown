@@ -63,7 +63,14 @@
   I was a strong group supporter that when anyone was in need of help during this mod I would gladly help as much as possible. Since I was repeating mod 3 it was important to try and push myself to teach others so to further my understanding.
 -----------------------
 ## Final Review
+
+  * **A: End-of-Module Assessment**: PASS
+  * **B: Individual Work & Projects**: 3.5
+  * **C: Group Work & Projects**: 3.5
+  * **D: Professional Skills**: 3
+  * **E: Community Participation**: 3 
+  
 ### Notes
 ( Leave blanks for reviewers )
 ### Outcome
-( Leave blanks for reviewers )
+PASS
