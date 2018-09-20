@@ -1,4 +1,4 @@
-# Kaylee Bunce -  Portfolio
+# Kaylee Bunce - M1 - Portfolio
 
 ## Areas of Emphasis
 Coming into Turing, I first and foremost wanted to make it through mod 1 successfully. Successfully means several things including: soaking up and retaining as much information as possible, keeping myself physically and mentally recharged, and developing and implementing skills that will help throughout my time here at Turing and when I enter the workforce. I sought out to implement certain study habits on the weekends that helped me review the past week's lectures as well as pre-reading next week's lectures. I knew that time management and delegation was going to be important as I am know to jump around and get distracted very easily.
