@@ -197,7 +197,7 @@ Projects to build collaboration skills while also learning to work efficiently a
 
 ### Playing a Part
 
-This mod I soaked up all of the help that I could get. It took a while for me to come out of my shell and really to start developing friendships within the mod as well as a few people from mod 2. There was a handful of times that I was able to share my knowledge with fellow classmates that were struggling, specifically on mythical creatures. I am looking forward to continuing to build relationships within Turing so that I can play a larger part in the community in my future mods. I am also very excited to help the new students in mod 1. I was so encouraged by several people from mod 2 during this mod. I want to be sure to spread the same encouragement that I received. 
+This mod, I soaked up all of the help that I could get. It took a while for me to come out of my shell and really to start developing friendships within the mod as well as a few people from mod 2. There were a handful of times that I was able to share my knowledge with fellow classmates that were struggling, specifically on mythical creatures. I am looking forward to continuing to build relationships within Turing so that I can play a larger part in the community in future mods. I am also very excited to help the new students in mod 1. I was so encouraged by several people from mod 2. I want to be sure to spread the same encouragement that I received. 
 
 ------------------
 
