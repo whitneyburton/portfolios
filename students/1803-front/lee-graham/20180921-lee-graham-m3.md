@@ -124,10 +124,16 @@ at turing, specifically those who share an identity with any marginalized commun
 
 ## Final Review
 
+* **A: End-of-Module Assessment**: PASS
+* **B: Individual Work & Projects**: 3.5
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 4
+* **E: Community Participation**: 4
+
+
 ### Notes
 
 ( Leave blanks for reviewers )
 
 ### Outcome
-
-( Leave blanks for reviewers )
+PASS
