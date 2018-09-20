@@ -178,7 +178,7 @@ JS
 * Advanced Beginner
 * Proficient
 
-#### Linked-list
+#### Idea-box
 
 * [GitHub URL](https://github.com/jarushford/idea-box)
 * [Original Assignment](http://frontend.turing.io/projects/ideabox.html)
