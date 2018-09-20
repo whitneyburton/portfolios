@@ -56,6 +56,12 @@ This project makes asynchronous fetch calls in order to draw film data from The 
 
 * [Evaluation scores](https://github.com/turingschool/front-end-submissions-public/blob/master/1804/mod-3/movie-tracker/tim-joel/scores.md)
 
+## D: Community Participation
+
+### Playing A Part
+
+Despite staying very preoccupied with my own personal work this mod I made an effort to reach out to Mod 2 students to assist them with their work. Between leading Iron FE and pairing with them on their projects I wanted to make myself accessible to them, as I recall how challenging some of the new material is in Mod 2. I also assisted in multiple Try Coding weekends as I recalled how that was the biggest encouragement to my desire to attend Turing. I try to express that same enthusiasm to potential students.
+
 ## Final Review
 
 ### Notes
