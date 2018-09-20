@@ -1,4 +1,4 @@
-# Paul Kim - M2 - 20180801 -- Portfolio
+# Paul Kim - M3 - 20180920 -- Portfolio
 
 
 
@@ -14,8 +14,7 @@
 - Group Work & Projects: 3.5
 - Professional Skills: 3
 - Community Participation: 4
-- End of Module Assessment
-	- Pass
+- End of Module Assessment Pass
 
 ## Individual Work & Projects
 #### HeadCount 
@@ -87,7 +86,15 @@ Movie tracker is a dynamic single page application for quickly looking up movies
 
 ## Final Review
 
+- End-of-Module Assessment: 3.5
+- Individual Work & Projects: 3.5
+- Group Work & Projects: 3.5
+- Professional Skills: 3
+- Community Participation: 4
+- End of Module Assessment: Pass
+
 ### Notes
 
 
 ### Outcome
+PASS
