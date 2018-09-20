@@ -32,3 +32,8 @@ I still definitely want to be front end focussed even though I had a very good t
  ### What is the most important skill or lesson I will take from Turing into my next job?
 
 Be okay with it taking time. Don;'t expect immediate results and remember that the people around you probably expect less of you than you expect from yourself
+
+
+### 30 day action plan
+[Imgur](https://i.imgur.com/MIgCF0l.png)
+I seemed to have not saved the previous 30 day plan. This is a rough outline of what my days will look like, pretty straightforward. Lots of code wars and job hunting.
