@@ -65,6 +65,14 @@ I paired with students in Mod 2, as well as led an Iron FE session.
 
 ## Final Review
 
+* **A: End-of-Module Assessment**: PASS
+* **B: Individual Work & Projects**: 4
+* **C: Group Work & Projects**: 4
+* **D: Professional Skills**: 4
+* **E: Community Participation**: 4
+
 ### Notes
 
 ### Outcome
+
+PASS
