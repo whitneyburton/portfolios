@@ -17,7 +17,7 @@ This mod I focused primarily on honing my React skills while adding Redux and Ro
 
 ## A: End of Module Assessment
 
-
+PASS
 
 -----------------------
 
@@ -44,7 +44,7 @@ This was my first self-directed(ish) solo project. It was a huge learning opport
 Movie Tracker was my favorite project. Working with Kurt and Brandon was fantastic. We all rounded each other out well and got through the interations quickly. Brandon taught me a lot about testing, Kurt was great at CSS and keeping us on track.
 
 
-### HeadCount 2.0
+### Swapi Box
 [GitHub Repo] (https://github.com/JesseMcBrennan/swapi-box-jj)
 
 I really enjoyed working with Joel on Swapi box. It was one of the first projects where I felt like I could truly demonstrate my ability to manipulate data. The testing aspect was a struggle, but I learned a lot and we managed to gain a lot of coverage in a short amount of time.
@@ -70,7 +70,12 @@ I paired frequently with mod 1 and mod 2. I also hosted two study groups to go o
 
 ## Final Review
 
-
+## Rubric Scores
+1. End-of-Module Assessment: 3
+2. Individual Work & Projects: 3.5
+3. Group Work & Projects: 4
+4. Professional Skills: 4
+5. Community Participation: 3
 
 ### Notes
 
