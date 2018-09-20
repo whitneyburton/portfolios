@@ -85,7 +85,7 @@ Comments:
 
 #### (ways you supported the larger Turing community)
 
-I joined choir an participated in various community events. I also paired with students to help them with projects (which also helped me as a result).
+I joined choir and participated in various community events. I also paired with students to help them with projects (which also helped me as a result).
 
 ------------------
 
