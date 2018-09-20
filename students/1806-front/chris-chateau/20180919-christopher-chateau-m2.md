@@ -2,7 +2,8 @@
 
 ## Areas of Emphasis
 
-My main goal for Mod 2 was to solidify my knowledge of JavaScript fundamentals (e.g. array prototypes, score, 'this' and recursion).  I also aimed to develop a basic understanding of React and create a fun, engaging game in the 'Game-Time' project.
+My main goal for Mod 2 was to solidify my knowledge of JavaScript fundamentals (e.g. array prototypes, score, 'this' and 
+recursion).  I also aimed to develop a basic understanding of React and create a fun, engaging game in the 'Game-Time' project.
 
 ## Rubric Scores
 
@@ -25,7 +26,7 @@ Although Mod 2 was extremely challenging, I leave as a significantly stronger an
 * [GitHub URL](https://github.com/christopherchateau/complete-me)
 * [Original Assignment](http://frontend.turing.io/projects/complete-me.html)
 
-I recieved positive feedback in my Complete-Me evaluation which involved white-boarding the process of creating a prefix trie as well as deleting the 'suggestion' method from my code and re-writing & explaining it. White-boarding in an evaluation was a new experience for me and I learned a lot.
+I received positive feedback in my Complete-Me evaluation which involved white-boarding the process of creating a prefix trie as well as deleting the 'suggestion' method from my code and re-writing & explaining it. White-boarding in an evaluation was a new experience for me and I learned a lot.
 
 ## C: Group Work & Projects
 
@@ -37,7 +38,7 @@ I recieved positive feedback in my Complete-Me evaluation which involved white-b
 * [GitHub Pages Link](https://christopherchateau.github.io/space-bunny/)
 * [Original Assignment](http://frontend.turing.io/projects/game-time.html)
 
-Space-Bunny was our take on the classic arcade game Frogger. Please submit screenshots of all hi-scores to ChristopherChateau@gmail.com for offical review.
+Space-Bunny was our take on the classic arcade game Frogger. Please submit screenshots of all hi-scores to ChristopherChateau@gmail.com for official review.
 
 * [evaluation feedback/scores](https://github.com/turingschool/front-end-submissions-public/blob/master/1806/mod-2/game-time/jessica-chris.md)
 
