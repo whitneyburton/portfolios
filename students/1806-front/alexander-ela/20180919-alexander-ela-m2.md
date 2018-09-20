@@ -2,8 +2,9 @@
 
 ## Areas of Emphasis
 
-1. 
-2.
+1. To become more comfortable with not understanding programming concepts at first and to better prevent myself from sinking into panic or despair as a result of comparing myself to other classmates.
+
+2. To develop more fluency with array prototype methods and with being more decisive with working in Javascript in general.
 
 ## Rubric Scores
 
@@ -28,12 +29,11 @@ The individual projects in this module consisted of two assignments, which consi
 * [GitHub URL](https://github.com/alexanderela/complete-me)
 * [Original Assignment](http://frontend.turing.io/projects/complete-me.html)
 
-(description)
+This assignment required me to develop and implement a system of logic based around complex data structures to devise an autocomplete feature for an application.
 
 ##### Evaluator: Nathaniel Foster
 ##### Evaluation: Comments
-
-(evaluation scores)
+My evaluator's comments were mostly positive, with him recommending that I complete a decent amount of refactoring of my code to make it more efficient.
 
 #### 2. React Static Comp
 
