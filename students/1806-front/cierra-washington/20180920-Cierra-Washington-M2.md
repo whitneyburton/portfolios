@@ -8,7 +8,7 @@ In this module I set out to become more confident as a problem solver, which I t
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: 3/4
+* **A: End-of-Module Assessment**: 3.1/4
 * **B: Individual Work & Projects**: 3/4
 * **C: Group Work & Projects**: 3.2/4
 * **D: Professional Skills**: 3.2/4
