@@ -54,7 +54,7 @@ Passed
     - Advanced Beginner
   - JS/jQuery
     - Advanced Beginner
-    
+------------------
 ### Static Comp #1
 
 #### GitHub Repo
@@ -71,15 +71,15 @@ Passed
   - Utilize Empty space better when breaking the page down.
   - Add icons to the buttons in the main content section.
 --------------    
-#### Static Comp #2
+### Static Comp #2
 
-##### GitHub Repo
+#### GitHub Repo
   - https://github.com/kayleenovak/kb-comp-challenge-2
   
-##### Original Assignment
+#### Original Assignment
   - http://frontend.turing.io/projects/m1-static-comp-2.html
 
-##### Overview
+#### Overview
   - Recreate the static comp provided with the integrity of the original design. There is no liberty with the layout, however there are liberties with the color pallette, icons, and pictures. The site must be responsive.
 
 #### Evaluation Comments
@@ -87,16 +87,16 @@ Passed
   - Add hover states to icons within the buttons instead of just the font
   - Buttons when in hover state should not move the content around it
   - In mobile view, have the logo take up more of the space
-  
-#### Static Comp #3
+-----------------------  
+### Static Comp #3
 
-##### GitHub Repo
+#### GitHub Repo
   - https://github.com/kayleenovak/kb-comp-challenge-3
   
-##### Original Assignment
+#### Original Assignment
   - http://frontend.turing.io/projects/m1-static-comp-3.html
 
-##### Overview
+#### Overview
   - Recreate the static comp provided with the integrity of the original design. There is no liberty with the layout, however there are liberties with the color pallette, icons, and pictures. The site must be responsive.
 
 #### Evaluation Comments
@@ -107,21 +107,19 @@ Passed
   - Try not to use position absolute on the icons
   - Don't use text align on non-text elements
   - Don't use !important
-
+---------------------
 ## C: Group Work & Projects
-
-### Projects
 
 (Intro)
 
-#### Linked List
+### Linked List
 
-##### GitHub Repo
+#### GitHub Repo
   - https://github.com/kayleenovak/Linked-List
-##### Original Assignment
+#### Original Assignment
   - http://frontend.turing.io/projects/linked-list.html
 
-##### Overview
+#### Overview
   - Build an application that takes two inputs, a website name and the website's URL, to create a bookmark which should be prepended to the page. Each bookmark should have a delete and marked as read button. The delete button should delete the associated bookmark, and the mark as read button should be marked as read when the associated button is clicked. The application should have a function that omits an incorrect URL. The application should have a "Clear Read Bookmarks" button which will change the read bookmarks back to unread bookmarks. 
 
 #### Evaluation Comments
@@ -151,15 +149,15 @@ Passed
     - Proficient
   - GIT and GitHub
     - Novice
+--------
+### IdeaBox
 
-#### IdeaBox
-
-##### GitHub Repo
+#### GitHub Repo
   - https://github.com/kayleenovak/IdeaBox
-##### Original Assignment
+#### Original Assignment
   - http://frontend.turing.io/projects/ideabox.html
   
-##### Overview
+#### Overview
   - 
 
 #### Evaluation Comments
@@ -177,15 +175,16 @@ Passed
     - 
   - JS/jQuery
     -
+---------------
+### 2DoBox
 
-#### 2DoBox
-
-##### GitHub Repo
+#### GitHub Repo
   - https://github.com/kayleenovak/2DoBox-Pivot
-##### Original Assignment
+  
+#### Original Assignment
   - http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html
 
-##### Overview
+#### Overview
   - 
 
 #### Evaluation Comments
@@ -206,7 +205,7 @@ Passed
     - Proficient
   - JS/jQuery
     - Advanced Beginner
-
+----------------
 ## D: Community Participation
 
 ### Playing a Part
