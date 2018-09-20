@@ -2,8 +2,8 @@
 
 ## Areas of Emphasis
 
-My main goal for Mod 2 was to solidify my knowledge of JavaScript fundamentals (e.g. array prototypes, score, 'this' and 
-recursion).  I also aimed to develop a basic understanding of React and create a fun, engaging game in the 'Game-Time' project.
+My main goal for Mod 2 was to solidify my knowledge of JavaScript fundamentals (e.g. array prototypes, scope, 'this' and 
+recursion).  I also aimed to develop a basic understanding of React and create a fun, engaging game with the 'Game-Time' project.
 
 ## Rubric Scores
 
@@ -17,7 +17,7 @@ recursion).  I also aimed to develop a basic understanding of React and create a
 
 ## A: End of Module Assessment
 
-Although Mod 2 was extremely challenging, I leave as a significantly stronger and more well-rounded developer. I loved the game-time project and its hands-on/visual nature. I enjoyed all of the positive feedback I received from friends and family. My partner Jessica and I were very proud to win first place at the student code fair. With that said, the Complete-Me project was very difficult for me. Working only in the terminal manipulating data was a new experience and something I'm still getting comfortable doing. Mod 2 pushed me, and I feel accomplished to be graduating to Mod 3.
+Although Mod 2 was extremely challenging, I leave as a significantly stronger and more well-rounded developer. I loved the game-time project and its hands-on/visual nature. I enjoyed all of the positive feedback I received from friends and family. My partner Jessica and I were very proud to win first place in our student code fair. With that said, the Complete-Me project was very difficult for me. Working only in the terminal manipulating data was a new experience and something I'm still getting comfortable doing. Mod 2 pushed me, and I feel accomplished to be graduating to Mod 3.
 
 ## B: Individual Work & Projects
 
