@@ -92,22 +92,23 @@ Assignment was to create a webapp where users could submit ideas, sort them, and
 
 `Evalulation Comments`
 
-- 
-- 
-- 
-- 
+- can add tags
+- really nicely done UI! A couple spots to polish: on the sticky header, have the product name stay visible as well as the  tags, and mobile have the tags be in a menu that can be collapsed so they don't hie all your cards!
+- one function handles upvote and downvote
+- make sure you both own the full codebase -- aim for equal contributions to JS and CSS
+- really, really well done!
 - [Full Comments](https://github.com/turingschool/front-end-submissions-public/blob/master/1808/mod-1/idea-box/hillary-jake.md)
 
 `Evaluation Scores`
 - Functional: <b>Exceptional</b>
-- Comp Recreation: <b></b>
-- HTML: <b></b>
-- CSS: <b></b>
-- JS: <b></b>
-- Git: <b></b>
-- Pairing: <b></b>
-- Technical Vocab: <b></b>
-- Suprise: <b></b>
+- Comp Recreation: <b>Proficient/Exceptional</b>
+- HTML: <b>Proficient/Exceptional</b>
+- CSS: <b>Proficient/Exceptional</b>
+- JS: <b>Proficient/Exceptional</b>
+- Git: <b>Proficient/Exceptional</b>
+- Pairing: <b>Proficient/Exceptional</b>
+- Technical Vocab: <b>Proficient/Exceptional</b>
+- Suprise: <b>Unicorns and Rainbows</b>
 
 #### TodoBox
 
