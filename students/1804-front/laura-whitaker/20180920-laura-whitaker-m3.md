@@ -51,8 +51,11 @@ App using the Star Wars API that allows users to favorite different people, plan
 
 App the displays the worst science fiction movies form the Movie DB API. Allows users to login, select and store favorites.
 
+## D: Professional Skills
 
-## D: Community Participation
+[Alumni Profile](https://alumni.turing.io/alumni/laura-whitaker)
+
+## E: Community Participation
 
 ### Playing a Part
 
