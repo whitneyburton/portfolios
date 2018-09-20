@@ -90,10 +90,16 @@ This module, I didn't pair with as many students as I did in mod 2, but I made s
 
 ## Final Review
 
+- **A: End-of-Module Assessment**: 3.5
+- **B: Individual Work & Projects**: 3.5
+- **C: Group Work & Projects**: 3.5
+- **D: Professional Skills**: 3.5
+- **E: Community Participation**: 3
+
 ### Notes
 
 ( Leave blank for reviewers )
 
 ### Outcome
 
-( Leave blank for reviewers )
+PASS
