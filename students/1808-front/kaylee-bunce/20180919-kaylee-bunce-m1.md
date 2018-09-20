@@ -6,7 +6,7 @@ Coming into Turing, I first and foremost wanted to make it through mod 1 success
 ## Rubric Scores
 
 * **A: End-of-Module Assessment**: 3
-* **B: Individual Work & Projects**: 3.2
+* **B: Individual Work & Projects**: 3
 * **C: Group Work & Projects**: 3
 * **D: Professional Skills**: 3
 * **E: Community Participation**: 3
