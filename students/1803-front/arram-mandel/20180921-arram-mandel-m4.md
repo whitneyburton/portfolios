@@ -13,3 +13,4 @@ The technologies learned this module has made me want to practice making servers
 Overall this course has taught me the basics of coding and to not be intimidated by new technologies. Repeatedly I've been baffled by the introduction to a technology, yet not even a week later I am using it to build an application with a solid basic understanding of what I'm writing. The first attempt means nothing. At the end of the day, there's nothing black magic about a framework and understanding the parts just takes time.
   
   
+<h2>30 Day Action Plan:</h2> https://gist.github.com/airum82/123d5b6115cadadf7179e949ca6ca568
