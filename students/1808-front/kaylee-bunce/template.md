@@ -54,6 +54,59 @@ Passed
     - Advanced Beginner
   - JS/jQuery
     - Advanced Beginner
+    
+#### Static Comp #1
+
+##### GitHub Repo
+  - https://github.com/kayleenovak/kb-comp-challenge-1
+  
+##### Original Assignment
+  - http://frontend.turing.io/projects/m1-static-comp-1.html
+
+##### Overview
+  - Recreate the static comp provided with the integrity of the original design. There is no liberty with the layout, however there are liberties with the color pallette, icons, and pictures. The site must be responsive.
+
+#### Evaluation Comments
+  - Pay attention to colors and their values compared to the section next to it.
+  - Utilize Empty space better when breaking the page down.
+  - Add icons to the buttons in the main content section.
+    
+#### Static Comp #2
+
+##### GitHub Repo
+  - https://github.com/kayleenovak/kb-comp-challenge-2
+  
+##### Original Assignment
+  - http://frontend.turing.io/projects/m1-static-comp-2.html
+
+##### Overview
+  - Recreate the static comp provided with the integrity of the original design. There is no liberty with the layout, however there are liberties with the color pallette, icons, and pictures. The site must be responsive.
+
+#### Evaluation Comments
+  - Pay attention to margins. All items along the edge of the pages should be lined up accordingly
+  - Add hover states to icons within the buttons instead of just the font
+  - Buttons when in hover state should not move the content around it
+  - In mobile view, have the logo take up more of the space
+  
+#### Static Comp #3
+
+##### GitHub Repo
+  - https://github.com/kayleenovak/kb-comp-challenge-3
+  
+##### Original Assignment
+  - http://frontend.turing.io/projects/m1-static-comp-3.html
+
+##### Overview
+  - Recreate the static comp provided with the integrity of the original design. There is no liberty with the layout, however there are liberties with the color pallette, icons, and pictures. The site must be responsive.
+
+#### Evaluation Comments
+  - Organize the social area at the bottom better in the smaller media queries
+  - Keep the toggle options expanded longer, and keep more options visible in the modile view
+  - Aria labels on buttons
+  - Aria label on search should explain more than just "search"
+  - Try not to use position absolute on the icons
+  - Don't use text align on non-text elements
+  - Don't use !important
 
 ## C: Group Work & Projects
 
