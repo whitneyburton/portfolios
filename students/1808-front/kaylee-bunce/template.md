@@ -1,9 +1,7 @@
 # Kaylee Bunce -  Portfolio
 
 ## Areas of Emphasis
-
-(What did you set out to accomplish this module?)
-Walking into Turing on the first day, I was immediately intimidated. Everyone was talking about how rigirous the program was, to front load as much as you can, and review notes and practice as much as possible. Throughout Mod 1 my goal was to soak up as much information while staying mentally, emotionally, and physically recharged in order to be ready to go each day. I knew I had to get on top of planning my weeks out accordingly. By delegating my time to areas with the most importance, and making sure that I had time for the outdoors.
+Coming into Turing, I first and foremost wanted to make it through mod 1 successfully. Successfully means several things including: soaking up and retaining as much information as possible, keeping myself physically and mentally recharged, and developing and implementing skills that will help throughout my time here at Turing and when I enter the workforce. I sought out to implement certain study habits on the weekends that helped me review the past week's lectures as well as pre-reading next week's lectures. I knew that time management and delegation was going to be important as I am know to jump around and get distracted very easily.
 
 ## Rubric Scores
 
@@ -17,7 +15,7 @@ Walking into Turing on the first day, I was immediately intimidated. Everyone wa
 
 ## A: End of Module Assessment
 
-Passed
+Pending
 
 
 ## B: Individual Work & Projects
@@ -210,7 +208,7 @@ Passed
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+
 
 ------------------
 
