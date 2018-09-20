@@ -72,7 +72,7 @@ SWAPI Box uses the Star Wars API to display information about the people, planet
 This project is working off the The Movie DB API. The idea of the project is to be able to sign in as a user and save favorite movies. Using Postgres as a backend, we set up a separate client-side application (use create-react-app), to sit alongside this one.
 
 ## C: Professional Skills
-* **[Turing Profile](https://www.turing.io/alumni/chris-boylen)**
+* **[Turing Profile](https://alumni.turing.io/alumni/chris-boylen)**
 
 ## E: Community Participation
 This session, I contributed to the community by pairing with Mod 2 students. These activities help solidify my own understanding of programming concepts and I love the community it promotes between mods. I hope to continue working collaboratively with my own classmates and the mods below me. 
