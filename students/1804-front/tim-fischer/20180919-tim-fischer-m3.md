@@ -64,11 +64,16 @@ Despite staying very preoccupied with my own personal work this mod I made an ef
 
 ## F: Professional Skills
 
-* [Alumni Portfolio](https://alumni.turing.io/alumni/tim-fischer
-)
+* [Alumni Portfolio](https://alumni.turing.io/alumni/tim-fischer)
 
 
 ## Final Review
+
+* **A: End-of-Module Assessment**: PASS
+* **B: Individual Work & Projects**: 3.5
+* **C: Group Work & Projects**: 3.5
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 4
 
 ### Notes
 
@@ -76,9 +81,4 @@ Despite staying very preoccupied with my own personal work this mod I made an ef
 
 ### Outcome
 
-( Leave blanks for reviewers )
-
-### Scores
-
-( Leave blanks for reviewers )
-
+PASS
