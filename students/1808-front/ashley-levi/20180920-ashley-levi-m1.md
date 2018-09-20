@@ -78,7 +78,7 @@ For this project we refactored someone else's code for the Ideabox bookmarking a
 * [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
 * [Evaluation Comments](https://github.com/turingschool/front-end-submissions-public/blob/master/1808/mod-1/to-do-box/ashley-matt.md)
 * Feedback from Matt: 
-No feedback from him yet.
+You really helped me understand parts of Javascript that I was having difficulty with, and I received more experience actually working with you together on a project as opposed to my previous pairings where a lot of work was done separately. You also helped build my confidence when I was feeling down about my Javascript skills. This was my favorite pairing out of this Mod. I was really happy with this pairing. All I can really say is having the opportunity to drive a little more and push up my branches and commits from my side would have given me some more experience and had our repository look less one sided. Maybe in the future it would be good to push more commits from your partners computer, and split the driver navigator relationship up a little more. Otherwise great job!!!!
 
 
 ## D: Community Participation
