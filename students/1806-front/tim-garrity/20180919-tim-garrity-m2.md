@@ -1,8 +1,8 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Tim Garrity - M2 Portfolio
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+This module I really set out to prove to myself that I could code something without being hand held through the entire process. There is definitely room to improve (always) but I feel like I have finally gotten my first taste of what it feels like to have something work and it be entirely my own doing. Of course, feedback will always be important but this skill of being able to accomplish a task independently was something I had struggled with.
 
 ## Rubric Scores
 
