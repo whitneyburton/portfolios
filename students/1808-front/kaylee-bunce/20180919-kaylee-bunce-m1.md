@@ -6,7 +6,7 @@ Coming into Turing, I first and foremost wanted to make it through mod 1 success
 ## Rubric Scores
 
 * **A: End-of-Module Assessment**: 3
-* **B: Individual Work & Projects**: 3.5
+* **B: Individual Work & Projects**: 3.2
 * **C: Group Work & Projects**: 3
 * **D: Professional Skills**: 3
 * **E: Community Participation**: 3
@@ -19,8 +19,6 @@ Pending
 
 
 ## B: Individual Work & Projects
-
-(Intro)
 
 ### Number Guesser
 
@@ -64,7 +62,7 @@ Pending
 #### Overview
   - Recreate the static comp provided with the integrity of the original design. There is no liberty with the layout, however there are liberties with the color pallette, icons, and pictures. The site must be responsive.
 
-#### Evaluation Comments
+#### Feedback
   - Pay attention to colors and their values compared to the section next to it.
   - Utilize Empty space better when breaking the page down.
   - Add icons to the buttons in the main content section.
@@ -80,7 +78,7 @@ Pending
 #### Overview
   - Recreate the static comp provided with the integrity of the original design. There is no liberty with the layout, however there are liberties with the color pallette, icons, and pictures. The site must be responsive.
 
-#### Evaluation Comments
+#### Feedback
   - Pay attention to margins. All items along the edge of the pages should be lined up accordingly
   - Add hover states to icons within the buttons instead of just the font
   - Buttons when in hover state should not move the content around it
@@ -97,7 +95,7 @@ Pending
 #### Overview
   - Recreate the static comp provided with the integrity of the original design. There is no liberty with the layout, however there are liberties with the color pallette, icons, and pictures. The site must be responsive.
 
-#### Evaluation Comments
+#### Feedback
   - Organize the social area at the bottom better in the smaller media queries
   - Keep the toggle options expanded longer, and keep more options visible in the modile view
   - Aria labels on buttons
@@ -108,7 +106,7 @@ Pending
 ---------------------
 ## C: Group Work & Projects
 
-(Intro)
+Projects to build collaboration skills while also learning to work efficiently and effectively in a collaboration setting. 
 
 ### Linked List
 
@@ -118,7 +116,7 @@ Pending
   - http://frontend.turing.io/projects/linked-list.html
 
 #### Overview
-  - Build an application that takes two inputs, a website name and the website's URL, to create a bookmark which should be prepended to the page. Each bookmark should have a delete and marked as read button. The delete button should delete the associated bookmark, and the mark as read button should be marked as read when the associated button is clicked. The application should have a function that omits an incorrect URL. The application should have a "Clear Read Bookmarks" button which will change the read bookmarks back to unread bookmarks. 
+  - Build an application that takes two inputs, a website name and the website's URL, to create a bookmark which should be prepended to the page. Each bookmark should have a delete and marked as read button. The delete button should delete the associated bookmark, and the mark as read button should be marked as read when the associated button is clicked. The application should have a function that omits an incorrect URL. The application should have a "Clear Read Bookmarks" button which will change the read bookmarks back to unread bookmarks. The application should keep the integrity of the original design.
 
 #### Evaluation Comments
   - Need many more small commits and branches for each feature
@@ -156,23 +154,14 @@ Pending
   - http://frontend.turing.io/projects/ideabox.html
   
 #### Overview
-  - 
+  - Build an application that takes two inputs, an idea title and an idea, and appends/prepends them to the DOM. Each idea should be an object that is accessible in localStorage. The idea should have a title, body, and a quality. The quality should have the ability to be updated throuhg upvote and downvote buttons. The new quality should be reflected in localStorage. Each idea should have a delete button that will not only delete it from the page, but also delete it from localStorage. The application should have a search bar that filters and only displays content that is being searched for. The application should keep the integrity of the original design.
 
 #### Evaluation Comments
-  - 
+  - Make sure you get all the fonts pulled in!
+  - Good attention to detail in the comp, refactor to have fewer media queries as the screen size breaks down
 
 #### Evaluation Scores
-  - Functional Expectations
-    - 
-  - Comp Recreation and Design
-    - 
-  - HTML
-    - 
-    - 
-  - CSS
-    - 
-  - JS/jQuery
-    -
+  - Eval scores not posted
 ---------------
 ### 2DoBox
 
@@ -183,7 +172,7 @@ Pending
   - http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html
 
 #### Overview
-  - 
+  - Take an IdeaBox project from a past student and refactor with guidelines. These guidelines include JS functions not exceeding 8 lines of code as well as keeping all the variables local. Once refactored, the application should have editable cards that once saved should updated to localStorage. Each ToDo card should have a button called "Completed Task" that will mark the task completed as well as update the task in localStorage. Each ToDo should have a level of imporatance that can be updated via upvote and downvote buttons. The updated importances should be updated in localStorage. The page should only show the 10 most recent ToDos and have a button that will expand to show all of the ToDos if clicked. There should be 5 buttons indicated each level of importance. If one of the buttons is clicked only the ToDos matching the importance of the buttons should be displayed.
 
 #### Evaluation Comments
   - Good naming conventions
@@ -208,7 +197,7 @@ Pending
 
 ### Playing a Part
 
-
+This mod I soaked up all of the help that I could get. It took a while for me to come out of my shell and really to start developing friendships within the mod as well as a few people from mod 2. There was a handful of times that I was able to share my knowledge with fellow classmates that were struggling, specifically on mythical creatures. I am looking forward to continuing to build relationships within Turing so that I can play a larger part in the community in my future mods. I am also very excited to help the new students in mod 1. I was so encouraged by several people from mod 2 during this mod. I want to be sure to spread the same encouragement that I received. 
 
 ------------------
 
@@ -216,8 +205,4 @@ Pending
 
 ### Notes
 
-( Leave blanks for reviewers )
-
 ### Outcome
-
-( Leave blanks for reviewers )
