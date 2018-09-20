@@ -35,7 +35,10 @@ What did you learn from your paired projects?
 ## Community
 
 What was your favorite Gear Up? Least favorite? Why?
-  
+  Favorite: Empathy
+    I was able to talk to my classmates about some things that often times seem taboo in the "real world". It was refreshing and insightful!
+  Least Favorite: 
+    I didn't really have a least favorite. They were all unique and interesting in their own right.
 How did you contribute to the Turing community this module?
   Worked with the mod 1 students to ensure that they were having a good experience academically as well as making sure that they fealt that they were part of the community.
 What would you like to do to contribute next module?
