@@ -81,5 +81,10 @@ This session, I contributed to the community by pairing with Mod 2 students. The
 
 Moving forward I plan to improve my problem solving process, communication and organization skills.  I look forward to improving my understanding and implementing databases, testing and working more efficiently with others. Over intermission I plan to spend more time with React while enjoying time with my family, while still maintaining healthy eating, sleeping, exercising, and studying habits.
 
-# Outcome:
-_Leave blank for instructors_
+# Outcome: PASS
+
+* **A: Individual Work & Projects**: 3.5
+* **B: Group Work & Projects**: 3.5
+* **C: Professional Skills**: 3.5
+* **D: Community Participation**: 3.5
+* **E: Final Assessment**: 3.5
