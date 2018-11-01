@@ -36,25 +36,6 @@ Your promotion to the next module is based upon a summative assessment coined "T
   4. Update placeholder text in your file.
   5. Commit your changes, push to your remote repo, and create a PR to this repo by 2:30p the day prior to your portfolio review.
 
-### Module 1 (Front-end)
-
-Your promotion to the next module is based upon a summative assessment coined the Pentathlon. The Pentathlon includes:
-  1. Individual Coding Challenge-A: Passing Score (Proficient in all areas) required
-  2. Individual Coding Challenge-B: Passing Score (Proficient in all areas) required
-  3. Final Project (Static Comp Challenge #3) -- Passing Score (Proficient in all areas) required
-  4. Comprehensive Quizlette: Passing Score (80% correct answers) required
-  5. Completed Portfolio
-
-Your completed portfolio is also comprised of the following required material:
-
-* Course Projects:
-  * Number Guesser
-  * Linked List or Foto Finder
-  * Idea Box
-  * 2DoBox Pivot
-
-You may optionally elect to include a status of "pass", "fail", "pending" for each of the individual Pentathlon challenges in your portfolio, but it is not required. Your instructors will send your Pentathlon challenge scores to you upon completion of those evaluations and in advance of portfolio reviews.
-
 ### Module 2 (Back-end)
 
 * Evaluation notes - You need to take notes during assessments/evaluations
