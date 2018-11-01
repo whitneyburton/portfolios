@@ -24,7 +24,7 @@ What were your favorite projects this module? Least favorite? Why?
 
 What did you learn from your independent projects?
 
-What did you learn from your paired projects?
+What did you learn from your paired/group projects?
 
 
 ## Community 
@@ -44,7 +44,13 @@ How has your posse expereince helped you grow as a professional?
 
 ## Self-Assessment Scores
 
-Fill in how you would grade yourself from 1-4 in the following categories this module.
+Fill in how **you** would grade yourself from 1-4 in the following categories this module.
+
+1. Below Standard
+2. Approaching Standard
+3. Meets Standard
+4. Above Standard
+
 
 | Category                     | Score |
 | -----------------------------| ----- |
@@ -52,5 +58,5 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 | **Group Projects**           |       |
 | **Professional Development** |       |
 | **Community**                |       |
-| **Final Written**            |       |
-| **Final Timed**              |       |
+| **Final Paired**             |       |
+| **Final Verbal**             |       |
