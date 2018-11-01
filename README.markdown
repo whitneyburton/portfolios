@@ -35,6 +35,10 @@ Your promotion to the next module is based upon a summative assessment coined "T
   2. Follow instructions in [Module 1 Portfolio Guidelines](http://backend.turing.io/module1/portfolios) to create your folder and M1 portfolio file.
   4. Update placeholder text in your file.
   5. Commit your changes, push to your remote repo, and create a PR to this repo by 2:30p the day prior to your portfolio review.
+  
+### Module 1 (Front-end)
+
+Your promotion to the next module is based on your success and progress over your pair project, group project, individual project, and final exam.
 
 ### Module 2 (Back-end)
 
